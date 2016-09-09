@@ -55,13 +55,10 @@ def k_means(data_arr, k=3):
                 if distance_i_j < cluster_and_distance[i, -1]:
                     cluster_and_distance[i] = [j, distance_i_j]
                     has_change = True
-        print(centroids)
         if has_change:  # 重新计算质心位置
             for centroid in range(len(centroids)):
                 current_centroid_data = data_arr[nonzero(cluster_and_distance[:, 0] == centroid)[0]]
-                print(len(current_centroid_data))
                 centroids[centroid, :] = mean(current_centroid_data, axis=0)
-        print('++++++')
     return centroids, cluster_and_distance
 
 
