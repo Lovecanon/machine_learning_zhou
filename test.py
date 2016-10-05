@@ -1,6 +1,6 @@
 from numpy import *
 
-d = zeros((5, 2))
-d[:, 0] = inf
-d[3] = [1, 2]
-print(random.uniform(0, 10, size=3))
+a = array([1, 2, 3, 1, 1, 1, 2])
+b = [1, 1, 1, 1, 1, 1, 1]
+len_a = len(a)
+print(a[range(len_a), b])
