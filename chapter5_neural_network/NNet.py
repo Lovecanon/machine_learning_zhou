@@ -91,7 +91,7 @@ def predict(model, x):
 def build_model(X, y, nn_hdim, num_passes=20000, print_loss=False):
     """
         生成一个指定层数的神经网络模型
-    :param X:  数据集
+    :param X:  200*2 数据集
     :param y:  类别标签
     :param nn_hdim: 隐藏层层数
     :param num_passes: 迭代次数
@@ -101,10 +101,10 @@ def build_model(X, y, nn_hdim, num_passes=20000, print_loss=False):
     num_examples = len(X)
     # 根据维度随机初始化参数
     np.random.seed(0)
-    W1 = np.random.randn(Config.nn_input_dim, nn_hdim) / np.sqrt(Config.nn_input_dim)
-    b1 = np.zeros((1, nn_hdim))
-    W2 = np.random.randn(nn_hdim, Config.nn_output_dim) / np.sqrt(nn_hdim)
-    b2 = np.zeros((1, Config.nn_output_dim))
+    W1 = np.random.randn(Config.nn_input_dim, nn_hdim) / np.sqrt(Config.nn_input_dim)  # 2*3 矩阵
+    b1 = np.zeros((1, nn_hdim))  # 1*3 矩阵
+    W2 = np.random.randn(nn_hdim, Config.nn_output_dim) / np.sqrt(nn_hdim)  # 3*2 矩阵
+    b2 = np.zeros((1, Config.nn_output_dim))  # 1*2 矩阵
 
     # This is what we return at the end
     model = {}
@@ -145,7 +145,6 @@ def build_model(X, y, nn_hdim, num_passes=20000, print_loss=False):
         # This is expensive because it uses the whole dataset, so we don't want to do it too often.
         if print_loss and i % 1000 == 0:
             print("Loss after iteration %i: %f" % (i, calculate_loss(model, X, y)))
-
     return model
 
 
@@ -158,8 +157,10 @@ def classify(X, y):
 
 def main():
     X, y = generate_data()
+    # Build a model with a 3-dimensional hidden layer
     model = build_model(X, y, 3, print_loss=True)
     visualize(X, y, model)
 
 if __name__ == "__main__":
+    # 代码参考@dennybritz
     main()
