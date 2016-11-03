@@ -4,29 +4,49 @@ from sklearn.datasets import load_iris
 
 def info_entropy(y):
     len_y = len(y)
-    unique_y, unique_y_counts = np.unique(y, return_counts=True)  # 此方法狠凶残
+    unique_y, counts_y = np.unique(y, return_counts=True)  # 此方法狠凶残
     entropy = .0
-    for i in range(len(unique_y)):
-        prob = unique_y_counts[i] / len_y
+    for c in counts_y:
+        prob = c / len_y
         entropy += -prob * np.log2(prob)
     return entropy
 
 
-def info_gain(pre_entropy, separate_y, num_y):
+def info_gain(pre_entropy, y, num_y):
     sum_entropy = 0
-    for y in separate_y:
-        len_y = len(y)
-        sum_entropy += (len_y / num_y) * info_entropy(y)
+    for sub_y in y:
+        sum_entropy += (len(sub_y) / num_y) * info_entropy(sub_y)
     return pre_entropy - sum_entropy
 
 
-def discrete_data(X):
+def discrete_data(X, y):
     num_features = X.shape[1]
+    n_class = len(np.unique(y))
     discrete_points = []
     for i in range(0, num_features):
-        mean_value = np.mean(X[:, i])
-        discrete_points.append(mean_value)
+        min_value = np.min(X[:, i])
+        max_value = np.max(X[:, i])
+        per_value = (max_value - min_value) / n_class
+        discrete_points.append([-np.inf, min_value + per_value, max_value - per_value, np.inf])
+    discrete_points = np.array(discrete_points)
     return discrete_points
+
+
+def best_feature(X, y, discrete_point):
+    root_entropy = info_entropy(y)
+    n_features = X.shape[1]
+    n_y = len(y)
+    temp_y = []
+    gain = -np.inf
+    best_feature_index = -1
+    for i in range(n_features):
+        for j in range(len(discrete_point[i]) - 1):
+            temp_y.append(y[X[:, i] < discrete_point[i, j+1]])
+        temp_gain = info_gain(root_entropy, temp_y, n_y)
+        if temp_gain > gain:
+            gain = temp_gain
+            best_feature_index = i
+    return best_feature_index
 
 
 class DecisionTree:
@@ -34,31 +54,15 @@ class DecisionTree:
         pass
 
     def fit(self, X, y, feature_names):
-        num_sample, num_features = X.shape
+        if len(feature_names) == 1:
+            print('last feature name:%s' % feature_names)
 
-        for j in y.shape[1]:
-            # pre_pruning
+        discrete_points = discrete_data(X, y)
+        best_feature_index = best_feature(X, y, discrete_points)
+        print('best_feature_index %s' % best_feature_index)
 
-            root_entropy = info_entropy(y)
-            discrete_points = discrete_data(X)  # 连续值需要离散化
-            separate_y = []
-            max_gain = 0
-            best_index = 0
-            for i in range(num_features):
-                separate_y.append(y[X[:, i] <= discrete_points[i]])
-                separate_y.append(y[X[:, i] > discrete_points[i]])
-                temp_gain = info_gain(root_entropy, separate_y, num_sample)
-
-                if temp_gain > max_gain:
-                    max_gain = temp_gain
-                    best_index = i
-                    print('X feature number %d, best_feature: %s' % (num_features, feature_names[best_index]))
-
-        if X.shape[1] == 1:
-            print('+++++Return')
-            return
-
-        X = np.delete(X, best_index, axis=1)
+        X = np.delete(X, best_feature_index, axis=1)
+        feature_names = np.delete(feature_names, best_feature_index, axis=0)
         self.fit(X, y, feature_names)
 
 
@@ -69,4 +73,3 @@ if __name__ == '__main__':
     y = iris_data.target
     dt = DecisionTree()
     dt.fit(X, y, feature_names)
-
