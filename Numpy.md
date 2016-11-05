@@ -22,36 +22,6 @@ y[arr > 3] = 1  # 将y数组中对应满足条件的索引元素设置成1
 ```python
 # [a[i] for i in range(len(a)) if a[i]!= 0 or i+1==len(a) or a[i+1] != 2]
 ```
-#### map/reduce
-* map
-```bash
->>> def f(x):
-...     return x * x
-...
->>> r = map(f, [1, 2, 3, 4, 5, 6, 7, 8, 9])
->>> list(r)
-[1, 4, 9, 16, 25, 36, 49, 64, 81]
-```
-* reduce 形如：reduce(f, [x1, x2, x3, x4]) = f(f(f(x1, x2), x3), x4)
-```bash
->>> from functools import reduce
->>> def add(x, y):
-...     return x + y
-...
->>> reduce(add, [1, 3, 5, 7, 9])
-25
-```
-* map/reduce
-```python
-from functools import reduce
-
-# 把str转换为int的函数
-def char2num(s):
-    return {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}[s]
-
-def str2int(s):
-    return reduce(lambda x, y: x * 10 + y, map(char2num, s))
-```
 
 * np.delete(arr, obj, axis=None)
 ```python
@@ -97,4 +67,35 @@ print(combine_xy)
 %g    指数(e)或浮点数 (根据显示长度)
 %G    指数(E)或浮点数 (根据显示长度)
 '''
+```
+
+### map/reduce
+* map
+```bash
+>>> def f(x):
+...     return x * x
+...
+>>> r = map(f, [1, 2, 3, 4, 5, 6, 7, 8, 9])
+>>> list(r)
+[1, 4, 9, 16, 25, 36, 49, 64, 81]
+```
+* reduce 形如：reduce(f, [x1, x2, x3, x4]) = f(f(f(x1, x2), x3), x4)
+```bash
+>>> from functools import reduce
+>>> def add(x, y):
+...     return x + y
+...
+>>> reduce(add, [1, 3, 5, 7, 9])
+25
+```
+* map/reduce
+```python
+from functools import reduce
+
+# 把str转换为int的函数
+def char2num(s):
+    return {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}[s]
+
+def str2int(s):
+    return reduce(lambda x, y: x * 10 + y, map(char2num, s))
 ```
