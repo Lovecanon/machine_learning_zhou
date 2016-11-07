@@ -1,0 +1,56 @@
+股价跌得“看不下去” 多家公司将实施回购_网易财经
+随着市场持续下跌，上市公司股价纷纷大幅缩水。对此，部分公司看不下去了，因股价与公司内在价值严重背离而计划实施回购，拟动用资金从亿级至10亿级不等。
+window.__STOCK_COMPONENT__.push([{code: '300032', type: 'SZ', tag: 'multi'},{code: '600337', type: 'SH', tag: 'multi'}]);
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+随着市场持续下跌，上市公司股价纷纷大幅“缩水”。对此，部分公司看不下去了，因股价与公司内在价值的“严重背离”而计划实施回购，拟动用资金从亿级至10亿级不等。今日，美克家居发布股份回购预案，公司拟以自有资金1亿至4亿元，以集中竞价交易方式回购股份，回购价格为不超过12元每股，回购的股份将予以注销。公司股票将于1月29日复牌，停牌前股价为11.44元每股。美克家居表示，受近期受股票市场下跌影响，公司股价与内在价值出现了严重背离，为增强投资者信心，树立良好的资本市场形象，基于对未来发展的信心以及对公司价值的认可，经综合考虑公司战略发展、经营状况、财务状况等因素，推出本次回购计划。据方案，美克家居此次回购的期限为自股东大会审议通过回购股份方案之日起不超过三个月，预计最大回购股份数量为3333万股，约占公司目前总股本的5.16%。记者注意到，美克家居2014年、2015年均曾实施过零星的回购，而其目前25倍左右的市盈率水平在同业公司中尚处于较低水平。此前有券商分析师指出，自2016年起，美克家居将重新开始进入门店和品牌扩张阶段，这有望成为其主要增长来源。除美克家居外，金龙机电今日亦宣布，因公司拟筹划回购股份事项，将于1月29日开市起停牌。虽然跌势尚不算创业板公司中最惨烈的，但金龙机电当前股价也已几乎只剩去年高点的三分之一，且公司2014年曾施行定增，有一定的“护价”动力。与金龙机电类似，1月19日公告回购预案的新湖中宝也有定增“经历”。据预案，新湖中宝拟以集中竞价交易方式回购公司股份，回购资金总额为10亿至20亿元，回购价格上限为5.2元每股，若全额回购预计可回购不少于38461.54万股，占公司目前总股本约4.23%。新湖中宝在其公告中表示，近期公司股票价格受宏观环境、行业环境和二级市场走势等多重因素影响波动较大，为树立投资者信心，维护投资者利益，经综合考虑公司的经营状况、财务状况与发展战略，公司决定拟以自有资金回购公司股份，并将相关事项及回购方案提交股东大会审议。而记者注意到，去年11月，新湖中宝完成定增，发行价即为5.2元每股，募资规模50亿元。而目前，新湖中宝股价仅为3.46元每股，若此时实施回购，则相当于上市公司以更低的价格，将定增所新增的股份买回来“注销”，有利于增厚每股收益水平。对所有股东来说，应该都是一桩“合算”的买卖。分析人士指出，上市公司启动社会公众股份回购计划将会直接减少注册资本，在营业收入和净利润不变的前提下增加每股收益，使得从财务报表看来公司业绩有所提升，能够起到稳定市场、恢复投资者信心的作用，并在一定程度上增加市场流动性，同时也传达出公司认为其股价被低估的信号。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+央行再稳流动性预期 公开市场增加操作场次
+股价跌得“看不下去” 多家公司将实施回购
+行业动态
+一号文聚焦农业现代化 布局农业供给侧改革
+29只个股震幅达15% 三角度挖掘绝地反击龙头股
+公司新闻
+"清仓"公司样本调查:易联众原实控人套现18.8亿
+中华企业持续亏损 上海地产集团资产注入添迷雾
+
+
+ 
+
+
+
+ 本文来源：上海证券报・中国证券网  作者：严翠
+责任编辑：钟齐鸣_NF5619

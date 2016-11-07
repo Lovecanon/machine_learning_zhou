@@ -1,0 +1,93 @@
+魔兽电影电视广告释出 全境封锁将有三条主线_爱玩网
+
+各位看官早上好，欢迎准时收看游戏早报。既然黑曜周一早上依然来公司干活，说明黑曜在寒潮中活了下来……
+
+
+
+
+
+
+
+暴雪新闻
+
+
+
+•《魔兽世界》电影首支电视广告释出
+
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/G/C/VBD7UJVGC.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/25/hoXrj2748/SD/hoXrj2748-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+魔兽世界电影电视广告
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+尽管离上映还有6个月，网上却已经释出了电影的首部电视广告。为我们展示了这部影片的一些新细节。
+主机快讯
+
+
+
+•《全境封锁》剧情解析
+
+
+
+
+
+
+
+
+根据育碧制作人在采访中放出的情报，《全境封锁》的剧情将由三条不同的主线构成。“这三条剧情的核心并不相同，第一个和病毒有关，究竟谁创造的它？为什么创造它？到底有没有一种有效的解药？第二条线则和城市中的不同派别以及他们的起源有关，此外还有我们反制他们的方法。最后一条主线则是城市基础设施的重建，还有一些现在我还不能透漏的内容。”制作人在采访中这样说道。
+
+•《星之海洋5》公布了一批新截图
+
+
+
+
+这次的截图非常清晰地展示了一些城市布局景色以及战斗的细节。不过说实话，老是放截图可能会让粉丝欲哭无泪，不过好消息是2月25日这款大作就将发售，如果不跳票的话。
+
+
+
+今天的游戏早报内容就是这些，我们明天再见。

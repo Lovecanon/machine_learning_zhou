@@ -1,0 +1,54 @@
+豪无巨星架子 父子球迷"钓鱼"方式得到库里签名_网易体育
+库里对待球迷时非常有耐心，这让他获得额外的人气。
+网易体育1月31日报道：随着库里近几年来的不断窜升，越来越多的球迷希望或者是已经得到了他的亲笔签名，但你可能从来没有看到过，有这样的一对父子球迷竟然是用一种“钓鱼”方式得到了这位超级巨星的签名。
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/N/L/VBDNBC6NL.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/31/OczmE9484/SD/OczmE9484-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+勇士球迷“钓”库里签名
+（来源：网易体育）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+在今天，库里领衔的勇士队将会在客场对阵费城76人队，而在昨天晚上（美国当地时间本周五）勇士队众将就已经来到了费城，当库里来到富国银行中心球场准备进行训练时，一对想要得到库里签名的父子球迷已经等在了那里，但由于场馆管理规定，这对父子球迷只能在高台上与库里对望。空间上的距离显然难不倒这对父子，他们仍然想办法得到了库里的签名。只见他们将一本封面是库里本人的《体育画报》和一件库里的球衣固定在了两个板子上，然后又用绳子将这两个板子从高台上顺了下来。而库里也非常配合，他分别在球衣和《体育画报》上签上了自己的名字，然后还不忘拿出手机跟拍缓缓被这对父子拉上去的这两个签名，显然，这一幕在库里眼里是值得被记录下来的。除了球场上技艺精湛之外，库里对待球迷之耐心也是出了名的，这也让这位巨星获得了额外的人气。当然，在今年夏天，库里在推特上也曾因此而表达过不满，当时一位狂热的球迷为了得到库里的签名跟踪了库里和他的家人近30英里。当时库里在推特上这样写道：“广而告之。无所顾及的在路上跟踪我和家人的车近30英里，这完全不是索要一个签名的最佳方式。”看来，球迷们想要得到偶像的签名，还需要想出一个即娱己又娱人的办法，就像这对父子球迷这样。
+本文来源：网易体育  作者：赵不传
+责任编辑：周峻涛_NS4573

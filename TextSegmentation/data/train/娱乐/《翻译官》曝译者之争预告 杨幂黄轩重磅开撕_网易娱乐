@@ -1,0 +1,54 @@
+《翻译官》曝译者之争预告 杨幂黄轩重磅开撕_网易娱乐
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/6/H/VBCTROG6H.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/21/bIsSj3549/SD/bIsSj3549-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《翻译官》“译者之争”预告
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+网易娱乐1月21日报道 近日，根据缪娟同名小说改编，王迎执导，洪靖惠、滕洋编剧，由上海剧芯文化、乐视网、嘉行传媒共同出品的高端精英职场甜爱大剧《翻译官》，对外曝光了首支先导预告片“译者之争”和主题剧照。 在节奏紧张的预告片中，杨幂黄轩新年重磅开撕 ，相爱相杀。杨幂饰演的乔菲与黄轩饰演的程家阳两人跨国交锋，唇枪舌剑的对峙火药味浓重，针锋相对中刀光剑影，让人看了心潮澎湃，血脉喷张。杨幂挑战“少女学霸”知性励志   黄轩“国民初恋”变脸“霸道人魔”《翻译官》“译者之争”先导预告片中，杨幂饰演的优秀瑞士交流生乔菲与黄轩饰演的冷面禁欲系翻译官程家阳在瑞士相遇，但是他们之间并没有擦出浪漫的爱情火花反而结下一段“虐缘”。当程乔再次相遇时，程家阳与乔菲的相虐相爱之旅便开启了新篇章。杨幂饰演的乔菲虽然是一位“受虐实习生”，但永远满满都是正能量，坚韧自强，杨幂的表演张弛有度，收放自如，当小宇宙爆发时"程人魔”招呼黄轩也是铿锵有力。而黄轩也丝毫不示弱，面对杨幂的挑衅宣战，欣然接招，在结尾处那狡黠傲娇的冷笑，让人汗毛竖起又爱又恨，一位霸道腹黑的高级翻译官即视感，撩妹指数爆表。杨幂和黄轩两人过招较量的悬念，相爱相杀的暧昧，爆点满格，让人欲罢不能。《翻译官》打造高规格欧式优雅    “美颜轰炸”上演正装大秀电视剧《翻译官》是一部首次聚焦国内高级翻译人群，讲述其生活、职场、爱情的电视剧，预告片中杨幂黄轩出场时呈现了一小部分瑞士的风貌，精美优雅充满欧式风情，该剧在拍摄之初就获得了瑞士驻华使及瑞士国家旅游局的高度看好和肯定，为了打造高规格的唯美景象，多方位的还原和呈现高级翻译的生活状态，剧组赴瑞士多地取景拍摄，将为观众呈现一部唯美浪漫的欧式优雅之作。预告片中，无论是杨幂饰演的高翻院实习生乔菲还是黄轩饰演的高级翻译程家阳，时刻都在上演着一场正装出场大秀，杨幂的知性装扮性感优雅，黄轩的西装秀更是印证了西装对于男人的重要性，预告片展现的杨幂和黄轩的正装造型甚是养眼。
+
+ 
+据悉，该剧定于2016年湖南卫视浪漫开播，届时杨幂、黄轩将携高伟光、周奇奇、李溪芮、张云龙等一众“高翻天团”强势来袭，一场美颜大轰炸即将上演。来网易云阅读看《翻译官》
+
+ 本文来源：网易娱乐  
+责任编辑：冷雪_NK4164

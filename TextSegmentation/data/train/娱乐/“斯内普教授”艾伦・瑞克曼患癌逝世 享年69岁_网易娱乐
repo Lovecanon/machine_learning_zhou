@@ -1,0 +1,57 @@
+“斯内普教授”艾伦・瑞克曼患癌逝世 享年69岁_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2011/7/F/H/V789722FH.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib2/2011/7/E/D/E789706ED-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《哈七(下)》特辑之斯内普
+（来源：网易娱乐）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月14日报道 英国著名演员艾伦・瑞克曼（Alan Rickman），1946年2月21日出生于伦敦，2016年1月14日因癌症逝世，享年69岁。消息一出，令世界为之震惊和哀伤。瑞克曼被中国观众所熟知是在根据J.K.罗琳（J.K.Rowling）所著的《哈利・波特》改编的系列电影中扮演阴险的而又伟大的“双面间谍”――魔法学校教授西弗勒斯・斯内普一角。个人资料：
+
+ 
+艾伦・瑞克曼（Alan Sidney Patrick Rickman），1946年2月21日生于伦敦汉默史密斯，英国皇家艺术戏剧学院副主席，舞台剧演员、电视演员、电影演员、导演、编剧、经理人、配音员。英国最多才多艺的舞台剧演员和影视演员之一。艾伦・瑞克曼曾先后提名或荣获英国电影学院奖、托尼奖（戏剧）、金球奖（电影电视）、艾美奖（电视剧）等重要奖项的演员荣誉，1995年被《帝国》（Empire）杂志选为“电影史上100位最性感的影星”第34位，1997年再次被评为“有史以来最杰出的100位影星”第59位。2015年，艾伦・瑞克曼与相识相伴了五十年的女友Rima Horton正式成婚。
+
+ 本文来源：网易娱乐  
+责任编辑：王玉玲_NK2809

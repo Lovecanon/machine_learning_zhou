@@ -1,0 +1,61 @@
+废土建筑师的奇迹！《辐射4》PS4玩家搭建伊甸园之塔_爱玩网_网易
+
+《辐射4》中最有趣的一点就是玩家在捡垃圾之余，可以建造自己的定居点，然后邀请那些平民百姓们来此居住，避免受到那些异变生物和强盗们的威胁。甚至有人调侃这是《我的世界》的废土版MOD。
+404视频网站YouTube上一位叫做Jug的玩家在自己的PS4上建造出了这个宏伟的“伊甸园之塔”。记住，他用的是PS4，也就是说没有作弊码、没有控制台也没有MOD。你尝试过在《我的世界》的生存服里大建过吗？那么你可以试试看。
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/P/5/VBD8GRPP5.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/25/dOlkI1679/SD/dOlkI1679-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《辐射4》最强建筑伊甸之塔
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+他在视频中除了展示自己的成品之外，还有一部分建造的过程。你可以看到他是如何利用那些材料并搭建出这样的建筑物。《辐射4》的建筑工程师们，以后又将给我们带来怎样的惊喜呢？消息来源自GameRadar。
+
+ 
+
+
+ 本文来源：爱玩网     作者：超昂草莓
+   责任编辑：刘霄_NG2531

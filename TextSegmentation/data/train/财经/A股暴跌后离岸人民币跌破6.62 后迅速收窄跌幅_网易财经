@@ -1,0 +1,29 @@
+A股暴跌后离岸人民币跌破6.62 后迅速收窄跌幅_网易财经
+
+网易财经1月26日讯 周二，两市低开低走，午后持续跳水，沪指先是击穿2850点的“股灾底”，随后更是一溃千里。截至收盘，沪指跌6.42%，报2749.79点，创2014年12月以来的新低，深成指跌6.96%，创业板指大跌7.63%。两市上涨个股不足百只，2500余股下跌，股灾期间出现的千股跌停现象再现。window.__STOCK_COMPONENT__.push({code: '000001', type: 'SH_INDEX', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+A股暴跌后，离岸人民币一度跌破6.62，后迅速收窄跌幅，现报6.61。
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：惠杨_NF5623

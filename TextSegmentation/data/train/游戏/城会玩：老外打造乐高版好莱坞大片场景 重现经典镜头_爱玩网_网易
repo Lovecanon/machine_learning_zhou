@@ -1,0 +1,93 @@
+城会玩：老外打造乐高版好莱坞大片场景 重现经典镜头_爱玩网_网易
+
+在2015年卖座的好莱坞电影大片有不少，《侏罗纪世界》、《复仇者联盟2：奥创纪元》、《星球大战：原力觉醒》等等都有一席之地，相信大家也都看过不少，但是你可能从未见过它们的“乐高版”。据美国“商业内幕”网站报道，安德烈（Andrea）与安东尼奥・托斯卡诺（Antonio Toscano）兄弟拥有自己的Youtube频道，专门使用乐高玩具重现热门电视剧或电影大片中的经典场景。
+他们最近发布了新视频，利用乐高玩具重现2015年票房收入最高的电影中的经典场景，比如《星球大战7：原力觉醒》、《疯狂的麦克斯：狂暴之路》等，并通过巧妙的剪辑，将这些片段浓缩成了一部精彩的短片。一起来看看你能认出其中几部电影吧！
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/9/D/VBCUDJG9D.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/21/iMrVw2922/SD/iMrVw2922-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+老外打造乐高版好莱坞大片场景
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+本文来源：国际在线
+        .cpw-include { width:720px; margin:50px auto; padding:20px 10px;}
+        .cpw-include a,
+        .cpw-include a:visited { text-decoration:none; color:#333; }
+        .cpw-include a:hover { color:#f0454d;}
+        .cpw-include .cpw-link { height:220px; background:url(http://img1.cache.netease.com/game/gamezone/images/cpw-bg.jpg) no-repeat center 0; position:relative;}
+        .cpw-include .cpw-link a { width:200px; height:200px; position:absolute; left:50%; top:0; margin:0 0 0 -100px;}
+        .cpw-images-list { background:#fafafa; padding:20px 0 0; }
+        .cpw-images-list li { float:left; padding:0 10px;}
+        .cpw-images-list li a {}
+        .cpw-images-list li a img { width:340px;}
+        .cpw-images-list li a span { line-height:30px; display:block; border-left:5px solid #f14453; padding:0 0 0 10px; margin:10px 0 0;}
+        .cpw-articles-list { padding:20px 0; background:#fafafa; }
+        .cpw-articles-list li { width:340px; padding:0 10px; float:left; position:relative;}
+        .cpw-articles-list li i { width:5px; height:5px; background:#dbdbdb; position:absolute; left:10px; top:12px;}
+        .cpw-articles-list li:hover i { background:#f0454d;}
+        .cpw-articles-list li a { line-height:30px; display:block; font-size:12px; padding:0 0 0 15px;}
+    
+
+
+
+
+
+日本长发Coser直播洗澡 一转身都懵了！
+占卜师一句话 印度7岁男童被迫和狗"结婚"
+
+
+城会玩：防范诈骗！女学霸接诈骗电话轻松被骗70万
+城会玩：哈尔滨现在到底有多冷 打个喷嚏当暗器用？
+城会玩：变身成为洛克人！卡普空将出货真人限量版头盔
+城会玩：印度4岁女童被卷入车底 竟毫发无伤奇迹生还
+城会玩：老外打造乐高版好莱坞大片场景 重现经典镜头
+城会玩：美国一角硬币错印压在钉子上 拍卖价4.2万美元
+
+
+
+ 
+
+
+ 本文来源：爱玩网     作者：Alive
+   责任编辑：谢志航_NG2612

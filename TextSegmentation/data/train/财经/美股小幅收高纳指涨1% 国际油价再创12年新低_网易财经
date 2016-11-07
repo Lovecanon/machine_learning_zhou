@@ -1,0 +1,56 @@
+美股小幅收高纳指涨1% 国际油价再创12年新低_网易财经
+
+window.__STOCK_COMPONENT__.push({code: 'NASDAQ', type: 'US_INDEX', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月13日讯 美股周二(1月12日)收高，道琼斯工业平均指数上涨117.65点，报16516.22点，涨幅为0.72%；标准普尔500指数上涨15.01点，报1938.68点，涨幅为0.78%；纳斯达克综合指数上涨47.93点，报4685.92点，涨幅为1.03%。国际油价再创12年新低，美国油价一度跌破30美元，拖累能源股普遍下滑。WTI 2月原油期货盘中一度跌破每桶30美元关口，为2003年12月以来首次出现。随后小幅反弹，至收盘下跌3.1%，报每桶30.44美元，录得连续第七个交易日收跌，创2014年夏季以来最长下跌周期。布伦特原油期货收跌2.19%，报每桶30.86美元。有恐慌指数之称的芝加哥期权交易所（CBOE）波动性指数（VIX）下降7.45%，报22.49，仍高于20的长期平均水平。经济数据方面，美国12月NFIB中小企业乐观程度指数为95.2，预期为95.0，前值为94.8。美国1月IBD消费者信心指数47.3，预期47.5，前值47.2。美国1月5日当周ICSC-高盛连锁店销售年率为1.4%，前值为2.8%；美国1月5日当周ICSC-高盛连锁店销售年率较上周增长2.3%，前值为2.8，预期值为1.4。美国劳工部数据显示，美国11月JOLT职位空缺543.1万，低于预期的545万，10月数值从538.3万下修至534.9万。JOLTS数据是美联储主席耶伦高度关注的劳动力市场指标，最新数据表明美国劳动力市场持续复苏。美联储发布12月FOMC决议之前的贴现利率会议的会议纪要。根据会议纪要，地方联邦储备银行的董事们在12月份会议上指出经济增长“温和”，而且不同行业和不同地区的经济报告显示出好坏参半的状况。会议纪要显示，在12月3日至10日期间召开的会议上，12家地区联储银行中有10家建议提高对商业银行直接贷款的利率，建议从0.75%上调至1%；美联储理事会在12月16日的会议上批准上调贴现率。明尼阿波利斯联储和纽约联储的董事会批准从12月17日开始上调。美联储莱克表示，美联储在2016年可能至少需要加息四次。个人希望在利率问题上美联储没有落后于市场。目前还看不到通胀压力。美国股市2015年对中国股市大跌反应过度，中国经济增速仍然迅猛。坚定看空美股的法国兴业银行（法兴）分析师Albert Edwards新近预计，美股还会在当前基础上跌约65%。Edwards是法兴全球策略师，在业内以看空闻名。昨日他在伦敦公布了以上预测，其理由是美国工业生产根基不稳，可能已经体现开始衰退的苗头，而这是美股牛市的利空消息。个股消息方面，美国铝业（Alcoa）周一收盘后公布调整后的四季度盈利超出华尔街分析师的平均预期，但是营收低于预期。该公司还将宣布与通用电气达成15亿美元的长期供给合作合约。Lululemon Athletica Inc上调第四季度财报数据前瞻指引，或得益于节日营销增长刺激。外围股市方面，亚太股市普遍下跌，沪指收涨0.2%报3022.86点。香港恒生指数收盘下跌0.89%，报19711.76点，刷新2012年9月来低点。日经225指数收盘下跌2.71%，报17218.96点。韩国首尔综指收盘下跌0.21%，报1890.86点。欧洲股市周二(1月12日)上涨，受助于零售商及其他行业企业的消息强劲带动，但因油价大幅下挫而脱离稍早高位。泛欧绩优股FTSEurofirst 300指数收高1%，报1349.16点，结束四日连跌，但低于日高1362.16点。英股富时100指数收高0.98%，报5929.24点，法股CAC指数大涨1.53%，报4378.75点。德国DAX指数劲扬1.63%，报9985.43点。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+保监会：支持保险企业参与养老金入市管理
+新年央企重组大戏：中建材与中材筹划重组
+行业动态
+国务院定调推开营改增 金融等四行业影响一览
+环保投资十三五将迎高峰 并购潮还将持续（股）
+公司新闻
+西宁特钢再度下调增发规模 国华人寿退出认购
+福瑞股份专利保卫战胜诉 海斯凯尔存不正当竞争
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：余顺遂_NF5724

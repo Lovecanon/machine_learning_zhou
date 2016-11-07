@@ -1,0 +1,54 @@
+"美人鱼"曝特辑 周星驰亲授"演员自我修养"_网易娱乐
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/R/R/VBD03C1RR.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/22/FTGgd9261/SD/FTGgd9261-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+电影《美人鱼》特辑“喜剧之王培训班”
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+网易娱乐1月22日报道 周星驰电影《美人鱼》将于2月8日大年初一贺岁归来，今日片方再献惊喜，曝光首支制作特辑：“喜剧之王培训班”。特辑中周星驰导演亲自上阵过戏瘾，为邓超、罗志祥、张雨绮、林允以及李尚正、田启文现场说戏，传授“演员的自我修养”。对于久未在大银幕上看到星爷身影的影迷来说，此支特辑尤为难得。至于从“喜剧之王培训班”顺利“毕业”的《美人鱼》“大家族”在影片中将有如何表现，也成备受期待的亮点。《美人鱼》重启“喜剧之王培训班” 周星驰亲授“演员自我修养”继周星驰携手莫文蔚郑少秋的《世间始终你好》MV唤起集体情怀，今日《美人鱼》再发首支制作特辑：“喜剧之王培训班”，与1999年的周星驰作品《喜剧之王》相呼应。此次曝光的特辑中，最让影迷激动的当属星爷为演员说戏亲身上阵的表演。正所谓“不会说戏的演员不是好导演”，《美人鱼》在拍摄过程中，星爷对影片的呈现非常严格，每一个动作，“特别是表情”都要做到最满意，因此常常亲力亲为。而在片场偶尔重拾演员身份的星爷举手投足也演技尽显。“这个不就是一条咸鱼吗？”“周星星”的喜感形象立马上身，以至于有网友表示只看特辑中星爷的表演就要激动到眼眶湿润了。星爷对影片品质的坚持也体现在细节毫不放松的态度上，尤其在强调“最重要的是表情”时，让人不禁想到《喜剧之王》里表情“可以有好几种”的经典桥段。周星驰也曾在接受采访时表示：“做演员每一部戏只能演一个角色，而自己导演的话，就等于演了影片中的每一个角色。”此番特辑更是将星爷现场表演与电影最后的呈现结合，让电影的每一个画面都仿佛有着周星驰的身影，精彩的同时亦彰显纯正的周氏电影气质。众演员与星爷合作“受益良多”  课后表现初一检阅特辑中《美人鱼》的一众演员也纷纷表达了自己经历“喜剧之王培训班”后的心路历程。此次饰演八爪鱼的罗志祥表示：“要达到导演的分数必须要做好几次，辛苦但是好玩”。吴亦凡也透露影片中的每一条都是经过星爷很多次的筛选，才找出最好的。而如此严苛的标准在二度合作的张雨绮看来则是“给了演员无限度的挑战”。尤其是此前以警官形象亮相的“最佳画手”李尚正更是真情流露：“导演让我们受益良多，谢谢你！”一句话也表达了《美人鱼》众主创的心声。至于星爷对各位演员的表现是否满意，坐在监视屏后的他频频被逗笑的画面似乎给出了答案，同时也令人更加好奇：能把周星驰都逗笑的戏，究竟会是怎样的存在？
+
+ 
+此前发布会上周星驰曾被郑少秋现场点赞：“他就像一位神奇大厨，通过他的搭配所有菜式都有新味道”。此次《美人鱼》中演员们在星爷“调教”下的表现又将如何，也着实令人期待。而这一道特调的大餐，将在猴年初一由“食神”本尊周星驰亲手端上。随此次特辑，亦公布了一组《美人鱼》“崭露头角”版海报。此番物料依然保持星爷“犹抱琵琶半遮面”之风格，邓超、罗志祥、张雨绮、林允合体，从浴缸中探出“人鱼头”，半遮半掩的神秘感可谓吊足影迷胃口。随着猴年春节的临近，于2月8日大年初一上映的电影《美人鱼》也即将作为新年第一份大礼与观众见面。
+
+ 本文来源：网易娱乐  
+责任编辑：高佳亮_NK1733

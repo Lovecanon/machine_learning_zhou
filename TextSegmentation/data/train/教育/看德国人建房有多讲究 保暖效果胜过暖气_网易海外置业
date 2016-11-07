@@ -1,0 +1,357 @@
+看德国人建房有多讲究 保暖效果胜过暖气_网易海外置业
+
+德国一对年轻夫妻准备育儿，于是建造新房。这栋德国自建别墅，长10.23，宽9.35；地下一层，地上两层；充分利用空间，打造出高品质合理的居住空间，其最大亮点就是墙体使用的是蒸压加气混凝土砌块墙体，保温、隔音、抗渗透，防火性好；我们一起来看看整栋房屋的建造过程。都说德国人的做事效率高又严谨。
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+被动式房屋，也即冬天不用加热，夏天不用空调的房屋，是德国提出的概念，目前已经发展到全世界。同时，他们不光保温技术领先，房屋建造速度也非常快，最快一天，最长一个月也可以拎包入住。这就是预制房屋的魅力，所有构件在工厂生产完成，工地直接拼装。
+延伸阅读：德国人1天建成两层别墅 中国又被完爆了
+小编以前一直以为，只有中国人民才会为物价所累，一直吐槽吐槽再吐槽。没想到德国人民也有跟我们一样的时候。这些年，德国物价也不断上涨，德国人怨声四起，各种喷血吐槽。自2000年起，食品价格平均上涨27%。今天小编就来对比一下中德两国的物价，看看哪国人民需要更拼一点才能过上幸福快乐的生活。
+延伸阅读：中德物价大比拼：中国造服装在德国最便宜
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1德国慕尼黑优雅居所
+ 2300000
+
+
+ 
+TOP 1ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+ 196000
+
+
+ 
+TOP 2洛杉矶奇诺岗 4卧3卫 奢华尊享紧邻学区 独栋别墅
+ 583900
+
+
+ 
+TOP 3纽约长岛豪华精致学区别墅Roslyn Heights1718949
+ 1098888
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

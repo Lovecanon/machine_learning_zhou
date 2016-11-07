@@ -1,0 +1,56 @@
+慧球科技董事长回应爆仓事件：我对股价不敏感_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '600556', type: 'SH', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+1月19日的一份“爆仓”公告将慧球科技及其董事长顾国平推到了业界舆论中心，这起备受关注的“强平”案令该股的投资者颇为惊慌。19日当天开盘，公司股价便“一字板”跌停，随即公司在午盘紧急停牌并宣布筹划资产重组。然而就算停牌也挡不住风波不断，21日再次传出顾国平另一支资管产品也已达到平仓线，上交所也同时发来问询函。沉默了数天之后，顾国平在上海接受了上海证券报记者的采访，对爆仓事件进行了详细说明。关于增持承诺上海证券报：此次“爆仓”事件市场反应强烈，投资者普遍对你本人的财务状况表示担忧，你是否还能完成1月8日公告的增持承诺？顾国平：爆仓的直接原因更多是沟通和程序上的问题，而我个人的财务状况并没有出现什么大问题。这段时间我通过资管计划增持慧球科技股票的资金都是我个人的，增持的股份都没有做质押，其中一个资管计划仍有上亿资金未动用；此外，我20日也对其中一个临近平仓线的资管产品补仓了2000万，因此完成1月8日公告的3个月内增持394.79万股（不低于总股本1%）问题不大。关于增持策略上海证券报：我们注意到，你通过资产管理计划增持慧球科技的价格一次比一次高，增持均价达到了25.45元/股，高位加杠杆事实上也是导致此次爆仓的主要原因之一，为什么采取这样的增持策略？顾国平：说实话，我本人对A股二级市场并不是很熟悉，我只是制定了增持比例的目标，同时按照做实业的模型来增持，想快速处理好慧球科技净资产缺失的问题，对股票价格并不十分敏感。关于收入来源上海证券报：慧球科技目前的智慧城市业务事实上是建立在上海斐讯通信的基础上的，而你的主要收入来源也是斐讯，斐讯的经营情况如何？顾国平：从2009年到2014年，斐讯营业额从0.56亿元增长到了100亿，期间营收平均年度增速超过200%。2015年斐讯的营收预计将突破120亿，净利润10亿以上，在2015年上海市工业税收排行榜上，斐讯贡献了2.43亿的地方税收，排名第71。此外，斐讯去年9月还完成了对美国纳斯达克上市公司UT斯达康30%股权的收购，耗资7500万美金。关于公司转型上海证券报：爆仓事件对慧球科技的转型会否造成影响？顾国平：慧球科技前身是北生药业，众所周知公司的重组经历了多次失败，但从我们确定转型智慧城市之后，还是取得了一些成绩。公司2015年净利润预增724%-889%，并且目前签了多个城市和地区的智慧城市合作协议，总投资规模达到200亿，部分项目已经开始实施。而在2014年12月，我个人还为上市公司提供了近两亿元的借款，支持公司业务开展，并在2015年12月豁免了公司2500万元的债务；2016年1月，我个人又向慧球科技赠予了价值近6000万的房产。这些努力，都是为了改善上市公司的基本面，逐步恢复公司的融资功能。爆仓事件稍微打乱了我们推进的节奏，但我们原定的计划并没有改变，慧球科技转型智慧城市还在稳步推进中。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+李源潮:将加强股市监管 方星海亮出监管底牌
+基金四季报：撤离金融 停牌前套现3亿股万科
+行业动态
+中沙能源合作促核电出海 机构热捧应流股份等7股
+多层面细解春节概念 三大板块或成反弹先锋
+公司新闻
+金宇车城逐热门资产失利 高管连辞打定增擦边球
+宏磊股份遭神秘人接盘 原实控人套现35亿离场
+
+
+ 
+
+
+
+ 本文来源：上海证券报・中国证券网  作者：高山
+责任编辑：钟齐鸣_NF5619

@@ -1,0 +1,56 @@
+复星叫卖外滩金融中心股权 曾与SOHO发生过纷争_网易财经
+
+window.__STOCK_COMPONENT__.push([{code: '00656', type: 'HK', tag: 'multi'},{code: '00410', type: 'HK', tag: 'multi'}]);
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+与潘石屹的项目纠纷刚结束，复星集团就开始叫卖外滩金融中心BFC项目股权了。据知情人士透露，复星此番兜售BFC整体股权预计达49%，多家意向买家都在询价，报价还未给出，但价格预计超过100亿。外滩金融中心，一直被复星集团董事长郭广昌十分重视，目前外滩金融中心已经完成结构封顶与部分招商，预计在2016年下半年正式开业。上述人士称，在项目整体开发结束之际，复星希望通过出售部分股权，回笼资金，从投资的角度而言，并不奇怪。事实上，早在2015年，复星方面就有意把项目中一栋办公楼7万平方米的办公楼出售，报价10万/平方米。外滩金融中心CEO吴洋透露，目前复星方面已经暂停这一整栋写字楼的出售。上述人士称，停止整栋办公楼销售，预计也是和项目整体股权出售有关。对于出售外滩金融中心的消息，复星方面拒绝作出进一步回应，只表示一切以公告信息为准。外滩金融中心BFC，即外滩 8-1地块，由上海证大于2010年斥资92.2亿元购得。后因为资金压力，2011年11月，上海证大以95.7亿元的价格，将外滩8-1地块的项目公司――上海证大外滩国际金融服务中心置业有限公司，出售给海之门。海之门由复星国际、上海证大、绿城及上海磐石分别持有50%、35%、10%和5%股权，海之门对应的全部资产即外滩金融中心。2011年底，SOHO中国宣布斥资40亿元，从上海证大、绿城、上海磐石手中，购得海之门50%股权。此后，复星与SOHO中国在外滩金融中心的股权问题上陷入纷争。持有海之门另外50%股权的复星认为，该公司对海之门剩余股权有优先认购权，但上海证大、SOHO中国和绿城中国对此持有异议。双方此后“口水”不断，直至升级为民事诉讼。复星一审被判胜诉后，SOHO联合绿城、证大再次提出上诉。至今，二审法庭宣布调解后仍未有结果。2014年10月15日，复星宣告，外滩金融中心结构封顶。整个项目的总投资（含地价）已超过130亿元。2015年9月23日，SOHO中国公告称，海之门以代价人民币84.93亿元向其股东之一浙江复兴出售证大外滩全部股权，及据此与浙江复兴订立股权转让协议。历经四年的股权纠纷，终究以复星方面低价回购股权结束。复星在外滩金融中心投资被曝巨大，2014年10月复星宣告，外滩金融中心结构封顶。整个项目的总投资（含地价）已超过130亿元。吴洋表示，2011年，外滩金融中心地块价格就已经达到92亿元，楼板价接近4万/平方米，至今该项目仅地价预计已经高达7-8万/平方米。加上规划和开发运营，售价预计达10-15万/平方米。但吴洋也表示，外滩金融中心的股权出售，是复星集团负责，自己并不知情。目前整个外滩金融中心初期建设已经成熟，在不放弃控制权的同时，通过出售一部分股权，引入财务投资，也实属正常。据介绍， 外滩金融中心BFC坐落于外滩金融集聚带核心位置，作为外滩金融集聚带首个体验式复合型金融中心，BFC汇聚金融、商业、旅游、文化、艺术等多种功能，涵盖企业会馆 、企业总部、购物中心、艺术中心及精品酒店五大业态。项目总建筑面积约42万平方米，其中办公面积约19万平方米，包括二座高为180米的国际甲级写字楼。商场总体建筑面积约9万平方米，酒店约3万平方米，文化艺术约为4千平方米。【相关新闻】复星医药核心产品停产5个月秘而不宣网易财经近日独家获悉，复星医药（600196）控股93%的奥鸿药业旗下核心产品奥德金已低调停产近5个月，而且未来半年能否开工亦难乐观。复星集团推全球合伙人计划 授出1.11亿份购股权1月11日，复星集团宣布已向18位全球核心管理人员授出共1.11亿股普通股股份购股权，这标志着复星集团全球多层次合伙人计划的进一步完善。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+李源潮:将加强股市监管 方星海亮出监管底牌
+基金四季报：撤离金融 停牌前套现3亿股万科
+行业动态
+中沙能源合作促核电出海 机构热捧应流股份等7股
+多层面细解春节概念 三大板块或成反弹先锋
+公司新闻
+金宇车城逐热门资产失利 高管连辞打定增擦边球
+宏磊股份遭神秘人接盘 原实控人套现35亿离场
+
+
+ 
+
+
+
+ 本文来源：澎湃新闻网  
+责任编辑：任万顺_NF5229

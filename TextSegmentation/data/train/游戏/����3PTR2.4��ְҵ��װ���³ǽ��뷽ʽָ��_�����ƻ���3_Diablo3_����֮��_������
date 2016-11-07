@@ -1,0 +1,92 @@
+����3PTR2.4��ְҵ��װ���³ǽ��뷽ʽָ��_�����ƻ���3_Diablo3_����֮��_������
+
+��2.4��������������װ���³���һȫ�µ���սģʽ�������Ҫ���Ź涨����װ������³����������ϷĿ�꣬������ɺ���Ի����Ӧ�������Ʒ����������������ȫ��24����װ����ս������������һ�Գ����Ʒ����������Ϊ��Ҵ���������ɮ����������װ����ħ�˵��Ӷ�����װ�Լ�Ұ���˵Ĳ���֮����װ�Ľ��뷽ʽָ�ϡ�
+
+
+��ɮ����������װ
+
+
+
+
+
+
+
+NTES_createVideo({
+    "width": "700",
+    "height": "480",
+    "pltype": "7",
+    "topicid": "0031",
+    "vid": "VB7A9HB9B",
+    "sid": "V9OI7HM55",
+    "coverpic": "http://vimg1.ws.126.net/image/snapshot/2015/11/9/C/VB7A9HB9C.jpg",
+    "autoplay": false,
+    "showend": false,
+    "url_m3u8": "http://flv.bn.netease.com/videolib3/1511/12/zpQGs8841/SD/movie_index.m3u8",
+    "url_mp4": "http://flv.bn.netease.com/videolib3/1511/12/zpQGs8841/SD/zpQGs8841-mobile.mp4"
+}, document.getElementById("video_1447320026629"));
+
+��ɮ����������װ��Ҫ��ɵ�Ŀ��ֱ��ǣ�
+
+��ҪĿ�꣺��δ�ܵ������˺�����r�£���ɱ196ֻ����
+����Ŀ��1��ʹ�ñ�����һ�λ�ɱ21����ͬ�ĵ��ˣ���3��
+����Ŀ��2���ڵس����ڼ���ȫ�����κλ����˺�
+
+
+
+��ħ�˵��Ӷ�����װ
+
+
+
+
+
+
+
+NTES_createVideo({
+    "width": "700",
+    "height": "480",
+    "pltype": "7",
+    "topicid": "0031",
+    "vid": "VB7A9ILDL",
+    "sid": "V9OI7HM55",
+    "coverpic": "http://vimg1.ws.126.net/image/snapshot/2015/11/D/M/VB7A9ILDM.jpg",
+    "autoplay": false,
+    "showend": false,
+    "url_m3u8": "http://flv.bn.netease.com/videolib3/1511/12/rwBaS8872/SD/movie_index.m3u8",
+    "url_mp4": "http://flv.bn.netease.com/videolib3/1511/12/rwBaS8872/SD/rwBaS8872-mobile.mp4"
+}, document.getElementById("video_1447320055759"));
+
+��ħ�˵��Ӷ�����װ��Ҫ��ɵ�Ŀ��ֱ��ǣ�
+
+��ҪĿ�꣺��δ�ܵ������˺�����r�£���ɱ116ֻ����
+����Ŀ��1��ͬʱ��������3�����ڼ�����������4����
+����Ŀ��2�������κε��˽����ս��Χ
+
+
+
+Ұ���˵Ĳ���֮����װ
+
+
+
+
+
+
+
+NTES_createVideo({
+    "width": "700",
+    "height": "480",
+    "pltype": "7",
+    "topicid": "0031",
+    "vid": "VB7A9JA9J",
+    "sid": "V9OI7HM55",
+    "coverpic": "http://vimg1.ws.126.net/image/snapshot/2015/11/9/K/VB7A9JA9K.jpg",
+    "autoplay": false,
+    "showend": false,
+    "url_m3u8": "http://flv.bn.netease.com/videolib3/1511/12/iTLYZ8920/SD/movie_index.m3u8",
+    "url_mp4": "http://flv.bn.netease.com/videolib3/1511/12/iTLYZ8920/SD/iTLYZ8920-mobile.mp4"
+}, document.getElementById("video_1447320088739"));
+
+Ұ���˵Ĳ���֮����װ��Ҫ��ɵ�Ŀ��ֱ��ǣ�
+
+��ҪĿ�꣺��δ�ܵ������˺�����r�£���ɱ168ֻ����
+����Ŀ��1����250%�˺��ӳ�Ч����ɱ��ÿֻ��Ӣ��
+����Ŀ��2���ÿ�ս֮ŭά��120��

@@ -1,0 +1,58 @@
+陈赫"土鳖"言论配图梁天引误会 解释:纯好玩_网易娱乐
+
+陈赫微博截图
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/T/9/VBDB2SJT9.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/QHfaK7914/SD/QHfaK7914-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+陈赫：土鳖配梁天是误会 只是觉得图好而已
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月26日报道 (文/小易) 今日，陈赫录制了一段视频解释昨日关于"土鳖"言论配图用梁天一事，他表示《我爱我家》是自己最爱看的一部电视剧，选择梁天的图片也是因为这张图片自己觉得有喜感而已，而并非自己认为梁天与土鳖有何联系，是网友误会了。25日晚，陈赫在微博中写道：“今天才知道土鳖是一种昆虫。”并用演员梁天的照片为自己的微博文字配图。
+
+ 
+照片曝光后，引发网友热议，有网友留言称：“为什么配上梁天的图片，有说法吗？”“你是猪吗，这样的话加上一个演艺圈老前辈的图片，你这是侮辱，可以去告你诽谤的。”随后，陈赫将此篇微博删除。今日下午，陈赫录制视频对这一事件进行了解释，他表示自己对于“土鳖是昆虫”这一说法是真的震惊了，所以自己当时并没有多想，就选取了一张存在手机里，自己认为比较有趣的图片发了出来，没想到让网友们误会了。视频中陈赫更向《我爱我家》进行“表白”，称自己小时候一集不落的追剧，如果落下了，父母还会特意录下来给他看。视频一发，网友们依旧热议，不过有网友表示，陈赫虽然做出了解释，但态度不够诚恳，也没有向梁天老师道歉，整个视频还是搞笑的风格，假正经。
+
+ 本文来源：网易娱乐专稿  
+责任编辑：王梓_NK2707

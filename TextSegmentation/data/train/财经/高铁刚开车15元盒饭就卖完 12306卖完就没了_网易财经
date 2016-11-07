@@ -1,0 +1,56 @@
+高铁刚开车15元盒饭就卖完 12306:卖完就没了_网易财经
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/P/U/VBDB179PU.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/PTNkD6095/SD/PTNkD6095-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+暗访高铁15元盒饭供应稀缺 12306：卖完就算了
+（来源：网易网友）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+2016年春运已经开始，高铁列车上高价盒饭问题曾经引发过大家的讨论。从2015年1月1日起，中国铁路总公司已经正式实施《铁路旅客运输服务质量规范》，其中《动车组列车服务质量规范》第9.1.7条规定：2元预包装饮用水和15元盒饭不断供。那么实际情况怎么样呢？G7145次：15元盒饭没有，2元水需乘客坚持1月22号，记者在南京始发至上海虹桥的G7145次列车，经过询问得知，这趟列车上没有列车员推着小推车卖盒饭，需要自己要餐车去购买。上车十分钟后记者到餐车去买15元的盒饭时，列车员回答：没有，今天中午都卖完了。记者：不是说15元盒饭必须要有吗？我们想吃吃简单点的。列车员：那你就等我到上海后补了这种盒饭才能有。记者：到上海我们就下车了，还要吃什么盒饭呢。列车员：我们只有上海、南京这些大站才能补东西。南京过来的时候还有，快到南京的时候没来得及补。要不然你就拿薯片或者八宝粥之类的吧。但实际上，这趟车是南京始发的，刚刚发车15元的盒饭就卖完了，这到底是发车之前没做好准备？还是根本就没打算卖这种盒饭呢？记者表示买纯净水，列车员首先拿出的是一瓶6元的，记者问不是有2元的吗？列车员才给换成2元的，并解释：6元的是大瓶的，2元的是小瓶的，怕你们不够喝才给你们拿大瓶的。记者在列车上发现喝2元水的乘客并不多，其他乘客也表示去买水时，列车员首先拿出的都是6元的，乘客要求便宜点的，列车员才给拿出2元的。G7272次：15元盒饭口味就一种，保质期有90天记者在从上海至合肥南的G7272次列车上，发现这趟餐车上倒是有15元的盒饭：红烧狮子头套餐，套餐包括一份米饭配4个小菜，主菜是黄豆烧肉丸，肉丸比鸡蛋略小，配菜一个是炒海带丝，一个是炒雪菜，还有一份咸菜。这样的盒饭普通人能基本吃饱。另外，这趟车上还提供30元的梅干菜扣肉套餐，40元的红烧牛肉套餐。但是，列车员表示每个价格的套餐口味都是固定一种，不会更改，因此乘客没有更多的口味选择。经记者观察发现，乘客要想吃当天做出来的新鲜饭菜基本不可能：从列车员拿出的三份可供选择的盒饭来看，最近的一份是2016年1月18日生产的，距离销售时，已经过去了4天。而最远的一份居然是2015年12月28日生产的。对此，列车员表示，盒饭的保质期是90天，并称软罐装食品是不会坏的。
+ 
+随后，记者表示想买一盒泡面，列车员表示车上不卖泡面，原因是：车厢封闭性比较好，泡面味道比较大，会影响车上其他人。在记者表示看到车厢里有人吃泡面时，列车员表示：乘客自己带的泡面可以吃，我们不可能去阻止。。12306：未规定15元盒饭不断供记者后来就把在高铁上遭遇到的问题向铁路12306热线做了反应，但热线回复是：（15元盒饭）如果卖完的话就没有了，没有规定15元的盒饭要不断供。这个规定不是上海铁路局的(规定)，是全国统一的规定。那么，问题来了：到底是铁路总公司的红头文件可信还是12306官方热线可信呢？
+
+
+ 本文来源：澎湃新闻网  
+责任编辑：惠杨_NF5623

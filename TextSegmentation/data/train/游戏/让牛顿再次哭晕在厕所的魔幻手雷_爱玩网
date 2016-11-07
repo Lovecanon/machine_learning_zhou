@@ -1,0 +1,77 @@
+让牛顿再次哭晕在厕所的魔幻手雷_爱玩网
+
+这是由Kotaku玩家们制作的一个系列节目，视频中会展出玩家在游戏中遇到的各种新奇、古怪、搞笑和充满成就的挑战完成时的瞬间。玩家还可以将自己在玩游戏时录制的有趣片段投稿给他们！本期为2016年01月26日期。
+很多游戏中都有物理引擎，这个东西真实与否将直接影响到游戏的体验，有些游戏虽然设计出色，但往往那些让牛顿哭晕在厕所里的物理引擎才是最大的问题！今天的节目中还将见到威力强大的药包；飞跃巅峰的火箭；见证骨骼惊奇之人；酷炫的刀杀和强而有力的1v5反杀。
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/S/R/VBDBB9ASR.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/mQKNJ6687/SD/mQKNJ6687-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+游戏集锦：死于违背牛顿定律的魔幻手雷
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+本期节目内容如下：
+战地4 - 复仇 - MinTexas
+战地4 - 药包太强力了 - Rogue Freeman
+正当防卫3 - 火箭摩托 - andreutas
+正当防卫3 - 飞跃巅峰 - General Jackass
+辐射4 - 保罗竟然这么硬 - [CS] Baeger
+刺客信条：枭雄 - 突破天际吧 - DomBobomb
+命运 - 绝对不要放弃 - SixTrez
+消逝的光芒 - 上身僵硬 - Taylor Jorgenson
+疯狂的麦克斯 - 见证奇迹的时刻！ - Tom Coppen
+潜龙谍影Online - 自杀式格斗 - Rômulo Siqueira Santos
+使命召唤：黑色行动3 - 背刺高手 - Maze Gilliam
+使命召唤：黑色行动3 - 横扫千军 - Austin Phillips
+彩虹六号：围攻 - 隔墙锤杀 - Coolio13
+彩虹六号：围攻 - 谜之TK - V3NOM262
+彩虹六号：围攻 - 炫酷的C4杀 - quentin correggi
+彩虹六号：围攻 - 我还以为要输了 - InfiniteBananaTheorem
+方舟：生存进化 - 魔性的物理引擎 - Felcri
+侠盗猎车5 - 击杀妙法 - PUNK ROCKERZ
+侠盗猎车5 - 跳伞后的玄幻着陆 - cazzzzzzzz2006
+侠盗猎车5 - 黑鹰直升机 vs 九头蛇 - GearsofHaloWarfare
+欢迎玩家们评论分享在玩游戏中遇到的类似经历。无论你是主机玩家，掌机玩家，手游玩家还是PC玩家，都欢迎你将你的快乐分享出来。
+爱玩网准备制作自己的游戏集锦节目啦！我们欢迎玩家们将自己的稿件投至iplay163@vip.163.com。欢迎你将任何类型的电子游戏欢乐瞬间，录制并发送给我们！

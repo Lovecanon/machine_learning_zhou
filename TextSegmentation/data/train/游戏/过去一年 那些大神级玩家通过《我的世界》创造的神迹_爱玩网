@@ -1,0 +1,55 @@
+过去一年 那些大神级玩家通过《我的世界》创造的神迹_爱玩网
+
+爱玩网原创内容，转载请注明出处。《我的世界》这款游戏总是被玩家调侃为“别人的世界”，因为总有一些大神级玩家在这款自由度极高的游戏中创造出普通人难以想象的东西，有的需要过人的创造力，有的则需要超越常人的毅力，有的则需要二者兼备。这里我们来盘点一下过去一年，那些大神级玩家通过《我的世界》创造的“神迹”。国外玩家在《我的世界》中实现和现实视频通话YouTube知名主播CaptainSparklez（没错就是那个拥有超级豪宅的有钱主播）成功在《我的世界》中通过MOD制作了一台手机，难以置信的是，该手机竟然具备视频通话与浏览网页的功能！玩家纷纷表示，次元壁已经被突破，尽管不明觉厉，但也再次证明了《我的世界》的无所不能。根据该MOD制作工作室Verizon介绍，这款MOD是在将网页和推流视频等内容像素化的基础上，再嵌入到《我的世界》服务器中，然后再使用名为Boxel的客户端实现游戏和现实的通信。虽然通话者的脸也被马赛克化了，不过还是能看出来本人的大概模样。
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2015/12/K/A/VB8TO5BKA.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1512/02/IOkxo5397/SD/IOkxo5397-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+国外玩家成功在《我的世界》中实现视频通话
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+ 本文来源：爱玩网     作者：伊文
+   责任编辑：唐杰_NG1899

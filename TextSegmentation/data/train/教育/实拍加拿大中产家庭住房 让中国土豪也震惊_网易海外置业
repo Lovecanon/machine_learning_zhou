@@ -1,0 +1,1926 @@
+实拍加拿大中产家庭住房 让中国土豪也震惊_网易海外置业
+
+在中国，到底有多少钱才能算中产？一个月领个1万元税前薪水早已经被网友们惊呼“中产的拖了后腿”了，最新一份关于北亚地区（中国大陆、香港、台湾和韩国）的中产阶级调查则显示，中国大陆自认为是中产的家庭月收入在45202元（合6858美元）。依照这个标准算下来，中产的日子也并不好过。与中国中产对比，加拿大(房源)中产家庭的生活就要惬意很多，堪比土豪啊!如果您羡慕加拿大中产生活想移民该国，那不妨看看下面小编大家推荐的几套温哥华(房源)房产，总价228万元起。
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+房源推荐一>>>>温西Marpole连排别墅      228万元
+
+非常适合新移民！温哥华西区价格最实惠的连排别墅！位于超级方便Marpole区。靠近公交环线，几分钟车程过大桥进入列治文，机场和全新的Granville街，你需要的所有商店和T＆T华人超市都在这里！
+ 
+
+
+#photo1435611734623{width:100%;height:100%;}
+#photoView1435611734623{position:relative;}
+#gallery1435611734623 .nph_stream, #gallery1435611734623 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1435611734623 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1435611734623 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1435611734623 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1435611734623 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1435611734623 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1435611734623 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1435611734623 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1435611734623 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1435611734623 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1435611734623 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1435611734623 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1435611734623 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1435611734623 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1435611734623 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1435611734623 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1435611734623 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1435611734623 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1435611734623 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1435611734623 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1435611734623 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1435611734623 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1435611734623 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1435611734623 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1435611734623 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1435611734623 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1435611734623 .nph_list_thumb li a,
+#atlas_house1435611734623 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1435611734623 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1435611734623 .nph_scrl_prev,
+#atlas_house1435611734623 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1435611734623 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1435611734623 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1435611734623 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1435611734623 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1435611734623 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1435611734623 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1435611734623 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1435611734623 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1435611734623 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1435611734623 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1435611734623 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1435611734623 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1435611734623 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1435611734623 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1435611734623 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1435611734623 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1435611734623 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室2.0浴
+102.19 ㎡
+
+/12
+（共12张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613489785.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613489785.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613362841.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613362841.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613365763.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613365763.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613366225.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613366225.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613368906.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613368906.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613380447.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613380447.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613377238.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613377238.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613377321.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613377321.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613372048.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613372048.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613379980.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613379980.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613371308.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613371308.JPG
+			
+						
+			
+			温西Marpole连排别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435613384257.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435613384257.JPG
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+温西Marpole连排别墅
+ 8787 OAK ST, Vancouver
+, British Columbia
+, V6P 4B4
+
+
+492800
+详情咨询
+950-4049-3660(只收本地市话费)
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1435611734623 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1435611734623" ,title: '温西Marpole连排别墅'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1435611734623").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/49.2055973,-123.13042960000001/9?mapSize=215,111&format=jpeg&centerPoint=49.2055973,-123.13042960000001&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1435611734623", {
+    url: document.location.href,
+    title: document.title,
+    summary: "温西Marpole连排别墅",
+    pic: function() { return $('#photo1435611734623').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1435611734623').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>列治文Saunders排楼    244万元
+
+保养非常好的宽敞2层联排别墅，位于列治文漂亮，宁静的住宅区。角落单位，周围大片空地和绿化带，朝南隐蔽的后院，感觉就像居住在房子。停车棚及多辆停车场使用。这是一个很好的9单元复用住宅区，非常低的维护费。优越的地理位置。接近各级学校（包括早期和后期法语学校），靠近公园，机场和列治文中心。
+ 
+
+
+#photo1443821036040{width:100%;height:100%;}
+#photoView1443821036040{position:relative;}
+#gallery1443821036040 .nph_stream, #gallery1443821036040 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1443821036040 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1443821036040 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1443821036040 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1443821036040 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1443821036040 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1443821036040 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1443821036040 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1443821036040 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1443821036040 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1443821036040 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1443821036040 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1443821036040 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1443821036040 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1443821036040 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1443821036040 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1443821036040 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1443821036040 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1443821036040 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1443821036040 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1443821036040 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1443821036040 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1443821036040 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1443821036040 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1443821036040 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1443821036040 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1443821036040 .nph_list_thumb li a,
+#atlas_house1443821036040 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1443821036040 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1443821036040 .nph_scrl_prev,
+#atlas_house1443821036040 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1443821036040 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1443821036040 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1443821036040 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1443821036040 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1443821036040 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1443821036040 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1443821036040 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1443821036040 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1443821036040 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1443821036040 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1443821036040 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1443821036040 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1443821036040 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1443821036040 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1443821036040 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1443821036040 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1443821036040 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室2.0浴
+121.15 ㎡
+
+/15
+（共15张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821935372.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821935372.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821948924.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821948924.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821931142.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821931142.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821935967.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821935967.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821936542.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821936542.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821936953.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821936953.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821937524.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821937524.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821937966.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821937966.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821938484.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821938484.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821938845.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821938845.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821939680.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821939680.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821941296.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821941296.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821942592.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821942592.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821943682.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821943682.jpg
+			
+						
+			
+			列治文Saunders排楼
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1443821943843.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751443821943843.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+列治文Saunders排楼
+ 9500 GLENACRES DRIVE, Vancouver
+, British Columbia
+, V7A 1Y7
+
+
+528000
+详情咨询
+950-4049-3660(只收本地市话费)
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1443821036040 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1443821036040" ,title: '列治文Saunders排楼'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1443821036040").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/49.146391,-123.12021900000002/9?mapSize=215,111&format=jpeg&centerPoint=49.146391,-123.12021900000002&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1443821036040", {
+    url: document.location.href,
+    title: document.title,
+    summary: "列治文Saunders排楼",
+    pic: function() { return $('#photo1443821036040').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1443821036040').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>南素里白石别墅     596万元
+
+白石镇(White Rock)位于温哥华以南，毗邻美加边境，海景(房源)是此地房屋的最大卖点。这块7360平方英尺的大地拥有自己的私人庭院和美丽的海景。巨大的发展潜力，可以重建或入住。 步行距离到海滩，购物中心和公交系统，靠近HT Thrift 小学和白石小学。
+ 
+
+
+#photo1437172179245{width:100%;height:100%;}
+#photoView1437172179245{position:relative;}
+#gallery1437172179245 .nph_stream, #gallery1437172179245 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1437172179245 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1437172179245 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1437172179245 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1437172179245 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1437172179245 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1437172179245 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1437172179245 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1437172179245 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1437172179245 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1437172179245 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1437172179245 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1437172179245 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1437172179245 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1437172179245 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1437172179245 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1437172179245 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1437172179245 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1437172179245 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1437172179245 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1437172179245 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1437172179245 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1437172179245 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1437172179245 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1437172179245 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1437172179245 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1437172179245 .nph_list_thumb li a,
+#atlas_house1437172179245 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1437172179245 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1437172179245 .nph_scrl_prev,
+#atlas_house1437172179245 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1437172179245 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1437172179245 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1437172179245 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1437172179245 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1437172179245 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1437172179245 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1437172179245 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1437172179245 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1437172179245 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1437172179245 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1437172179245 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1437172179245 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1437172179245 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1437172179245 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1437172179245 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1437172179245 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1437172179245 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+2室1.0浴
+142.88 ㎡
+
+/3
+（共3张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			南素里白石别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1437173447763.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751437173447763.jpg
+			
+						
+			
+			南素里白石别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1437173448219.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751437173448219.jpg
+			
+						
+			
+			南素里白石别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1437173447477.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751437173447477.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+南素里白石别墅
+ 1441 VIDAL ST, Vancouver
+, British Columbia
+, V4B 3T6
+
+
+1288000
+详情咨询
+950-4049-3660(只收本地市话费)
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1437172179245 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1437172179245" ,title: '南素里白石别墅'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1437172179245").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/49.028157,-122.80847900000003/9?mapSize=215,111&format=jpeg&centerPoint=49.028157,-122.80847900000003&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1437172179245", {
+    url: document.location.href,
+    title: document.title,
+    summary: "南素里白石别墅",
+    pic: function() { return $('#photo1437172179245').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1437172179245').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1温哥华岛阳光海岸明星豪宅
+ 2888888
+
+
+ 
+TOP 2温西Arbutus高级豪宅
+ 4628000
+
+
+ 
+TOP 3温西Dunbar别墅
+ 2888000
+
+
+ 
+TOP 4温西Dunbar别墅
+ 3288000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

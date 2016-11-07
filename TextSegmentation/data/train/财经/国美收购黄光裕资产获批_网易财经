@@ -1,0 +1,56 @@
+国美收购黄光裕资产获批_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '00493', type: 'HK', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+上周五，国美电器发布公告称，国美电器股东批准从黄光裕手中收购艺伟发展有限公司。去年7月，国美电器曾公告称，拟收购控股股东黄光裕全资拥有的艺伟发展的全部发行股本，交易总对价为112.68亿港元。专家认为，收购事宜利于黄光裕更好地掌控国美。艺伟发展主要是在国美电器营业城市外的中国其他地区使用“国美电器”商标，经营电器和消费电子产品零售及相关业务。今年上半年，艺伟发展取得销售收入108.58亿元，同比上升7.85%；利润2.56亿元，同比增长75.34%。此次公告显示，国美电器拟向母公司收购非上市零售资产方案顺利获特别股东大会审议通过。收购一旦完成，国美电器将实现上市及非上市线下资源的全面整合。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+保监会：支持保险企业参与养老金入市管理
+新年央企重组大戏：中建材与中材筹划重组
+行业动态
+国务院定调推开营改增 金融等四行业影响一览
+环保投资十三五将迎高峰 并购潮还将持续（股）
+公司新闻
+西宁特钢再度下调增发规模 国华人寿退出认购
+福瑞股份专利保卫战胜诉 海斯凯尔存不正当竞争
+
+
+ 
+
+
+
+ 本文来源：京华时报 。更多精彩内容请访问京华网 http://www.jinghua.cn 作者：施志军
+责任编辑：钟齐鸣_NF5619

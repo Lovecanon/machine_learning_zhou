@@ -1,0 +1,77 @@
+66分钟暴跌90% 恒发洋参实控人身家缩水50亿港元_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '00911', type: 'HK', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+
+港股市场没有涨跌停板，又是“T+ 0”交易制度，从理论上说一只股票一天下跌99%都是有可能的。但恒发洋参（00911，HK）在66分钟里股价下跌91.39%，还是让投资者直冒冷汗。
+《每日经济新闻》记者注意到，以往遇到此种急跌，常常是因为有做空机构发动了进攻。而28日市场上并没有有关恒发洋参的做空消息，也没有其他对公司不利的信息在传播。
+
+净利润同比增长超50%
+
+恒发洋参28日以每股0.39港元开盘，开盘后走势还算正常，一直横盘整理。不过10：00起风云突变，恒发洋参股价开始塌方式下滑，10：36股价就跌至0.034港元。恒发洋参紧急宣布公司股票于10：36起停止交易。1月28日恒发洋参全天下跌91.39%，市值蒸发71亿港元。
+一般说来，在港股市场股价一天就大跌9成的股票是那种没有什么实际业务的公司。但奇怪的是，恒发洋参有实实在在的业务，而且公司刚刚公告恒发洋参2015年的利润较2014年还有50%以上的增长。
+那么，恒发洋参到底是做什么的？资料显示，公司主要从事采购及批发西洋参，并且是香港最大的一级西洋参批发商。恒发洋参2014年的收入为12.2亿港元，净利润达到2.05亿港元。值得注意的是，恒发洋参在本月25日还发布公告称公司2015年净利润将同比增长50%，也就是说2015年公司净利润会超过3亿港元。
+此外，恒发洋参近期还与两家内地上市公司进行合作，发展可谓顺风顺水。
+2015年12月15日，恒发洋参宣布与汤臣倍健（300146，收盘价29.38元）展开战略合作，恒发洋参为汤臣倍健提供西洋参原材料，并协助汤臣倍健开展品牌宣传和市场推广。
+而2016年1月20日，恒发洋参又宣布与莱美药业（300006，收盘价27.76元）签订了战略合作意向书。据意向书显示，恒发洋参将向莱美药业提供300~400吨的加拿大种植西洋参。此外，两家公司还计划合作建立一家合资企业。
+
+暴跌或因股东被斩仓
+
+对持有恒发洋参股票的散户来说，1月28日肯定是个“黑色星期四”。
+但事实上，恒发洋参大股东“洋参大王”杨永仁才应该是最郁闷的人，因为他持有公司71.24%的股份，也就是说或许他才是28日全世界亏钱最多的人，因为他的身家28日不到半天就莫名其妙地缩水了50亿港元。
+对于恒发洋参的发展，杨永仁应该也是信心满满。因为从2015年8月28日起，作为控股股东的杨永仁及其一致行动人就先后14次增持公司股份，持股比例从70.02%上升到目前的71.24%。
+有意思的是，杨永仁对炒股也很感兴趣。据香港经济通报道，杨永仁持有的恒发金融在去年9月获得了证券交易牌照。对于开办证券公司的原因，杨永仁解释，对证券投资一直感兴趣，“一路对投资都有了解，股市投资时机很重要。”
+据凤凰财经报道，恒发洋参CEO杨永仁在接受媒体采访时称，公司业务正常运作，亦与个人财务无关。公司股价暴跌或与股东被斩仓有关，正在了解原因。
+
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+央行再稳流动性预期 公开市场增加操作场次
+股价跌得“看不下去” 多家公司将实施回购
+行业动态
+一号文聚焦农业现代化 布局农业供给侧改革
+29只个股震幅达15% 三角度挖掘绝地反击龙头股
+公司新闻
+"清仓"公司样本调查:易联众原实控人套现18.8亿
+中华企业持续亏损 上海地产集团资产注入添迷雾
+
+
+
+ 
+
+
+
+ 本文来源：每日经济新闻  作者：袁东
+责任编辑：钟齐鸣_NF5619

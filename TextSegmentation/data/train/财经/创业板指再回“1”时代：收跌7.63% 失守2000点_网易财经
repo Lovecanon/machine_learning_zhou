@@ -1,0 +1,56 @@
+创业板指再回“1”时代：收跌7.63% 失守2000点_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '399006', type: 'SZ_INDEX', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月26日消息 创业板指数昨日震荡收涨，今早又低开1.23%%，报2132.22点。之后走势下行，临近午间收市时跌幅扩大，失守2100点关口。午后指数不断走低，跌破上午最低位，失守2000点重要关口，低见1990.51点（1月14日盘中最低见1989.86点），截至收盘，创业板指跌幅为7.63%，报1994.05点，全日成交817.7亿元。在目前的495只个股中，上涨个股仅有6只，佐力药业涨停，劲胜精密涨9.82%，雅本化学涨4.72%。下跌个股有433只，中能电气、明家科技、山鼎设计、盛天网络等275股跌停，国祯环保、汤臣倍健、蓝色光标等跌逾9%，金城医药、电科院、硕贝德等跌逾8%。创业板指数成交额连续四个交易日下降，显示资金观望情绪持续升温。一方面，市场情绪尚待修复，创业板估值压力依然存在；另一方面，临近春节，资金大举做多意愿不强。在此背景下，创业板短期料将延续震荡筑底格局。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+股权质押平仓警报拉响 四公司今起紧急停牌
+券商打中最后18只“预付费”新股 浮盈8733万元
+行业动态
+国务院定调推开营改增 金融等四行业影响一览
+环保投资十三五将迎高峰 并购潮还将持续（股）
+公司新闻
+长江证券陷多事之秋 原董事长跳楼只是冰山一角
+蓝色光标董事长胞兄内幕交易 业绩预亏前夕溜号
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：杨倩_NF4425

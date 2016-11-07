@@ -1,0 +1,56 @@
+央视揭宝能资金紧张：多项目停工 抛房回笼资金_网易财经
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/S/2/VBCMQKCS2.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/18/GldZz8119/SD/GldZz8119-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+关注万宝之争 肇庆：宝能金融中心项目烂尾
+（来源：央视2套）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+上周五，万科A晚间发布公告称，相关工作难以在1月18日前完成，无法实现A股复牌，所以申请继续停牌。并表示将自12月18号首停牌日之后3个月内，即3月18号前做出披露。而宝能也针对外界对于其实力的质疑而首次自曝家底。万科推迟复牌：万科A申请继续停牌至3月份万科A在1月15日晚间公告称，因本次筹划的重大资产重组极为复杂，涉及境内外多项资产、多个相关方，公司与多个潜在交易对手方已持续进行谈判和协商，但截至目前具体交易对价、支付方式、交易结构、目标资产具体范围等仍在谈判过程中。因涉及的资产、业务、财务等各方面核查工作量较大，相关工作难以在1月18日前完成并实现A股复牌，公司股票申请继续停牌。深圳宝能公馆项目销售未停止，每平米售价十一万元！面对外界对其资金匮乏的质疑，宝能地产终于在1月14日晚间做出了一次回应。 该回应称，宝能过去一年地产业务资金回笼充沛，土地增值可观，同时因重仓去年房价暴涨的深圳市场，今年的地产业务销售前景可期，预计将达270亿元，同时数据显示目前这家公司的净资产达1200亿元，从宝能地产项目货值来看，以深圳市场两个项目为例，宝能公馆可售面积18万平方米，货值预计达170亿；宝能城可售面积50万平方米，货值至少达350亿，仅深圳两个项目便有共计520亿元的总货值。宝能称除轻松覆盖200亿元融资债务外，这也能为企业提供充沛的流动资金。记者来到位于深圳建业三路附近的宝能公馆项目，销售人员介绍，目前宝能公馆项目在售的是B栋30套大户型单位。央视财经记者：（楼房）多少钱一平宝能公馆销售王小姐：十万到十一万之间 主要看楼层 南北通透带顶级精装的央视财经记者：（1月16日）昨天你们开盘 出售的 卖了多少套了销售王小姐：卖了23套央视财经记者：只剩7套了销售王小姐：对在宝能公馆销售现场，记者看到不时有市民前来看房咨询。据了解，宝能公馆B栋、C栋将于2016年3月发售，2017年入伙，这两栋均为188平、230平米不等面积豪宅，小面积公寓将于2016年下半年发售。王小姐　宝能公馆楼盘销售人员王小姐：我们正常的推售是在3月份 这是一个大的节点 开盘在3月份央视财经记者：3月份开盘是吧 大概会拿多少套出来卖王小姐：剩下都会卖 大概有一百套宝能金融中心项目遇烂尾停工工地长满野草！万宝之争的主角之一的宝能集团被曝旗下位于广东、上海等地的多个地产项目因为资金链断裂而被迫停工。对此，宝能集团发表文章回应，宝能地产净资产约达1200亿元。如果其地产板块独立上市，无疑将跻身中国最具竞争力的优质地产平台之列。按这一数据计算，2015年下半年的短短6个月时间里，宝能地产净资产暴增了近1100亿元，增幅达到惊人的1000%以上，且比6个月前的总资产也多出700亿元左右，仅增加的净资产，就已达到其2015年6月底总资产的1.4倍左右。那么实际情况到底如何，我们财经频道的记者实地探访了该公司在广东的多个项目。记者姚佳浩： 这里是位于肇庆市鼎湖区的宝能环球金融中心项目，这个项目规划用地达到了五百六十亩，规划总建筑面积达到一百七十万平米，这个项目从2013年的11月就已经开始动工，但是售楼处的工作人员告诉我，在2015年的年初这里已经全面停工，那么大家顺着我手指这个方向看过去，可以看到工地上只有两三栋未完工的建筑，整个工地上都堆满了废弃的建材和长满了野草。肇庆宝能环球金融中心城停工，“宝能”两字标识被连夜拆走！肇庆宝能环球金融中心位于肇庆市鼎湖区罗水村和怀荣村的行政区域内。罗水村村民告诉记者，宝能金融中心城早在2015年初便停工，同年5月份左右，工地工人全部撤走，仅留下几名工作人员看守工地，没有修建好的两栋楼房也停工。一些工棚与基础建筑均被拆除。记者姚佳浩：我现在所在的位置是肇庆宝能环球金融中心售楼处的附近，1月14日下午五点，我们的记者来到这里的时候，这里还有宝能环球金融中心八个大字，但到1月15日九，我们再次来到这里的时候发现宝能两个字已经被拆除了，八个字只剩下了六个字。当地罗水村村民告诉记者，宝能环球金融中心停工后，工地不少建筑材料被附近村民搬走，项目内观光湖里养的鱼也被村民网走。记者发现，该项目停工后，有肇庆市民于2015年5月在当地政府的网络问政平台上进行咨询，而政府当时的回应，项目停工是因为宝能集团调整项目建设思路。宝能城市广场房价大幅促销：一平米仅售3100元…离开肇庆宝能金融环球中心之后，记者又走访了云浮市高铁东站附近的宝能城市广场和云浮市在建的别墅项目，以及位于佛山的宝能金融大厦项目和广州增城的宝仁医院项目。来看记者的调查。记者在云浮宝能城市广场记者看到，这里的商铺是2013年动工，2016年1月1日进行的发售。目前销售状况并不理想，不过该公司将于2016年4月份之后举行大型招商活动。记者：我看你们这里很冷清，都没有人。楼盘销售人员：就是我们才交铺的 我们过完年才对外招商同时，记者注意到城市广场除了商铺在售以外，高层住宅也在销售，不过相比云浮楼市市场3900元至4600元1平方交易价来说，这里3100元一平的销售价略低一些，零首付的政策优惠多一些。记者：零首付的话 我还是要交首付的百分之五十楼盘销售人员：对，另外的百分之五十是（你们）要银行贷款，半年内（我）给你们付，就是半年内要交四万块钱给我们公司宝能旗下宝仁医院停工超一年工地内钢筋生锈一片死寂…离开云浮之后，记者前往佛山。依照佛山宝能金融大厦项目介绍，佛山宝能金融大厦项目楼高31层，负一层至4层为商业，负一层同时也是轻轨“东平站”出口。写字楼部分按照国际5A超甲级写字楼标准打造，景观视野开阔，可远眺东平河、佛山公园、市政绿化、世纪莲体育中心、新闻中心等自然景观和城市景观。还是八大项目中首个通过绿色环保评比认证的项目。但是记者来到佛山新城华章街、东平站、新闻中心并没有找到宝能金融大厦以及项目的相关标识。根据宝能集团官网介绍，其投资的广州市宝仁医院位于增城市石滩镇郑田村,挂绿湖以南, 是一家集医疗、急救、预防、保健、康复、教学、科研于一体的现代化、生态型、综合性三甲医院。项目规划总用地871亩，其中一期规划用地约371亩，二期规划用地约500亩。项目总投资超过30亿元人民币。项目一期预计2015年10月开业。央视财经记者来到官网提供的地址，发现这个项目被两道围墙包围，围墙上有铁丝网，一般情况根本无法进入。项目如今命名为挂绿医院的施工工地附近商铺：就是十一月咯 14年底十一月
+ 
+央视财经记者：14年的十一月搬走的附近商铺：基本都没有人了央视财经记者：这个工地甲方是宝能集团的附近商铺：对呀在现场记者看到工地周围长满野草，没有工程车辆进出的任何痕迹，通过高处观察，记者发现工地里面钢筋已经生锈，水泥坡地因为水土流失塌陷，工地一片死寂。医院工地附近商铺老板：商铺老板：因为他说那个（工程）款被冻结了拨不下款工人他也拿不到工资吗所以（工人）就不肯干活 它(工地 )就停工了
+
+
+ 本文来源：央视  作者：姚佳浩 唐光明 李宏志
+责任编辑：冯晓磊_NF4363

@@ -1,0 +1,57 @@
+小李夺2016演员工会奖影帝 布丽拉尔森再封影后_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/A/E/VBDNRSPAE.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/31/tUAZN6461/SD/tUAZN6461-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+小李夺2016演员工会奖影帝
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+Mtime时光网1月31日报道  2016年第22届演员工会奖（SAG Awards）刚刚落下帷幕，各大奖项也已经揭晓。演员工会奖是金球奖之后奥斯卡之前最重磅的一个大奖，涵盖了电影电视两个领域，在表演类的奖项上对于奥斯卡有着非常强大的风向标功能。本届演员工会奖中，最佳男主角被莱昂纳多・迪卡普里奥禽走，今年小李在颁奖季拿奖拿到手软，离小金人已经越来越近。莱昂纳多・迪卡普里奥(Leonardo DiCaprio)凭借《荒野猎人》(The Revenant)获电影类最佳男主角（影帝），上台领奖时，莱昂纳多・迪卡普里奥与凯特・温丝莱特拥吻，吸睛无数。最佳女主角被《房间》女星布丽・拉尔森摘得。照此势头看来，奥斯卡的影帝影后已经基本锁定，就看到时候有无黑马。“最佳群戏”大奖被《聚焦》摘得，也让这部影片在冲击奥斯卡最佳的路上再添一个有力砝码。在最佳女配角的激烈竞争中，艾丽西亚・维坎德最终凭借《丹麦女孩》中的表演夺得大奖，击败了鲁妮・玛拉、凯特・温丝莱特等强大对手。而纵观整个获奖结果，可谓跟“全白奥斯卡”大相径庭（不知是否也是跟想要平息舆论有关系），维奥拉・戴维斯、奥卓・阿杜巴等黑人实力派都纷纷拿奖，伊德瑞斯・艾尔巴更是连下两城，分别凭借《无境之兽》和《路德》获得电影类最佳男配角和电视电影和迷你剧最佳男演员的奖杯。2016年度美国演员工会奖获奖名单电影类--最佳群戏--《无境之兽》《大空头》《聚焦》*Winner《冲出康普顿》《特朗勃》--最佳男主角--布莱恩・科兰斯顿-《特朗勃》约翰尼・德普-《黑色弥撒》莱昂纳多・迪卡普里奥-《还魂者》*Winner迈克尔・法斯宾德-《史蒂夫・乔布斯》埃迪・雷德梅恩-《丹麦女孩》--最佳女主角--凯特・布兰切特-《卡萝尔》布丽・拉尔森-《房间》 *Winner海伦・米伦-《金衣女人》西尔莎・罗南-《布鲁克林》萨拉・丝沃曼-《报以微笑》--最佳男配角--克里斯蒂安・贝尔-《大空头》伊德瑞斯・艾尔巴-《无境之兽》*Winner马克・里朗斯-《间谍之桥》迈克尔・珊农-《99个家》雅各布・特瑞布雷-《房间》--最佳女配角--鲁妮・玛拉-《卡萝尔》瑞秋・麦克亚当斯-《聚焦》海伦・米伦-《特朗勃》艾丽西亚・维坎德-《丹麦女孩》*Winner凯特・温丝莱特-《史蒂夫・乔布斯》剧集类--剧情类最佳群戏--《唐顿庄园》 *Winner《权力的游戏》《国土安全》《纸牌屋》《广告狂人》--喜剧类最佳群戏--《生活大爆炸》《Key&Peele》《摩登家庭》《女子监狱》*Winner《透明人生》《副总统》--剧情类最佳男演员--彼特・丁拉基-《权力的游戏》乔・哈姆-《广告狂人》拉米・马雷克-《黑客军团》鲍勃・奥登科克-《风骚律师》凯文・史派西-《纸牌屋》 *Winner--剧情类最佳女演员--克莱尔・丹尼斯-《国土安全》维奥拉・戴维斯-《逍遥法外》*Winner朱丽安娜・玛格丽丝-《傲骨贤妻》玛吉・史密斯-《唐顿庄园》罗宾・怀特-《纸牌屋》--喜剧类最佳男演员--泰・布利尔-《摩登家庭》路易斯・C・K-《路易》威廉姆・H・梅西-《无耻之徒》吉姆・帕森斯-《生活大爆炸》杰弗里・塔伯-《透明人生》 *Winner--喜剧类最佳女演员--奥卓・阿杜巴-《女子监狱》*Winner埃迪・法可-《护士当家》艾丽・坎伯尔-《我本坚强》朱莉娅・路易斯-德利法斯-《副总统》艾米・波勒-《公园与游憩》--电视电影和迷你剧最佳男演员--伊德瑞斯・艾尔巴-《路德》*Winner本・金斯利-《图坦卡蒙》雷・利奥塔-《德州崛起》比尔・默瑞-《非常默瑞的圣诞节》马克・里朗斯-《狼厅》--电视电影和迷你剧最佳女演员--妮可・基德曼-《摩纳哥王妃》奎恩・拉提法-《蓝调女王》 *Winner克里斯蒂娜・里奇-《丽兹・鲍敦传奇》苏珊・萨兰登-《The Secret Life of Marilyn Monroe》
+
+ 
+克里斯汀・韦格-《临死前的战利品》--电影类最佳特技群戏--《绝命海拔》《速度与激情7》《侏罗纪世界》《疯狂的麦克斯：狂暴之路》 *Winner《碟中谍5：神秘国度》--电视（喜剧/剧情）类组最佳特技群戏--《罪恶黑名单》《权力的游戏》 *Winner《国土安全》《超胆侠》《行尸走肉》
+
+ 本文来源：Mtime时光网  
+责任编辑：李琳铠_NK4697

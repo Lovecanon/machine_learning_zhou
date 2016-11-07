@@ -1,0 +1,57 @@
+美国老鹰乐队主唱格列・弗雷去世 享年67岁_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/V/5/VBCODFGV5.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/19/xeYMk1438/SD/xeYMk1438-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+老鹰乐队《加州旅馆》
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月19日报道 据国外媒体报道，美国老鹰(The Eagles)乐队的创始成员之一，吉他手格伦・弗雷(Glenn Frey)于当地时间1月18日在纽约因病去世，终年67岁。据报道，格列・弗雷是因为风湿性关节炎、结肠炎和肺炎引起的并发症而导致去世。老鹰乐队是上世纪70年代最成功的流行摇滚乐队，其中单曲《Hotel California》在世界范围内广为传唱。乐队在昨日(1月18日)证实了格伦的死讯，在一份官方声明中写道：“在过去的几周里，格伦一直和病魔英勇斗争，但是不幸的是，他还是因为急性溃疡结肠炎与肺炎等并发症离开了我们，语言难以表达出我们的悲伤，也无法表达出我们对于他的爱，我们怀念他对于我们、他的家庭以及音乐圈还有全世界百万的粉丝曾做出的一切。”此前弗雷就曾因为健康原因，导致老鹰乐队推迟了在肯尼迪中心的授勋仪式。当时乐队给出的原因是刚结束一场重大手术，正在度过一场漫长的恢复期。老鹰乐队的核心鼓手兼主唱唐・亨利(Don Henley)对于好友的去世发表声明：“他就和我的兄弟一样，我们是一家人。就像这个世界上大多数的家庭一样，我们有过一些小摩擦。但是，这些摩擦从未影响到我们在45年前所建立起的这种关系。即使是在老鹰乐队解散的那14年里。我们是两个一同来到洛杉矶朝圣的年轻人，怀着同样的音乐梦想，并在音乐界留下了我们的印记。我本人并不怎么相信命运，但是当1970年我和弗雷的人生产生交集时，他永远的改变了我的生活。在没有他的世界中，我今后的人生会有些奇怪。但是我仍将心怀感激，每一天。愿你安息吧，我的兄弟。”格伦・弗雷于1948年11月6日出生于密西根州的底特律，他成长与“摩城唱片”音乐流行的时代，他小时候便在当地的一支乐队中崭露头角，这也让他成功的引起了民谣大师鲍勃・西格(Bob Seger)的注意，当时弗雷成功的说服西格为他的乐队写一首歌。而他本人也在西格的单曲《Ramblin' Gamblin Man》中担任和声。1971年，在乡村巨星琳达・容斯塔德(Linda Ronstadt)的引荐下，弗雷首次认识了鼓手唐・亨利，以及当时的贝斯手兰迪・梅思纳尔，随后老鹰乐队正式组建，乐队签约于当时David Geffen的前身Asylum唱片。乐队凭借单曲《Take It Easy》迅速走红，而这首歌的词正式来自弗雷。在70年代中期，老鹰乐队创作了《Peaceful Easy Feeling》《Desperado》《Tequila Sunrise》《Best of My Love》多支冠军单曲，随后，当时的吉他手唐-菲尔德(Don Felder)离队，另一位吉他手乔・沃尔什(Joe Walsh)填补了他的位置。1976年，乐队发行专辑《加州旅馆(Hotel California)》，其中的同名主打单曲，并认为定义了70年代中后期加州充满丹宁，药物和堕落的摇滚圈。随后乐队便受到了毒品，自我膨胀与商业成功的困扰，尽管发行于79年的专辑《The Long Run》依然拿下了冠军宝座，但是乐队内部的矛盾以及迪斯科音乐的兴起，让老鹰乐队选择在1980年正式解散。在经过长达10多年的沉寂之后，老鹰乐队在经纪人伊夫林・阿佐夫(Irving Azoff)的牵线下再度重组并巡演，而乐队也将巡演的现场单曲发行了精选集《Hell Freezes Over》，其中不插电版本的《加州旅馆》便出自其中。
+
+ 
+作为世界上最成功的摇滚乐队之一，老鹰乐队精选集《Greatest Hits 1971-1975》总共取得了近2千9百万的惊人销量，而在专辑销量榜上，这张精选位列第二。而排在第一名的则是流行之王迈克尔-杰克逊的经典专辑《颤栗(Thriller)》。老鹰乐队（Eagles）广为人知的作品有《加州旅馆》（Hotel California）等，Glenn Frey在乐队中担任主唱、吉他、键盘，Glenn Frey身兼歌手、词人和演员，擅长吉他、贝斯、键盘和口琴。作为老鹰乐队（Eagles）的成员，Glenn Frey六次获得格莱美奖，五次获得美国音乐奖。
+
+ 本文来源：网易娱乐  
+责任编辑：金舒_NK4322

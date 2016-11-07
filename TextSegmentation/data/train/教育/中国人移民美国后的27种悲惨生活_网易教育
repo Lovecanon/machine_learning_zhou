@@ -1,0 +1,219 @@
+中国人移民美国后的27种悲惨生活_网易教育
+来美国后的下场有很多，随便举几个，给中国人民参考参考。
+
+网易教育频道综合讯 据联合国统计，世界上最大的忽悠就是纽约的自由女神，她一举手，全世界不明真相的人们就全来了，而来美国后的下场有很多，随便举几个，给中国人民参考参考。
+
+ 
+根据美国无党派自由研究机构“财政政策研究所”公布的研究报告指出，中国大陆出生移民数量在纽约地区移民总数中所占比重大，经济总量的贡献大。大陆移民在从事的工作领域上呈现两极化分布，分别集中于高薪的专业职位和低收入的服务性基础行业。而中国人移民美国看似光鲜亮丽，但背后却隐藏着各种心酸，例如在美国怎么生活下去，如何与美国人相处等等。另外，很多人移民国外以后觉得还是中国好，就又屁颠屁颠地跑回来了，根据亚太基金会研究员郭世宝完成“在北京的加拿大人”报告中，北京20万外籍人口当中，有10%来自加拿大，即有2万人；报告访问回流或移居在北京的加拿大居民，其中52%拥有加拿大国籍，其余是未入籍的加国永久居民，他们在回流前于加拿大居住时间平均为5年。这说明相当一部分移民都回流到中国来了！
+
+ 本文来源：网易教育频道综合  
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1美国纽约州弗农山优质别墅
+ 699000
+
+
+ 
+TOP 2美国加州圣何塞阳光家园
+ 1395000
+
+
+ 
+TOP 3美国加州精致独栋别墅出售
+ 215000
+
+
+ 
+TOP 4美国加州圣何塞华美小别墅
+ 1080000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

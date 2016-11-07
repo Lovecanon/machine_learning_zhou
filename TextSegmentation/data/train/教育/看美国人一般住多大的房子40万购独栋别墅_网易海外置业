@@ -1,0 +1,2567 @@
+看美国人一般住多大的房子?40万购独栋别墅_网易海外置业
+
+为什么中国人这么热衷到美国(房源)买房子？一些正在或打算买房的业主，他们给出的原因中，除了因为美国有良好的教育体系、一流的生活质量、强大的法治和产权制度从而使得住房是极好的保值工具之外，几乎所有的人都提到的一个事实是，美国独栋屋（也就是中国人口中的“别墅”）的面积很大，还带车库、院子甚至游泳池，加上环境好，和中国的同类房子的价格相比太物有所值了。如果你不信，那不妨看看小编为大家推荐的几套达拉斯(房源)、休斯敦精装独栋别墅。
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+房源推荐一>>>>达拉斯玫瑰豪园净租回报超6%       129万元
+
+项目45分钟车程覆盖机场及休斯顿(房源)主城核心区域，同时靠近大型的城市办公区、百货商场、体育馆。项目周边配套设施齐全，教育资源丰富。
+ 
+
+
+#photo1436262909413{width:100%;height:100%;}
+#photoView1436262909413{position:relative;}
+#gallery1436262909413 .nph_stream, #gallery1436262909413 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436262909413 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436262909413 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436262909413 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436262909413 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436262909413 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436262909413 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436262909413 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436262909413 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436262909413 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436262909413 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436262909413 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436262909413 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436262909413 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436262909413 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436262909413 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436262909413 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436262909413 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436262909413 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436262909413 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436262909413 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436262909413 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436262909413 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436262909413 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436262909413 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436262909413 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436262909413 .nph_list_thumb li a,
+#atlas_house1436262909413 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436262909413 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436262909413 .nph_scrl_prev,
+#atlas_house1436262909413 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436262909413 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436262909413 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436262909413 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436262909413 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436262909413 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436262909413 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436262909413 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436262909413 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436262909413 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436262909413 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436262909413 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436262909413 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436262909413 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436262909413 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436262909413 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436262909413 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436262909413 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+5室3.0浴
+315.0 ㎡
+
+/56
+（共56张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263032700.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263032700.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263033068.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263033068.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263033126.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263033126.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263034152.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263034152.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263035565.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263035565.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263035142.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263035142.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263035265.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263035265.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263037279.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263037279.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263038625.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263038625.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263039446.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263039446.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263038670.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263038670.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263040938.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263040938.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263041469.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263041469.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263042315.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263042315.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263042705.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263042705.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263042737.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263042737.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263043292.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263043292.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263043723.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263043723.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263044491.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263044491.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263044603.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263044603.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263044902.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263044902.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263046121.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263046121.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263046139.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263046139.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263046667.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263046667.png
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263047393.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263047393.jpg
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263088681.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263088681.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263089773.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263089773.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263089575.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263089575.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263091993.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263091993.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263091932.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263091932.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263093622.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263093622.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263093093.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263093093.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263094155.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263094155.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263095752.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263095752.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263095434.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263095434.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263096153.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263096153.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263097116.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263097116.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263097196.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263097196.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263098374.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263098374.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263098659.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263098659.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263099159.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263099159.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263100370.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263100370.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263100564.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263100564.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263101023.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263101023.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263102550.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263102550.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263102931.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263102931.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263103019.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263103019.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263104329.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263104329.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263104603.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263104603.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263105082.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263105082.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263106372.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263106372.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263105841.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263105841.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263106413.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263106413.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263107943.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263107943.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436263108423.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436263108423.JPG
+			
+						
+			
+			ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1438590429741.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751438590429741.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库
+ 7440 Rose Crest Blvd, Forest Hill, Dallas
+, TX
+, 76140
+
+
+196000
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436262909413 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436262909413" ,title: 'ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436262909413").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/32.649548,-97.26537300000001/9?mapSize=215,111&format=jpeg&centerPoint=32.649548,-97.26537300000001&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436262909413", {
+    url: document.location.href,
+    title: document.title,
+    summary: "ROSE CREST  达拉斯玫瑰豪园 Wilson 5房1书房1娱乐房1媒体房3卫3车库",
+    pic: function() { return $('#photo1436262909413').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436262909413').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>维斯塔豪园独栋别墅升值潜力大     131万元
+
+项目位于休斯顿西南方向的Richmond,距离休斯敦市区仅不到半小时车程。项目周边大型超市、购物广场众多，配套设施齐全。周边高分学校云集，教育资源广多且丰富。
+ 
+
+
+#photo1435831304843{width:100%;height:100%;}
+#photoView1435831304843{position:relative;}
+#gallery1435831304843 .nph_stream, #gallery1435831304843 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1435831304843 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1435831304843 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1435831304843 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1435831304843 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1435831304843 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1435831304843 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1435831304843 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1435831304843 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1435831304843 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1435831304843 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1435831304843 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1435831304843 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1435831304843 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1435831304843 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1435831304843 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1435831304843 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1435831304843 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1435831304843 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1435831304843 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1435831304843 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1435831304843 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1435831304843 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1435831304843 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1435831304843 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1435831304843 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1435831304843 .nph_list_thumb li a,
+#atlas_house1435831304843 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1435831304843 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1435831304843 .nph_scrl_prev,
+#atlas_house1435831304843 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1435831304843 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1435831304843 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1435831304843 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1435831304843 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1435831304843 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1435831304843 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1435831304843 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1435831304843 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1435831304843 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1435831304843 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1435831304843 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1435831304843 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1435831304843 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1435831304843 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1435831304843 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1435831304843 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1435831304843 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+150.0 ㎡
+
+/35
+（共35张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831392754.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831392754.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831391964.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831391964.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831393279.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831393279.jpg
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831393514.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831393514.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831394780.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831394780.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831396009.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831396009.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831396734.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831396734.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831397917.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831397917.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831399014.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831399014.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831402158.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831402158.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831403788.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831403788.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831405285.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831405285.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831406782.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831406782.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831408519.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831408519.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831409719.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831409719.jpg
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831410878.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831410878.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831396892.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831396892.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831412276.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831412276.jpg
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831412683.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831412683.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831414562.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831414562.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831414669.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831414669.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831416195.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831416195.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831415947.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831415947.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831417648.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831417648.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831418406.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831418406.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831419270.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831419270.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831419109.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831419109.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831395026.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831395026.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831701432.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831701432.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831983794.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831983794.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831984315.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831984315.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831985912.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831985912.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831984802.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831984802.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831987191.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831987191.png
+			
+						
+			
+			Grand Vista——维斯塔豪园独栋别墅项目
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1435831984419.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751435831984419.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Vista——维斯塔豪园独栋别墅项目
+ 19022 Grand Vista Springs Blvd Richmond, Houston
+, TX
+, 77407
+
+
+200000
+详情咨询
+
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1435831304843 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1435831304843" ,title: 'Grand Vista——维斯塔豪园独栋别墅项目'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1435831304843").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/29.7604267,-95.3698028/9?mapSize=215,111&format=jpeg&centerPoint=29.7604267,-95.3698028&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1435831304843", {
+    url: document.location.href,
+    title: document.title,
+    summary: "Grand Vista——维斯塔豪园独栋别墅项目",
+    pic: function() { return $('#photo1435831304843').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1435831304843').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>休斯敦溪谷公园独栋别墅首付30%     131万元
+
+项目坐落在休斯敦市西北方向的Cypress,距离休斯敦市中心仅30分钟车程。便利的区位以及完善周边配套使得项目升值潜力巨大。。3英里范围内则共有7所高分小学、初中级高中，教育资源丰富。
+ 
+
+
+#photo1436174566912{width:100%;height:100%;}
+#photoView1436174566912{position:relative;}
+#gallery1436174566912 .nph_stream, #gallery1436174566912 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436174566912 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436174566912 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436174566912 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436174566912 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436174566912 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436174566912 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436174566912 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436174566912 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436174566912 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436174566912 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436174566912 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436174566912 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436174566912 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436174566912 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436174566912 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436174566912 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436174566912 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436174566912 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436174566912 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436174566912 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436174566912 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436174566912 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436174566912 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436174566912 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436174566912 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436174566912 .nph_list_thumb li a,
+#atlas_house1436174566912 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436174566912 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436174566912 .nph_scrl_prev,
+#atlas_house1436174566912 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436174566912 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436174566912 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436174566912 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436174566912 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436174566912 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436174566912 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436174566912 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436174566912 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436174566912 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436174566912 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436174566912 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436174566912 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436174566912 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436174566912 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436174566912 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436174566912 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436174566912 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+4室2.5浴
+202.0 ㎡
+
+/46
+（共46张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175098126.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175098126.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174729903.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174729903.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174729841.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174729841.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174732592.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174732592.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174733805.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174733805.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174733875.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174733875.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174736752.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174736752.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174738067.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174738067.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174739057.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174739057.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174742716.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174742716.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174743820.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174743820.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174746888.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174746888.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174748701.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174748701.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174749503.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174749503.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174751508.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174751508.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174756912.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174756912.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174758237.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174758237.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174760797.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174760797.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174763859.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174763859.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174764788.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174764788.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174769026.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174769026.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174773386.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174773386.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174772538.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174772538.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174776730.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174776730.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174778070.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174778070.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174821915.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174821915.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174824709.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174824709.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174825343.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174825343.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174779343.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174779343.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174827554.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174827554.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436174831742.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436174831742.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175031186.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175031186.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175033119.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175033119.png
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175082469.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175082469.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175084029.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175084029.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175088928.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175088928.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175089188.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175089188.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175089419.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175089419.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175095414.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175095414.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175098933.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175098933.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175101727.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175101727.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175102561.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175102561.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175102599.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175102599.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175109308.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175109308.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175108869.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175108869.jpg
+			
+						
+			
+			CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436175108310.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436175108310.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库
+ 16727 Savannah Park Drive, Cypress, Houston
+, TX
+, 77429
+
+
+200000
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436174566912 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436174566912" ,title: 'CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436174566912").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/29.7604267,-95.3698028/9?mapSize=215,111&format=jpeg&centerPoint=29.7604267,-95.3698028&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436174566912", {
+    url: document.location.href,
+    title: document.title,
+    summary: "CypressPARK CREEK休斯敦溪谷公园独栋别墅 Selva 4房2.5卫双车库",
+    pic: function() { return $('#photo1436174566912').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436174566912').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+ 1240680
+
+
+ 
+TOP 2CypressPARK CREEK休斯敦溪谷公园独栋别墅 Newcastle 4房3卫双车库
+ 200000
+
+
+ 
+TOP 3CypressPARK CREEK休斯敦溪谷公园独栋别墅 Oakdale 4房3卫双车库
+ 200000
+
+
+ 
+TOP 4CypressPARK CREEK休斯敦溪谷公园独栋别墅 Heatherwood 3房2卫双车库
+ 200000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

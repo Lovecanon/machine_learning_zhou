@@ -1,0 +1,56 @@
+看空中国人士狙击阿里 做空头寸创14个月新高_网易财经
+做空阿里巴巴的头寸升至14个多月来的最高水平，阿里巴巴今年迄今累跌13%；中国2015年增速创25年新低。
+window.__STOCK_COMPONENT__.push({code: 'BABA', type: 'US', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月25日讯 据彭博，由于市场担心中国创出1990年以来最慢增速后经济状况只会进一步恶化，美国卖空人士把看空阿里巴巴的头寸提高至14个多月来的最高水平。Markit和彭博汇总的数据显示，1月21日，看空这家中国最大网络零售商的头寸占其流通股的比例升至7.5%，为2014年11月份以来的新高，较去年12月1日触及的低点上升逾一倍。对竞争对手京东的看空头寸自上个月以来一直在2%左右徘徊。随着中国内地股市上周进入技术性熊市，悲观人士再次把矛头指向了阿里巴巴这个美国投资者对中国信心的风向标。今年以来的跌势拖累阿里巴巴美国存托凭证(ADR)下跌逾13%，已经令看空该公司的投资者有所斩获。(做空阿里巴巴的头寸升至14个月高点；白线为阿里巴巴股价，蓝线为做空阿里巴巴头寸占流通股之比)Summit Research Partners LLC驻旧金山分析师郭琪表示，投资者把阿里巴巴看作是可以反映中国经济状况的股票；随着中国经济前景恶化，阿里巴巴成了大家建立做空中国头寸的捷径。他对阿里巴巴的评级为买入。中国领导层已经表示，在应对降低过剩产能等棘手问题之际，可能会容忍经济减速。经济学家的预估中值显示，身为全球第二大经济体的中国今年将减速至6.5%，明年至6.3%。从公司层面来看，自阿里巴巴2014年登陆纽约证交所以来，假冒伪劣产品和阿里巴巴的会计问题一直在投资者头脑中挥之不去。CNBC报道称，Kynikos Associates LP创始人Jim Chanos曾在11月份就这只股票发出预警。去年12月份，俄罗斯亿万富豪Alisher Usmanov表示，开始卖出所持阿里巴巴股票。阿里巴巴在通过电子邮件发送的公告中对市场猜测不予置评。阿里巴巴定于1月28日发布第三财季业绩。彭博汇总的26位分析师的预估均值显示，收入预计将达到330亿元人民币（50亿美元）。上年同期为262亿元。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+海顺新材明日网上申购 申购需防“乌龙指”
+农行曝39亿巨额票据案 H股跌近3%创4年最低
+行业动态
+融资客逆市抄底222只股 医药等三类股可轻仓跟进
+多公司业绩预减预亏 周期性行业“受灾”严重
+公司新闻
+宫斗之殇：深康佳预亏12亿 创成立以来纪录
+中毅达：接盘方被暂停账户交易 还能“妖”多久
+
+
+ 
+
+
+
+ 本文来源：网易财经  作者：Bonnie Cao
+责任编辑：余顺遂_NF5724

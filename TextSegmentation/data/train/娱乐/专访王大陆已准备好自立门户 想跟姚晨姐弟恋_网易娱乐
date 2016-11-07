@@ -1,0 +1,57 @@
+专访王大陆:已准备好自立门户 想跟姚晨姐弟恋_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/S/D/VBDCT5OSD.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/27/EwBiI9007/SD/EwBiI9007-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+专访王大陆:想跟姚晨姐弟恋
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月27日报道 (图文、视频/台湾报道组)因为一部《我的少女时代》让24岁的王大陆，沉寂几年终于尝到走红的滋味，短短时间微薄人气突破171万，很多粉丝都称他是“老公”，一双电眼让许多妹子一路追星，只为了跟这个笑起来有点傻气的新锐巨星有一面之缘。王大陆说自己这段期间，因为跟柴智屏的合约纠纷“的确学习到很多，未来自己开公司之后，我相信要学的东西，不会比现在少。”他笑说自己一直以来，不跟是非，不扯淡，“我修养一直都满好的，因为我是一个讲事情的人，说了就要做好。”去了一趟米兰，打开时尚观，还有许多剧本邀约，王大陆说今年会有一些作品跟大家见面，“开公司拍电影一直是我想做的事情，没想到这么快就实现了。去年的收获真的很多，我会好好努力。”最想挑战的角色，倒是跟他的性格颇为贴近，就是“韦小宝”！笑起来露出一口白牙，王大陆搞笑功力其实满有综艺喜感，“韦小宝又痞又色，也很幽默，这角色很适合我啊！”提到想合作的对象，果不出其然，他对着镜头喊话，“姚晨姐姐。”原来他心中目前最想合作的对象，就是姚晨，“来谱一段姊弟恋也不错啊！”看这对组合有没有导演要来凑对，说不定可以塑造新的银幕情侣。以下是采访实录：网易娱乐：大陆谈谈最近的心情？王大陆：最近心情不错啊，因为我刚从米兰回来，我带妈妈去男装，时装周，但都是男装，很失望。网易娱乐：去了米兰之后，有没有觉得自己时尚观变好？王大陆：我觉得OK啦，因为就是看一下他们风景跟人，真的是不一样。那他们的文化，他们的艺术真的很厉害，意大利的艺术家真的都很猛。网易娱乐：开了公司之后，会觉得一切很不容易吗？王大陆：对啊，其实我很兴奋，真的很棒，然后能，这也是我以前梦想的事情，那我觉得那么快可以做到，也是挑战自己的事情，就是我去年得到很多的启发，然后很大的收获。网易娱乐：自己有什么样的计划对于未来电影发展？王大陆：一直都是由我自己来决定，当然要找到一个更棒的作品，超越《我的少女时代》，挑战自己这很重要，不然2年后，人家还觉得你在演徐太宇的话，那就很无聊。网易娱乐：有没有梦想的角色？王大陆：我想演韦小宝，（真的假的？）我喜欢演喜剧，我觉得他又痞又色，又幽默，又是一个很梦幻般的男主角，很适合我。网易娱乐：有想要跟谁对戏？王大陆：我想要姚晨姊姊，有机会能演出她的姊弟，姊弟恋，她自己很好，所以我非常想跟她合作。网易娱乐：这期间的纷扰，有没有让你学习很多？王大陆：当然啊，以前看事情太简单了。那我觉得当一个公司的人，我觉得也是需要学习这么多东西。以后东西一定不会比现在少，虽然我现在都碰到了，那我觉得也满好的。网易娱乐：心智也要修炼，现在开始修这堂课了吗？王大陆：我觉得我修养满好的啊，我觉得我还好，我不是一个去骂人不好的人，我们其实没有讲别人一件不好的事情。我是一个讲事情的人，我想要做什么，我会讲得很清楚，我就做好自己的事情，我也不跟别人是非，也不跟别人扯淡，对不对。网易娱乐：重心会放在内地吗？王大陆：希望，都可以，我觉得就是好的剧本，好的团队，当然要去尝试，干吗要把自己封闭起来。网易娱乐：那现在有没有几个剧本在讨论之中，有多快可以跟我们见面？
+
+ 
+王大陆：最新的作品，应该暑假有个东西，过年也有，10月份我不知道《铁道飞虎》什么时候上，听好像10月。慢慢都会有，我现在还会再拍，我不知道他们什么时候要上。网易娱乐：过年要放假，放假最想做什么？王大陆：放假就是把自己挑整好，准备好工作状态。网易娱乐：会跟家人摸两圈，或是放鞭炮吗？王大陆：那是必须要摸两圈的，打不大啊，家人赌，输赢没意思。当然要跟兄弟们赌，跟外面的人赌，就是刺激。一桌兄弟，大家来摆，满好玩的。（柯震东会一起吗？）看他有没有时间啊。
+
+ 本文来源：网易娱乐专稿  
+责任编辑：金舒_NK4322

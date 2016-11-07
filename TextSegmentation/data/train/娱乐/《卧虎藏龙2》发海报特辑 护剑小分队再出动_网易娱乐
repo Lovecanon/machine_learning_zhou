@@ -1,0 +1,54 @@
+《卧虎藏龙2》发海报特辑 护剑小分队再出动_网易娱乐
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/0/5/VBCOFKM05.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/19/lWByt3700/SD/lWByt3700-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《卧虎》“重回江湖”特辑
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+网易娱乐1月19日报道 由袁和平执导，甄子丹、杨紫琼、岑勇康、刘承羽联袂出演的功夫武侠巨制《卧虎藏龙：青冥宝剑》今日发布“青冥双阵”版四正四邪人物海报和“重回江湖”人物特辑。海报中，四位主演再展江湖侠义之风，影片中的四大反派也首次露相，拉开江湖大战的序幕。发布的人物特辑里导演携主演集体亮相解说各自饰演的角色，这部由中国功夫“铁三角”袁和平、甄子丹、杨紫琼再度合力打造的武侠世界将于猴年新春与观众见面。护剑小分队再出动  剿灭邪教义不容辞《卧虎藏龙：青冥宝剑》今日发布的“青冥双阵”海报中，揭示了影片最核心的阵容：以甄子丹、杨紫琼为首的江湖正义之师对阵以贾森（饰戴阎王）为首的邪教组织花莲派，一场“青冥争夺战”的序幕正式拉开，而纷争背后隐藏着的错综复杂的人物关系也在八人中交织，假死之故、身世之谜、两代人的爱恨情仇在江湖的是非善恶间如何化解，都引人遐想。此次的海报以“沙漠黄”色调为主，整体风格跟上一版海报有所差别，显示出大战临近的压抑和紧迫。四位主演的人物关系在海报中有所体现，甄子丹的海报字卡“无言之誓，无憾之情”似乎暗示着他在影片中的感情线路，而杨紫琼的“守道如命，守心如诚“则是她在剧中所饰角色性格的写照。两位年轻演员岑勇康（饰魏方）和刘承羽（饰 雪瓶）的人物字卡则更贴合年轻侠客的心境，分别为”少年意气，追缘逐风“、“冰雪青春，有爱方融“。4位主角个性鲜明、武功高强，在大是大非前的选择也体现出江湖儿女“仗剑三千里，快意了恩仇”的洒脱豪迈，这种与当代截然不同的生活方式不由得让人心向往之。此外电影中的四大反派戴阎王、铁乌鸦、九幽女、断魂莺在这版海报中均有曝光。四人眼神凌厉，邪气外露，势必掀起一场江湖血雨腥风。功夫“铁三角”造现世武侠  第一个献给年轻人的江湖再次联手的袁和平、甄子丹、杨紫琼堪称中国功夫“铁三角”，此前便有合作的三人在这部电影中更为默契，“往往我们通过一个眼神就知道彼此的意思。”发布的特辑里，导演袁和平赞甄子丹、杨紫琼，“他们是动作方面很有才华的演员。”甄子丹透露自己在电影中饰演俞秀莲的未婚夫孟思昭，而这一角色在《卧虎藏龙》中已经英年早逝。杨紫琼（饰俞秀莲）则故意卖关子，“他在这部电影里出现，你说会发生什么呢？”俞秀莲和孟思昭在影片中有感情戏份，而此前《卧虎藏龙》的剧情里，俞秀莲和李慕白心生暧昧两情相悦，在《卧虎藏龙：青冥宝剑》中两人的感情将走向何处，三人又有怎样的纠葛，都将得到交代。
+
+ 
+这部由“天下第一武指”袁和平执导、奥斯卡团队助阵，斥巨资打造的武侠大片，除了给观众带来精彩卓绝的武打镜头，还描述了一个充满正义感和正能量的江湖。导演袁和平说：青冥宝剑是一种道义的展现，而道义说穿了就是侠客对当时社会的使命感。所以在某种意义上，由孟思昭，俞秀莲，魏方、雪瓶和其他侠士剑客所组成的“江湖”讲述的是他们对于既定环境的责任，而电影《卧虎藏龙：青冥宝剑》则是对于当代社会的一种“武侠化解读”。中国电影股份有限公司总经理江平也曾说过，这是一部“魂牵世界”的电影，它的降生不仅仅是为了讲述一个东方武侠故事，更在于给当代青年灌输一份社会正义和责任感。《卧虎藏龙：青冥宝剑》将于2月19日与全国观众见面。
+
+ 本文来源：网易娱乐  
+责任编辑：高佳亮_NK1733

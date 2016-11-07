@@ -1,0 +1,55 @@
+扎克伯格的普通话震惊世界 汉语到底有多难学？_网易教育
+许多其他的企业大亨、政治家和奉承者抵达北京时声称他们会好好学习汉语，但很少有谁在用中文进行简单的礼貌问候之后还试图继续用中文交谈。
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" height="100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1410/23/ijBzq0784/SD/ijBzq0784-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+扎克伯格清华大学演讲全程秀中文
+（来源：网易科技频道）
+
+
+
+
+
+
+
+
+!function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+中国日报网讯 Confucius said the superior man puts all his energy into everything he does...On Wednesday, armed only with his favourite grey T-shirt and goofy smile, Mark Zuckerberg held court in one of China s most prestigious universities for half an hour. In Mandarin.So this son of a New York dentist gets a gold star   or a red flower, as they are called in China   for not only mastering the internet by the age of 30 but also somehow finding time to learn the world s most difficult language.“Hello everyone,” he said, to whoops of excitement from the audience (who, being elite business students could all speak English). “There are three reasons I decided to learn Chinese. The first, my wife is Chinese. Her grandmother can only speak Chinese. When I told her in Chinese I was going to marry Priscilla, she was very shocked. Then I want to study Chinese culture. The third: Chinese is hard and I like a challenge!”After he posted a video, there were also swoons of envy across the world. Speaking Mandarin, with the assumption that it bring the keys to the new global superpower, is now such a prized social goal that Mark Zuckerbergwas instantly labelled a genius for his Chinese chitchat.Plenty of other tycoons, politicians and sycophants arrive in Beijing claiming to be beavering away at Chinese, but I have never seen anyone attempt more than a few polite interchanges before reverting to English. George Osborne, the Cabinet s leading Sinophile, only got as far as a “hello” on his most recent visit. Zuckerberg was out of his comfort zone, but he just kept going.A journey of a thousand miles begins with a single stepSo how good was Zuckerberg s Chinese? It was good enough to wow the world, but in truth, four years of studying has brought him only to base camp. Mandarin still rises up before him, a mountain that most adult learners will climb for ever, with no peak to reach. I studied Chinese every morning for two hours for the first four years of my time here, but neglected my homework and have recently been overtaken by my three-and-a-half year-old son, who babbles away cheerfully to everyone he meets.One of my American colleagues wrote that Zuckerberg s pronunciation was as if he had a “mouthful of marbles”. That is fine in French, where you can just about rub by with a wonky accent, but in China it is fatal. One slip of your tones and all meaning is lost. Zuckerberg was trying to say “China”, but it came out sounding like “Middle Kiss”.Still, it is not just foreigners who find Chinese tricky. In September, Li Weihong, the director of China s State Language Commission, said about a third of China s population, roughly 400 million people, cannot speak Mandarin either, preferring their local dialects. And of the 900 million people who can speak Mandarin, only 10 per cent speak it “fluently”, he said.孔子曰，吾道一以贯之周三，穿着自己喜欢的灰色T恤，带着憨厚微笑的马克・扎克伯格（Mark Zuckerberg），在中国最负声望的大学之一清华大学与主持人进行了半个小时的普通话交谈。这个纽约牙医的儿子因此获得了一个奖励，或者中国人说的获得了一朵大红花――他不仅在30岁就掌控了互联网，而且不知怎么还挤出时间，学会了世界上最难学的语言。马克・扎克伯格刚说完“大家好”，观众（作为精英商科学生都会说英语）就发出了兴奋的呼喊。“有三个原因使我决定学习汉语。首先，我的妻子是中国人，她的祖母只会说中文，当我用中文告诉他我将和普莉希拉结婚时，她显得很震惊，第二个原因是我想学习中国的文化，第三个原因是因为中文很难学，而我喜欢挑战。”在他展示了一个视频后，全世界都羡慕起他。讲普通话，假设这可以打开这个新的全球超级大国的市场，这个社交目的是如此有利，以至于扎克伯格进行普通话聊天后立马被贴上了天才的标签。许多其他的企业大亨、政治家和奉承者抵达北京时声称他们会好好学习汉语，但我从未见过有谁在用中文进行简单的礼貌问候之后还试图继续用中文交谈。作为亲华人士的英国财政大臣乔治・奥斯本，在最近的访华过程中只学会一句中文“你好”。扎克伯格并没有沉溺于自己舒适的温室中，而是选择继续前行。千里之行，始于足下那么扎克伯格的中文到底怎么样？虽然好到足以让世界震惊，但事实上，4年的学习只让他达到了山底的大本营，普通话这座大山仍然屹立在他面前，这是一座大部分成年学习者将要倾其一生去攀登，却永远达不到顶点的山峰。在中国的最初四年，我每天早上花费两个小时学习中文，但我忽视了家庭作业，最近我三岁半的儿子已经超越我了，他见了谁都会兴高采烈地牙牙学语。我的一个美国同事写道，扎克伯格的中文发音好像他嘴里塞满了大理石，这在法语里是无所谓的，在法语里，你可以任由不靠谱的口音来改变声调，但在中文里，这是毁灭性的灾难，任何一个音调的滑落都会改变句子本身的意思。扎克伯克试图说“中国”，但听起来像是说“中间吻”。
+
+ 
+而且，不只是外国人发现汉语是棘手的。在9月份，中国国家语言文字工作委员会主任李卫红表示：将近1/3的中国人，也就是约4亿人，不会说普通话，他们宁愿说自己的方言。她还表示，在会说普通话的9亿人中，只有10%的人表达流利。下一页：扎克伯格是因为与妻子交谈而学好的汉语吗？相关>>扎克伯格与中国不得不说的几重关系
+
+ 本文来源：中国日报网

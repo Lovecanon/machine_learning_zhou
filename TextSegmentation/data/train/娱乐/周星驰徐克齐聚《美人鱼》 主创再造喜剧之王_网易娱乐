@@ -1,0 +1,57 @@
+周星驰徐克齐聚《美人鱼》 主创再造喜剧之王_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/2/P/P/VBDPTP5PP.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1602/01/raKdX5192/SD/raKdX5192-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《美人鱼》发布终极预告片
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐2月1日报道 周星驰最新力作《美人鱼》即将于2月8日猴年初一上映，作为一道“食神”本尊亲手调制的“年夜饭”，影片已于1月26日提前开启抢票模式。1月31日《美人鱼》在京举办了“鱼水合欢”发布会，星爷携“人鱼家族”邓超、罗志祥、张雨绮、林允、李尚正、卢正雨、杨能、白客与孔连顺齐聚，小考《喜剧之王》经典桥段，现场欢乐不断。当天徐克则作为重磅惊喜首度亮相，并透露此次在《美人鱼》中有特别出演。影片也成就了徐克导演与周星驰导演“王不见王”的首度合作。现场更首发影片终极预告，大片气场尽显，周氏喜剧猜不透之风格再次引发热议。终极预告出炉颠覆想象  星爷童心大发称路演“很兴奋”此次发布会公布了《美人鱼》的终极预告片，正式宣布影片上映进入最终倒计时阶段。预告片中大气、爱情、无厘头成关键词，完全颠覆了影片之前的物料风格。邓超、罗志祥、张雨绮、林允四人错综的情感关系也浮出水面。邓超高喊：“你不是人，你是天使。”罗志祥质问：“难道你真的爱上他？”预告片最后以林允的独白结束：“假如你的生命只剩下最后一分钟，假如地球上连一滴干净的水、一口干净的空气都没有，你最想干嘛？”造足悬念，精彩的同时又依然保持星爷“猜不透”之风格。眼看影片上映在即，影迷却依旧无法识得故事的庐山真面目，吊足胃口，只得等待大年初一亲自进影院一探究竟。距电影《美人鱼》2月8日上映还有一周多的时间，但从1月26日影片开始预售起，各大电商平台就已呈现出“抢票”模式，显示了其旺盛的人气。此次“鱼水合欢”发布会，星爷以最新一期“喜剧之王培训班”班主任的身份，携手众成员悉数亮相。这段时间为宣传影片，周星驰更史无前例地携影片主创开始了全国20城路演。被问及路演是否很累，周星驰表示：“看到粉丝兴奋，再跑30个城市的话，我都OK的。”当天星爷玩得开心，童心大发，一身“美人鱼”服装走起嘻哈范儿，还问现场观众：“我帅不帅？我的帽子好不好看？”让人惊喜十足。关键道具揭四主演角色性格  众主创致敬“喜剧之王” 发布会现场邓超、罗志祥、张雨绮、林允四主演组队“人”、“鱼”阵营，并特别准备了剧中特殊道具，用胡子、锤子、火箭筒、滑板透露角色关键信息。邓超表示自己所饰演的角色在影片中有着不堪回首的往事，所以胡子是用来掩饰自我的，自己的表演也分为“有胡子版”和“没胡子版”两种状态。“带上胡子，是个Ghost（魔鬼），摘下胡子，是个Angel（天使）。”周星驰则点评：“邓超无论正剧还是喜剧，他的功力都是很高的。”更补充道：“他的角色实际上是个小朋友，但在这个世界，他要装成大人，变成一个很无敌的，唯利是图的人物。自己贴上胡子，他本来不是这样的。”罗志祥则调侃上一部与星爷合作《西游降魔篇》时，从头到尾都坐着演；这次到了《美人鱼》终于不坐着了，却要飞檐走壁，没有一刻是安静的。“我这次演的不是人，也是进演艺圈以来最难演的角色，是个章鱼！”他更表示自己在片中从头到尾都“没有正常过”。经常在片场，“刚吃饭，导演就喊，来‘准备倒吊’！”他更申请下次要“演一个正常的人，不再肾虚。”却得到周星驰调侃：“不如你演一个肾虚的章鱼，走路会是什么样呢？”张雨绮则透露手里的火箭筒代表着自己的反派定位，并用两个词形容角色，“暴力和美学”。同时感慨《美人鱼》是自己拍摄的首部有大量动作戏份的电影。张雨绮回忆“当时在国外拍戏，车坏了，心想怎么这么倒霉。忽然星爷就电话打过来，问有一个不是太好人的角色，你有没有兴趣？我把车扔下打飞机就立刻过去了。”林允现场更表示片中美人鱼的交通工具就是滑板：“用鱼尾走路很慢，所以要用滑板，导演有让我学滑板，拍戏的时候就绑着两条腿，滑滑板。”让人觉得新鲜有趣。随后作为这一期“喜剧之王培训班”成员的李尚正、卢正雨、杨能、白客、孔连顺亦登场齐聚，以“粉丝”与“老友”身份讲述了此次难得的合作。片中饰演馆长的杨能特别以浴袍装出镜，现场更还原美人鱼姿态。白客、孔连顺则表示“一直到进了剧组才知道这件事是真的！”众主创也在周星驰现场执导下，重新演绎了星爷《喜剧之王》的经典桥段作为“毕业小考”，致敬的同时不忘搞怪，纷纷加入各具特色的表演。周星驰在现场也对各位“学员”赞赏有加：“Amazing！你们演得都很好！”徐克压轴亮相成重磅惊喜  两大殿堂级导演首度合作此次“鱼水合欢”发布会上，最令人惊喜的莫过于徐克导演作为最神秘的压轴惊喜重磅亮相。徐克也特别透露这次是作为演员和周星驰合作，在《美人鱼》将有特别出演！更宣布两人的二度合作：由周星驰监制，徐克导演的《西游伏妖篇》也将很快与大家见面。据悉，这两位香港电影殿堂级人物此前在作品上一直没有交集，颇有“王不见王”的意味，这一次《美人鱼》更是达成了两人闯荡江湖三十多年来的首度联手。问及原因，周星驰无厘头地表示：“徐克演技很好，其实最会演戏的就是导演。我觉得一个是徐导演，一个是我，演技没的说。”徐克则回忆：“很多年前，两个人就要谈合作，谈了好多年。但是他太忙了，我就等他，结果赶上了。”并开玩笑表示：“我站在片场都不敢动，张雨绮和邓超都知道，不敢动，哪句话要动起来，都要看导演的。” 
+
+ 
+发布会最后徐克更是现场赠墨宝“大年初一・鱼水合欢”，祝星爷：“新年满堂红，票房第一！”二人合力举起，与大屏幕“人鱼送喜迎春到・星爷陪你过大年”组成对联，开心之余二人更是童心大发，现场展示“虎鹤双行拳”，寓意《美人鱼》“一飞冲天，人鱼冲天”。众主创则手持“年年有‘鱼’”春联合影送福。此前星爷曾解释“鱼水合欢”的含义为“鱼就是《美人鱼》，水就是观众。有水才有鱼，猴年春节这条鱼也会陪大家开心过年。”影迷等足三年，周星驰新作《美人鱼》终于要在2月8日与观众见面。有《美人鱼》陪伴，这个春节也将会充满欢乐。电影《美人鱼》即将于大年初一贺岁上映，并已于1月26日提前开启预售。
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

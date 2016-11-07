@@ -1,0 +1,58 @@
+独家专访《我是歌手》苏运莹：我赢了一场live_网易娱乐
+内地90后女歌手苏运莹作为《我是歌手4》首位踢馆歌手，迎战六位首发歌手，在赛后第一时间接受网易云音乐独家专访。
+苏运莹
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/P/6/VBDNKV8P6.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/31/bQSmz9474/SD/bQSmz9474-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+苏运莹：我赢了一场Live
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月31日报道 内地90后女歌手苏运莹作为《我是歌手4》首位踢馆歌手，迎战六位首发歌手，在赛后第一时间接受网易云音乐独家专访。对于这次登上《我是歌手》的舞台，苏运莹扬言毫无压力，而且现场唱得超爽，但问她当时受到节目组邀请时的反应，她却说：“其实我本来不想参加的。”如何解释这种自相矛盾？网易云音乐独家专访苏运莹。野生版蔡健雅，歌唱舞台再登台苏运莹：只是觉得，啊？为什么要找我？没有什么太大反应吧。那时候并没有很想要参加这个节目，因为可能还需要磨炼一下吧，自己更成熟的时候再好好站上这个舞台，享受这个舞台。但是既然来了，那就去吧。因为我觉得去那儿不需要紧张，因为我觉得那儿就是一个爱音乐的人、享受音乐的人站上的舞台，因为就是Live啊，有很棒的乐队，我觉得去那儿享受乐队就够了，真的是很棒的乐队，要疯！我自己心里就是期待吧，挺期待站在舞台上发出第一个音的感觉，还有Keyboard从我的耳朵穿进去的感觉，我比较期待这个。苏运莹：但鼓励什么的挺多啦，coco姐，还有……我老怕叫错他名字，致列哥，他老是会用眼神告诉我，他觉得你还不错的样子，因为语言不通嘛，当时说结果的时候，因为他坐我旁边，我们两个经常（眼神交流）这样子，我读懂了他的心。Part2：关于选歌：“我要唱飞了！”苏运莹：满意啊，超满意，因为我自己唱得超爽，感觉要飞起来了，唱得超开心。苏运莹：因为我唱歌、选歌，只管舒服，我觉得舒服、自在最重要，表达你想表达的东西，我觉得这才是音乐该回到最初的东西，所以就选了这首，因为毕竟也是这首歌让更多人认识我的一个开头，认识我作品的一个开头。任何事情都有风险吧，说不定我吃个饭都有风险，说不定我吃牛肉就过敏呢，我自己不知道，任何事情都有好有坏吧，看自己怎么面对啦。苏运莹：我觉得那个劲儿从小长到这么大，其实它一直都在，只是这首歌经过了一年，经历了一些事情，对这首歌的诠释或重新解读应该会更不一样吧，反正我觉得每一遍唱得都不一样哎。苏运莹：其实它还是最初的那颗心，永远不会变，就像《野子》一样，因为是自己的歌嘛，不管再怎么唱，它还是最初的心，我相信每个创作人都是这种感觉。苏运莹：我觉得人的身体里面不可能只有一个细胞啊，绝对不可能吧，亿万个细胞才组成了这样一个人，这样一个你、这样一个大家吧，所以我觉得只是我选择了今天把这个细胞放大、明天把那个细胞放大，就做成了不一样的音乐作品，展现了不一样的自己，那有什么关系呢？都是我呀都是你呀都是他呀。Part3：那一刻，有爱上Keyboard手苏运莹：有！超有！我每次都看他一两眼，给他抛媚眼（笑）。我觉得都是很棒的乐手，《我是歌手》也是，《我是歌手》可能范围更广吧，更多，各种弦乐玩，几十个人在你旁边，唱起来更拽的感觉，就会更有激情吧，更盎然。苏运莹：真的是Keyboard手哎（笑），也不是爱上了，就是喜欢嘛，我觉得他弹琴的样子好帅，我觉得每个Keyboard手弹琴的样子都好帅，尤其更近距离接触就会产生很好很好很好的好感，就是由这个小爱情想到的一些人跟人之间的人际关系吧。苏运莹：其实我在做每件事情都会想很多，想好的结果、坏的结果，都会想，所以就还好吧，反正我接到要来这个的时候，我答应了以后其实很期待的，不会有紧张、有压力，或者别人说的什么多的想法，其实没有，就是来享受音乐的，因为我自己很喜欢Live，很喜欢乐队在身边的感觉，就是享受当下，就是这个感觉。
+
+ 
+苏运莹：我也不是为了要证明给别人看我成长了怎么样，只是想告诉别人这一年以来可能自己感受的会更多，希望每个人都可以感受身边的事情吧。就是平常心对待这些事情吧，其实很多事情只要你看重它了，也许它就是炸弹，你不看重它，它就是清汤淡水（笑）。我的海南口音（笑）。苏运莹：因为赢了一场Live，而且洪涛大哥还给我送了一束百合，超棒的！我看到拿着一束百合走上来，之前他宣布完结果的时候其实还好，就是平静对待，因为我很喜欢百合花，他拿了一束百合上来，哇！真是要疯，超感动，觉得好温暖啊。
+
+ 本文来源：网易娱乐专稿  
+责任编辑：李丹_NK2653

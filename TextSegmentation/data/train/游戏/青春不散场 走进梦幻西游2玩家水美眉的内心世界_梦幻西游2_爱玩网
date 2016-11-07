@@ -1,0 +1,75 @@
+青春不散场 走进梦幻西游2玩家水美眉的内心世界_梦幻西游2_爱玩网
+
+《梦幻西游2》对于许多玩家而言，不仅仅是一个游戏，更是一份依恋，一段难以拒绝的青春。而最近《梦幻西游2》传奇玩家水美眉现身网络，邀请玩家与他一同于《梦幻西游2》中再续前缘，并由此揭开“青春不散场”《梦幻西游2》寻人启事活动的序幕，鼓励每一个玩家站出来，与自己的现在的、曾经的好朋友们一起，分享自己在游戏之中的点点滴滴。《梦幻西游2》寻人启事活动专题：http://xyq.163.com/2016/xrqs/
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/F/O/VBDAMFQFO.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/luHhp4881/SD/luHhp4881-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+梦幻西游寻人启事-
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+传奇玩家现身 水美眉与你相约《梦幻西游2》提到水美眉，绝大多数的梦幻玩家都会对他印象深刻，他不仅曾经带领河姆渡服务器数次夺得武神坛联赛冠军，同时还成功挑战了生死劫第九关，从而叩开了150级装备武器制造的大门。而最近，水美眉再度站到了摄像机镜头前，号召每一个曾经在他成长路线中，给予他帮助与关注的玩家，都能回到《梦幻西游2》之中，与他重走西游路。传奇玩家水美眉在拍摄现场青春不散场 追寻好友再续前缘每一个玩家心中恐怕都有一段属于自己的最美好梦幻回忆，而随着时间的流逝，这份回忆中的主人公也许也已经消失在你的眼前。现在《梦幻西游2》“青春不散场”活动正式开启。你可以在这一页面中，与其他玩家分享自己与这些老朋友之间所发生的点滴美好回忆，并号召他们能够回到你的身边。相信你的故事，一定能够打动那些老朋友的心。水美眉笑容温暖重温辉煌过往 全球搜罗梦幻老玩家在这一全新的“青春不散场”活动中，不仅玩家可以在其中张贴寻人启事，寻找自己过去的最好梦幻玩伴，同时也可以通过输入自己的游戏相关信息，查询是否有人在游戏中苦苦记挂着你。在这一活动中，你还能够查看其他玩家与自己好友之间的过往，与其他玩家分享你自己的梦幻故事。这些独属于梦幻玩家自己的故事，想必会引起你的无限共鸣。现在，《梦幻西游2》“青春不散场”活动已经正式开启，不仅是水美眉，海量梦幻玩家都会在其中，等待着你的回归。
+热点推荐：
+2016首冠！梦幻西游2第114届武神坛之战
+111联装备集锦 | 112联15锻硬件 | 113联宝宝烈出高度 | 老板换新符石
+限量祥瑞甜蜜泡泡 | 嘉年华祈福石直播 | 全套漫天14段 | 一波个性宝宝
+动画片第三季第1集 | 动画片第一、二季 | 收视率前十 | 动画片登陆电视台
+2015嘉年华盛宴回顾 | 玩家紫颜献舞飞天 | 嘉年华宣传视频 | 恋西游MV
+
+
+
+
+梦幻西游2第114联服战装备集锦：老板换新符石
+
+
+梦幻2第113联服战宝宝集锦：烈出新高度
+
+
+第113联服战装备集锦：多为十五锻硬件
+
+
+
+
+
+(本文来源：爱玩网  作者：Alive)

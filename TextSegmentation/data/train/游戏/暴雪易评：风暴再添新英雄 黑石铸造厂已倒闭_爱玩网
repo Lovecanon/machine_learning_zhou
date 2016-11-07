@@ -1,0 +1,162 @@
+暴雪易评：风暴再添新英雄 黑石铸造厂已倒闭_爱玩网
+
+欢迎收看本期的暴雪易评栏目，这里将展示玩家们的精彩言论，记录暴雪玩家们的闪光瞬间。如果你也想上榜，那就多多参与文章的评论吧！
+最近风暴英雄流出了新英雄的音频文件，从文件中我们虽然只能听到短短的一句台词和一段笑声，但有玩家猜测这两位新英雄很可能是来自暗黑3的魔法师和来自魔兽的祖尔金，不过现已证实新英雄为暗黑系的魔法师与死灵法师。
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/H/9/VBCRBF2H9.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/20/vTjCk9967/SD/vTjCk9967-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《风暴英雄》后续两位新英雄语音（国服版）
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+暗黑3的魔法师我们暂且先不谈，魔兽中的祖尔金是一个副本中的BOSS，它可以化身成各种动物形态来和玩家对抗，所以在风暴英雄中它的几个技能就呼之欲出了！
+
+
+这套技能组合将祖尔金的特点发挥的淋漓尽致，不但可以假装成对面雷克萨的熊当内奸还可以变成龙鹰迅速脱离战场。
+也有玩家对这个英雄的平衡性表示出担忧：
+
+
+电影《魔兽》虽然还未上线，但是其相关周边已经开始预售，看了这些闪闪发光的周边以后，小编我也是口水直流，首先让我们一起来看看到底能买到什么吧。
+但是，机智的网友马上想出了抢生意的法子：
+
+
+每样同款给我来10件，谢谢！
+另外，这次预售也体现出了大家对魔兽到底是真爱还是假爱，不来把火之高兴能叫魔兽真爱粉？
+
+
+魔兽7.0新增了许多剧情与任务，今天我们要说的就是新副本黑鸦堡中的玛维影歌部分剧情。玛维影歌在恶魔猎手新手任务中登场之后，玩家将会在新地区瓦尔沙拉与他再次相遇。下面是网友自编的一则关于伊利丹与玛维的爱情故事。
+
+
+暗黑3的新赛季已经开启了一段时间，许多玩家想必已尝试过新版本的内容，有的人可能会觉得新的套装地下城难度很高，但是你不是一个人，小编也卡在这里了！
+
+
+如果你想了解更多关于套装地下城的信息，也可以进入凯恩之角查看2.4的内容专题，相信能让你重新了解这个版本。
+众所周知，炉石传说这款游戏上手容易精通难，如果你只是打过新手教程就进天梯，很容易就会被各种守门员教做人，对此著名的炉石职业选手Kolento做了一个系列的新手入门教学视频，这个系列是K神教导他从来没玩过炉石的女朋友的记录。如果你也想成为像他一样强大的炉石选手的话，不妨看一下这个视频，当然有一个前提：
+
+
+别打我，赶快来看视频吧。
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/L/V/VBCMR5TLV.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/18/JihLd8722/SD/JihLd8722-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+Kolento's school of Hearthstone Midrange druid
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+据韩媒消息，原定于18日正式公布新赛季消息的SPL联赛因SBENU战队问题而推迟。由于前段时间爆出的SBENU战队赞助商运营危机新闻，原计划由7支战队参赛的SPL联赛不得不再次更改日程，推迟宣布新赛季SPL的消息。韩国战队丑闻不断，这让粉丝们十分揪心，有玩家提出了解决方案。
+
+
+
+但是立即有玩家站出来反驳：
+
+
+看来，我们只能默默地为他们点蜡祈福了。
+今天外服曝光了预购守望先锋可以获赠的额外周边，譬如瑞典是金属硬币，荷兰是守望先锋主题金属板，德国则是一个主题按钮。
+
+
+守望先锋主题硬币
+
+
+
+守望先锋主题金属板
+
+这看的国内的网友们是心痒难耐，这位网友就大声地吼出了大家的心声：
+
+
+
+这句话在暴雪粉丝之中已经成为了一句口号，一句宣言。其他网友也纷纷对他进行声援：
+
+
+
+
+
+
+
+好了，本期“暴雪易评”咱们就先到这，大家下期再见！对了，寒流来袭，受影响地区的网友们要注意保暖哦！

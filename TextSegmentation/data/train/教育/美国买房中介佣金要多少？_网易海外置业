@@ -1,0 +1,534 @@
+美国买房中介佣金要多少？_网易海外置业
+
+在美国(房源)，买房成交前，您会收到一些文件，清晰地显示出完成房产交易的额外费用。这些费用是除了首付再减去同样结算之外暂交第三方保管的费用。这笔费用数目不小— 通常为购买价格的 3% 到 5%。
+这些费用叫做“结算费用”或“清算费用”，您需要携带认证的支票或人个支票到成交所，地点可能是产权公司、银行或律师办公室来支付。您需要支付的最终费用可能与您的贷方最初的保守估价有相当大的差异，特别是律师费用或产权费用。
+以下费用是普遍要求支付的，但并不是所有购房者都需要支付所列的每一种费用。或许您与卖方达成了某种协议，可以仅支付一部分结算费用。可能还会有地域差异。此外，并不是所有贷方都收取所示的所有费用。
+
+
+.vhouse_article_survery {
+  font-size:14px;
+}
+.vhouse_article_survery label {
+  float: left;
+  width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+  padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+美国本土最大最全房产信息平台
+
+
+联系美国最大房产信息平台Zillow
+
+
+
+姓名
+
+
+
+电话
+
+
+
+邮箱
+
+
+
+意向城市
+
+感兴趣的城市*
+旧金山
+洛杉矶
+西雅图
+纽约
+
+
+
+其他
+
+
+
+
+
+
+
+
+
+(function(){
+  var form = document.getElementById('zillow_form');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+  e.preventDefault(); 
+    if(form.elements['name'].value == ''){
+      alert('"姓名" 为必填项，请填写完整。');
+      form.elements['name'].focus();
+      return false;
+    }
+    if(form.elements['tel'].value == ''){
+      alert('"电话" 为必填项，请填写完整。');
+      form.elements['tel'].focus();
+      return false;
+    } 
+    if(form.elements['mail'].value == ''){
+      alert('"邮箱" 为必填项，请填写完整。');
+      form.elements['mail'].focus();
+      return false;
+    }
+    if(form.elements['interested'].value == 100){
+      alert('"意向城市" 为必填项，请填写完整。');
+      return false;
+    }
+    $(form).find("input[type=submit]").attr("disabled","disabled");
+    $.post("/leaveMessage/leaveZillowMessage.do",$(form).serialize(), function(result) {
+        var msg = result.result == true ? "感谢联系Zillow！您会在48小时内收到从 +1 (206) 757 4896美国Zillow打来的电话。该通话免费" : result.reason;
+        alert(msg); 
+        $(form).find("input[type=submit]").removeAttr("disabled");
+    });
+
+});
+})();
+
+
+
+
+经纪人佣金
+
+金额：传统上是 6%，分给买方纪经人和卖方经纪人；通常 3% 付给买方经纪人，3% 付给卖方经纪人。
+描述：为经纪人服务费。所有房地产经纪人/中介销售佣金均在成交时支付。
+支付人：卖方支付，除非当地习俗另有规定，或者经协商分摊佣金并写入销售和购买合同中。
+注：这些费用不包含在贷方的保守估价中。
+
+贷款发放费
+
+金额：通常至少是贷款金额的 1%。该费用也称为“点数”- points。一个点数等于贷款的 1%。
+描述：贷方预先收取该费用作为手续费。
+支付人：买方
+注：在一些区域卖方支付一半。另外，有些贷款没有发放费。
+
+贴现贷款（点数）
+
+金额：贴现利息
+描述：该费用指由贷方或抵押经纪人收取的一次性费用以降低利率，继而降低每月按揭还款额。预付的点数越多，利率越低。贷款贴现也亦为“点数”或“贴现点数”。注意，利率并不是按每一点降低百分之一来计算。
+支付人：买方支付，除非卖方同意提供一些帮助。
+
+申请费
+
+金额：平均金额低于 $300，而一些专家报告最多收取 $500。
+描述：大多数贷方收取申请费或“贷方处理”费。
+支付人：买方
+
+估价费
+
+金额：大约是 $300。根据房产规模和您所在区域，估价费可能上下浮动。
+描述：银行雇用一名独立估价员，计算该房产是否值得您报出的售价。
+支付人：买方
+
+信用报告费
+
+金额：该费用也称为“信用核查费用”，每份核查的信用报告大约为 $25，而一些借款者声称最多付了三倍的价钱。
+描述：贷方通过详细审查信用评分和报告，分析您的信用历史，这是决定是否向您贷款以及贷款多少的关键一步。
+支付人：买方
+
+贷方检验费
+
+金额：不到 $100
+描述：如果您正在建一所新房子，或者要买正在建筑中的房子，那么贷方可能会收取检验费。
+支付人：买方
+
+抵押贷款保险申请费
+
+金额：不定
+描述：如果首付少于购买价的 20%，那么您必须购买一份私人抵押贷款保险 (Private Mortgage Insurance - PMI)，在您拖欠贷款时对贷方起到保护作用。
+支付人：买方每月缴纳 PMI 费用，直到抵押资产净值达到 20%。
+注：一些贷方收取处理申请工作的费用。
+
+承担费
+
+金额：不定
+描述：有时，买方将接收（承担）卖方现有的抵押贷款。如果是这样，贷方可能收取一些费用。
+支付人：买方
+
+贷方律师费
+
+金额：大约 $400
+描述：如果贷方在贷款交易中雇用了律师，则买方可能支付费用。
+支付人：一些购房者已成功拒付。其贷方已放弃收取该费用。
+
+预付贷款费
+
+金额：不定
+描述：可能要求买方在成交时支付该费用。
+利息
+金额：从一天到 30 天的等值利息不等
+描述：大多数贷方要求买方支付从结算日期起到第一个月度按揭还款到期日之间其贷款累计的利息。
+支付人：买方
+
+抵押贷款保险费
+
+金额：不定
+描述：一些贷方要求借贷者预先支付第一年的抵押贷款保险费。其他贷方要求在成交时支付包括贷款期限的保险费总额。
+支付人：买方
+
+灾害险保险费
+
+金额：一整年灾害（业主）保单保费
+描述：该保单保护贷方不受火灾、大风或其他自然灾害造成的损失所影响。
+支付人：买方
+
+水灾险保险费
+
+金额：不定
+描述：贷方可能根据财产位置要求水灾险。
+支付人：买方
+
+地震险
+
+金额：不定
+描述：贷方可能根据房产位置要求地震险。
+支付人：买方
+
+储备账户基金
+
+描述：您的每月按揭还款可能包括支付财产税和业主保险（也称为“灾害”险）费用的按比例分配金额。该笔费用由贷方保存在“储备”或“暂由第三方保管”的账户，贷方会为您交费。在成交时，贷方可能要求您支付预付款，保证有充足的储备金支付费用。
+业主保险
+金额：等值两个月业主保险费
+支付人：买方
+
+抵押贷款保险
+
+金额：等值两个月抵押贷款保险费
+支付人：买方
+
+城市房产税
+
+金额：等值两个月城市房产税
+支付人：买方
+
+郡房产税
+
+金额：等值两个月郡房产税
+支付人：买方
+
+年度评估费
+
+金额：等值两个月年度评估费
+描述：由公寓或业主协会进行的年度评估的费用也可能算入每月按揭还款中。
+支付人：买方
+
+产权调查
+
+金额：大约 $200-$400
+描述：产权调查旨在确保该房产没有任何未付的抵押贷款或赋税留置权。
+支付人：可协商
+
+产权保险费
+
+金额：该费用平均为 $350，但根据所居住的州，最高可达贷款的百分之一。
+描述：产权保险这项保单旨在保证房产产权明确，保护业主。
+支付人：买方
+注：在成交文档中可能列有第二项费用，支付保护贷方的独立保单保费。
+
+文档准备费用
+
+金额：平均大约 $200
+描述：贷方和产权公司有时收取该费用，作为准备最终法律文件的费用。
+支付人：买方
+注：专家称之为“乱收费”。您可以通过协商不向产权保险或贷方支付该费用。
+
+公证费
+
+金额：不定
+描述：该费用系用于执证公证人的宣誓作证，公证人证明文档中命名的人真的是签署文档的人。
+支付人：买方
+
+律师费
+
+金额：根据情况而定，该费用可能低于 $500 或超过 $1,000。
+描述：在全国的某些地区，由律师而不是产权公司处理成交，而有时贷方雇用律师审查某些文档。
+支付人：买方
+
+政府记录和转让费
+
+州和当地政府的规定差异很大。根据在销售合同中协商的条款来确定谁支付多少这些费用。
+
+登记费
+
+金额：平均大约 $100
+描述：支付在政府备案材料中登记销售的费用。
+支付人：通常由买方支付
+
+转让税
+
+金额：不定
+描述：在征收转让税的地方中，这些税款可能相当多。一些政府还要求购买印花税。
+支付人：买方
+
+杂项清算收费
+
+根据在销售合同中协商的结果，决定买方还是卖方支付以下费用。
+
+勘测费
+
+金额：大约 $1,000
+描述：有时贷方要求勘测房产。
+支付人：买方
+
+害虫检查
+
+金额：不定
+描述：根据地点，可能要求进行白蚁或其他害虫检查。
+支付人：通常是卖方
+
+含铅油漆检查
+
+金额：不定
+描述：支付评估含铅油漆风险的费用。
+支付人：通常是买方
+
+快递费
+
+金额：不定
+描述：如果使用快递提取和交付文档，则收取该费用。
+支付人：买方
+
+
+关注Zillow官方微信: zillow_china，获取更多精彩海外房源信息。
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1优质的新西兰房产资源
+ 115000
+
+
+ 
+TOP 2葡萄牙买房移民，精美别墅
+ 2220000
+
+
+ 
+TOP 3新西兰Titahi Bay的房产项目
+ 155000
+
+
+ 
+TOP 4西班牙马德里省豪华住宅，黄金区域，超值房产
+ 5300000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

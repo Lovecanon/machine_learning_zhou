@@ -1,0 +1,412 @@
+买房指南：你适合买二手房还是新房？_网易海外置业
+
+想象一下你理想中的家。这个家很可能与曾经陪伴你成长的家很像。它或许是《钢铁侠》电影里小唐尼在马里布的现代豪宅，又或许是《唐顿庄园》中的复古联排别墅。
+
+
+.vhouse_article_survery {
+  font-size:14px;
+}
+.vhouse_article_survery label {
+  float: left;
+  width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+  padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+美国本土最大最全房产信息平台
+
+
+联系美国(房源)最大房产信息平台Zillow
+
+
+
+姓名
+
+
+
+电话
+
+
+
+邮箱
+
+
+
+意向城市
+
+感兴趣的城市*
+旧金山
+洛杉矶
+西雅图
+纽约
+
+
+
+其他
+
+
+
+
+
+
+
+
+
+(function(){
+  var form = document.getElementById('zillow_form');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+  e.preventDefault(); 
+    if(form.elements['name'].value == ''){
+      alert('"姓名" 为必填项，请填写完整。');
+      form.elements['name'].focus();
+      return false;
+    }
+    if(form.elements['tel'].value == ''){
+      alert('"电话" 为必填项，请填写完整。');
+      form.elements['tel'].focus();
+      return false;
+    } 
+    if(form.elements['mail'].value == ''){
+      alert('"邮箱" 为必填项，请填写完整。');
+      form.elements['mail'].focus();
+      return false;
+    }
+    if(form.elements['interested'].value == 100){
+      alert('"意向城市" 为必填项，请填写完整。');
+      return false;
+    }
+    $(form).find("input[type=submit]").attr("disabled","disabled");
+    $.post("/leaveMessage/leaveZillowMessage.do",$(form).serialize(), function(result) {
+        var msg = result.result == true ? "感谢联系Zillow！您会在48小时内收到从 +1 (206) 757 4896美国Zillow打来的电话。该通话免费" : result.reason;
+        alert(msg); 
+        $(form).find("input[type=submit]").removeAttr("disabled");
+    });
+
+});
+})();
+
+
+
+
+
+
+又或者都不是。你可能更喜欢新式建筑，喜欢采用当代风格，配备最新的设施，省去大量的维护麻烦。或者，你可能还没有考虑“3 间卧室、2 间浴室和 1.5 个婴儿房”家居房，现在一间公寓或与他人合租就够用了。但在购屋置业时，需要考虑的就更多了。那么，该如何决定购买新房还是二手房？首先要理解两种选择的利弊差异。
+
+新房
+
+
+
+
+Jeff W 说：
+“
+我们想住在很酷、很时尚的街区，但不想重新装修。所以我们更倾向于住新房子。”
+新的房子＝新的自己？
+大多数新房屋的建造风格都是统一的，除非是在私人土地上建造的房屋。这些新房开发区可以小到只有一条街道，也可以大到像农田一样，有数十栋的房屋。这些建筑根据最新的标准建造，大多采用当代风格、节能设计，通常比同样大小的二手房更贵。虽然具体细节会不尽相同，但可以总体权衡一下新房的利弊。
+新房的
+利弊
+利
+§  风格现代
+§  装修相对灵活
+§  易于维护
+§  生活成本低（采用节能建筑）
+§  保修期长
+§  和谐的社区环境（一致的布局和公共区域）
+§  通常有业主协会（帮助保持房屋转售的价值）
+§  房子是全新的！
+弊
+§  千篇一律的设计
+§  价格协商余地小
+§  可能要交物业管理费
+§  很少有特色
+§  业主协会可能会限制你对房子的使用，比如禁止改造
+当然了，对一个购房者来说的利处，对另一个购房者来说可能是弊处。比如，新房之前没有人住过这一点，可以说没人留下任何问题，也可以说没法知道是不是有问题。但是我们仍可以通过一些方法，来确保自己买到称心如意的新房子。例如：
+1
+检查建筑商的业绩记录
+看看该公司还建过哪些建筑，此前的项目是否按时完成，建筑商和购房者之间是否发生过冲突？
+2
+多逛逛
+如果你住在附近，而且此开发区建好的房屋已经有人居住，可以问问这些居民，打听该建筑商是否高质量完成了工作且履行了合同义务。
+3
+不要期待你的家跟样板房一样
+需要注意，你在样板房中看到的花岗岩柜台、环绕立体声家庭影院和新派喷头浴缸等豪华设备，都不包括在基本价格内。它们需要额外的费用。
+4
+看房时带上你的经纪人
+如果现场有建筑商的房地产经纪人，他们会非常热心地帮助你。但是现场的经纪人是为雇佣他们的建筑商服务的，他们会为开发商谋求最大利益，而不是购房者。
+最后，考虑无形因素。相似风格的房屋会吸引相似的购房者，大多数开发区都会照顾到家庭的需求。根据不同购房者的需求，一致性、孩子能否在街上玩耍等因素，可能是优势，也可能是劣势。
+
+二 手 房
+
+
+
+
+Leslie C 说：
+“
+我们喜欢老房子的魅力，即使在翻修期间的几个月要住在建筑工地。”
+老房子 = 有魅力？
+新的开发区遍地开花，很明显，新楼房很受欢迎。但仍有很多人愿意买二手房，那些有人住过的房屋，也吸引了许多人在这安家。
+当然，二手房屋也有利弊。比如，那家有大窗户的可爱农舍，在冬天时可能透风得厉害。一般来说，与新房相比，二手房更容易购买，价格也更低，但二手房会有很多让人意想不到的问题。
+二手房的
+利弊
+利
+§  选择更广，风格更多
+§  价格商量余地大
+§  有房屋记录供查询（房屋文档会暴露出现过的问题）
+§  成熟的社区环境
+§  魅力和特点更突出
+弊
+§  维护成本高（东西破损或磨损）
+§  耗能较高（生活成本更高）
+§  过时的设计、老旧的家用电器和设施
+§  这房子是有人住过的！
+与新房一样，购买满意的二手房也需要一些方法：
+1
+检查房屋
+建议在搬进前，检查地基是否断裂，或房顶是否需要维修。
+2
+考虑还价
+如果检查出来可修复的问题，则向卖方提议修复或降低价格。
+3
+做好出现问题的准备
+水管泄漏、电路老化、炉灶不好用 ——习惯就好了。
+4
+对自己诚实
+如果需要重大维修，要么自己动手，要么请专业人士来修。衡量下自己是否能处理这些问题。
+最后，购买二手房的底线是：不要购买别人留下的问题，除非你确信能解决它们。找到一所你喜欢的房子，从客观角度和情感因素权衡利弊，再想一想自己愿意做出哪些妥协。买房子时越理智，居住后对这所房子的满意度更高。
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1优质的新西兰房产资源
+ 115000
+
+
+ 
+TOP 2葡萄牙买房移民，精美别墅
+ 2220000
+
+
+ 
+TOP 3新西兰Titahi Bay的房产项目
+ 155000
+
+
+ 
+TOP 4西班牙马德里省豪华住宅，黄金区域，超值房产
+ 5300000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

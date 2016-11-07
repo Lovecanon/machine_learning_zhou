@@ -1,0 +1,2494 @@
+2016人民币大幅贬值?美国房产成保值"钱袋"_网易海外置业
+
+人民币的持续贬值将使得海外投资者抛售以人民币计价的资产，资金更大幅度的外流。而在楼市影响方面，一线城市的影响有限，由于一线城市属于人口净流入城市，增量的人口能够支持一线城市的购房消费。但对于三四线城市的房地产市场影响较大，利空当地楼市。目前三四线城市人口外流明显，楼市面临着库存压力大的问题，人民币的贬值带动资产贬值，使得资金进一步流出，流向一线城市或海外，这样会造成恶性循环。
+对于部分高财富值人群，近年来配置海外资产已经成为他们资产投资的必要选项，之前是由于移民、教育等原因在外海购置房产，如今不仅是基于上述原因在海外购置房产，人民币的贬值会让他们的海外投资在资产配置中占到更大的比重。
+海外置业专家评说：人民币贬值时，对于有条件的投资者可以将考虑海外置业，在海外房地产投资领域，美国(房源)等发展稳健的国家房产的楼盘通常被看作是具有“抗跌性”的投资项目。
+
+
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+房源推荐一>>>>奥兰多迪士尼联排别墅租金净回报6%     总价115万元
+
+奥兰多(房源)迪士尼联排别墅项目价格合适，性价比高。周边短租市场需求急剧增长，项目升值潜力有保障。租金净回报6% ！！
+ 
+
+
+#photo1436317893876{width:100%;height:100%;}
+#photoView1436317893876{position:relative;}
+#gallery1436317893876 .nph_stream, #gallery1436317893876 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436317893876 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436317893876 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436317893876 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436317893876 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436317893876 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436317893876 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436317893876 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436317893876 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436317893876 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436317893876 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436317893876 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436317893876 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436317893876 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436317893876 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436317893876 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436317893876 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436317893876 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436317893876 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436317893876 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436317893876 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436317893876 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436317893876 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436317893876 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436317893876 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436317893876 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436317893876 .nph_list_thumb li a,
+#atlas_house1436317893876 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436317893876 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436317893876 .nph_scrl_prev,
+#atlas_house1436317893876 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436317893876 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436317893876 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436317893876 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436317893876 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436317893876 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436317893876 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436317893876 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436317893876 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436317893876 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436317893876 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436317893876 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436317893876 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436317893876 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436317893876 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436317893876 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436317893876 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436317893876 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室3.0浴
+195.0 ㎡
+
+/42
+（共42张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317974735.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317974735.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317966636.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317966636.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317967116.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317967116.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317967678.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317967678.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317968598.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317968598.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317968839.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317968839.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317969913.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317969913.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317969916.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317969916.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317971367.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317971367.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317971318.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317971318.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317971553.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317971553.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317972859.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317972859.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317973098.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317973098.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317972994.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317972994.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317974820.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317974820.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317975160.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317975160.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317978805.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317978805.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317980496.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317980496.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317983983.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317983983.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317984438.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317984438.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317985300.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317985300.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317986536.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317986536.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317987555.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317987555.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317987459.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317987459.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317987822.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317987822.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317988980.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317988980.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317989281.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317989281.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317989620.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317989620.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318026769.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318026769.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318026859.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318026859.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318026826.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318026826.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318029645.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318029645.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318029641.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318029641.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318029870.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318029870.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318031284.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318031284.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318031572.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318031572.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318032284.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318032284.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318032687.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318032687.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318032239.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318032239.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318033255.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318033255.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318310447.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318310447.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318311504.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318311504.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+ 1520Still Dr, Clermont, orlando
+, FL
+, 34714
+
+
+180000
+详情咨询
+
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436317893876 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436317893876" ,title: 'Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436317893876").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/28.3687472,-81.666316/9?mapSize=215,111&format=jpeg&centerPoint=28.3687472,-81.666316&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436317893876", {
+    url: document.location.href,
+    title: document.title,
+    summary: "Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台",
+    pic: function() { return $('#photo1436317893876').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436317893876').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>达拉斯玫瑰豪园首付30%回报率超6%   129万元
+
+项目坐落在沃斯堡东南部的ForestHill市，ForestHill市为沃斯堡地区发展较快的城市之一，预期未来两年内城市将增长40%。项目
+45分钟车程覆盖机场及休斯顿(房源)主城核心区域，同时靠近大型的城市办公区、百货商场、体育馆。项目拥有指定学区，学区内有多所中小学，教育资源丰富。
+ 
+
+
+#photo1436260177633{width:100%;height:100%;}
+#photoView1436260177633{position:relative;}
+#gallery1436260177633 .nph_stream, #gallery1436260177633 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436260177633 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436260177633 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436260177633 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436260177633 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436260177633 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436260177633 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436260177633 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436260177633 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436260177633 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436260177633 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436260177633 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436260177633 .nph_list_thumb li a,
+#atlas_house1436260177633 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436260177633 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436260177633 .nph_scrl_prev,
+#atlas_house1436260177633 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436260177633 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436260177633 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436260177633 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436260177633 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436260177633 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436260177633 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436260177633 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436260177633 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436260177633 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436260177633 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436260177633 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436260177633 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436260177633 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436260177633 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436260177633 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436260177633 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436260177633 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+4室2.0浴
+205.5 ㎡
+
+/54
+（共54张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1441172245989.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751441172245989.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260632215.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260632215.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260632637.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260632637.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260632868.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260632868.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260633278.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260633278.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260633925.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260633925.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260634529.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260634529.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260635827.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260635827.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260634800.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260634800.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260637132.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260637132.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260637746.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260637746.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260638961.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260638961.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260638718.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260638718.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260639453.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260639453.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260640431.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260640431.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260640767.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260640767.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260640540.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260640540.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260641328.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260641328.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260641607.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260641607.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260642425.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260642425.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260642462.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260642462.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260642546.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260642546.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260644193.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260644193.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260644300.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260644300.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260783387.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260783387.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260783203.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260783203.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260783761.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260783761.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260785963.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260785963.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260786005.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260786005.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260786289.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260786289.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260787657.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260787657.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260788066.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260788066.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260788405.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260788405.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260789254.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260789254.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260790370.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260790370.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260790293.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260790293.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260791873.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260791873.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260791945.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260791945.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260792035.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260792035.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260793109.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260793109.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260794032.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260794032.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260794180.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260794180.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260794850.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260794850.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260795797.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260795797.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260796371.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260796371.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260796955.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260796955.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260797665.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260797665.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260798109.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260798109.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260798920.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260798920.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260799042.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260799042.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260799882.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260799882.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260800396.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260800396.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260801143.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260801143.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260800985.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260800985.JPG
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+ 7440 Rose Crest Blvd, Forest Hill, Dallas
+, TX
+, 76140
+
+
+196000
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436260177633 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436260177633" ,title: 'ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库'}); });
+	var keyList = [
+			"At_1sHGUDSt_uoV0fP_55_QrPvSW15jy11JVgKLUp4xZQQbudOd1jjb8T_ti9ot3",
+			"Akv_cR7RdS_iTT17lop4l1KIY13gr9AJ53ZgNzkVfiv6QWS6IaunhFOMKWsteyRW",
+			"Avxkg7V2NxrmO23FzGxk9SiHMdQg8ZVU6ZmiotwnRiPye8yFJwdgfG_4CrCrZoSs"
+		];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436260177633").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/32.649548,-97.26537300000001/9?mapSize=215,111&format=jpeg&centerPoint=32.649548,-97.26537300000001&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436260177633", {
+    url: document.location.href,
+    title: document.title,
+    summary: "ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库",
+    pic: function() { return $('#photo1436260177633').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436260177633').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>奥兰多高级联排别墅哈灵顿回报率超10%        总价136万元
+
+项目位置位于医疗城旁边，直通医疗城中心，只需3分钟车程；小区物业管理费包括各种设施使用，园景维护，有线电视等服务；毛租金回报率在10%左右；
+ 
+
+
+#photo1430874504307{width:100%;height:100%;}
+#photoView1430874504307{position:relative;}
+#gallery1430874504307 .nph_stream, #gallery1430874504307 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1430874504307 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1430874504307 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1430874504307 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1430874504307 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1430874504307 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1430874504307 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1430874504307 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1430874504307 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1430874504307 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1430874504307 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1430874504307 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1430874504307 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1430874504307 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1430874504307 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1430874504307 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1430874504307 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430874504307 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1430874504307 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430874504307 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1430874504307 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1430874504307 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1430874504307 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1430874504307 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1430874504307 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1430874504307 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1430874504307 .nph_list_thumb li a,
+#atlas_house1430874504307 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1430874504307 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1430874504307 .nph_scrl_prev,
+#atlas_house1430874504307 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1430874504307 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1430874504307 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1430874504307 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1430874504307 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1430874504307 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1430874504307 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1430874504307 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1430874504307 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1430874504307 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1430874504307 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1430874504307 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1430874504307 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1430874504307 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1430874504307 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1430874504307 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1430874504307 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1430874504307 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+180.0 ㎡
+
+/28
+（共28张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874695254.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874695254.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874695327.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874695327.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874695319.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874695319.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874745561.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874745561.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874745585.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874745585.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874745614.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874745614.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874746038.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874746038.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874746165.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874746165.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874746164.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874746164.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874746535.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874746535.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874746633.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874746633.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874746704.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874746704.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874747038.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874747038.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874747162.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874747162.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874788353.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874788353.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874788358.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874788358.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874788412.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874788412.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874788818.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874788818.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874788834.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874788834.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874788917.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874788917.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874789313.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874789313.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874789301.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874789301.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874789380.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874789380.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874789767.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874789767.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874789815.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874789815.JPG
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874804832.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874804832.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874804896.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874804896.jpg
+			
+						
+			
+			奥兰多高级联排别墅哈灵顿
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430874804928.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430874804928.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+奥兰多高级联排别墅哈灵顿
+ 1955 Thetford Circle Orlando, orlando
+, FL
+, FL 32824
+
+
+1364990
+详情咨询
+
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1430874504307 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1430874504307" ,title: '奥兰多高级联排别墅哈灵顿'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1430874504307").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/28.3511944,-81.33355240000003/9?mapSize=215,111&format=jpeg&centerPoint=28.3511944,-81.33355240000003&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1430874504307", {
+    url: document.location.href,
+    title: document.title,
+    summary: "奥兰多高级联排别墅哈灵顿",
+    pic: function() { return $('#photo1430874504307').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1430874504307').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1优质的新西兰房产资源
+ 115000
+
+
+ 
+TOP 2新西兰Titahi Bay的房产项目
+ 155000
+
+
+ 
+TOP 3Dream 奥兰多迪士尼联排别墅 Adalia 3房3卫2层 露台
+ 180000
+
+
+ 
+TOP 4Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+ 180000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

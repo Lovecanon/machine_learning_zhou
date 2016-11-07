@@ -1,0 +1,8 @@
+iOS 9.3新发现：可以删除内置应用_网易科技
+
+iOS内置了许多苹果自带应用程序，这让不少果粉感到很不爽，对于这个情况，之前库克曾表示，他们将允许用户自行删除自带App。现在，外媒9to5Mac发现，iOS 9.3已经可让用户删除iPhone预装程序，只是过程有点曲折。事情的过程是这样的，苹果开发商可以帮忙卸载iPhone的预装应用程序，而用户要为此支付79英镑（折合人民币740元）。虽然这种删除预装程序的办法较为繁琐，但它预示着苹果有可能最终会授权用户删除他们不想要的预装应用程序。删除预装应用程序方法：1、注册iOS测试计划，以便下载iOS 9.3公开测试版（正式版尚未推出）。2、注册完后，点击设置（Settings）――一般设置（General）――软件更新（Software Update），下载iOS 9.3公开测试版。3、下载苹果Configurator 2.2测试版。这一步骤要求用户注册获得苹果开发商会员资格，注册费用79英镑。4、你现在可以设置参数。选择“不允许预装的应用程序”选项，然后输入这些应用程序的指令，如Stocks的指令是com.apple.stocks，输入完后，就能够将Stocks预装应用程序从你的iPhone中删除了。其他预装应用程序的指令如下：com.apple.tips - Tipscom.apple.videos - Videoscom.apple.mobilemail - Native Email Clientcom.apple.mobilenotes - Notescom.apple.reminders - Reminderscom.apple.calculator - Calculatorcom.apple.Maps - Mapscom.apple.Music - Musiccom.apple.Passbook - Walletcom.apple.Health - Healthcom.apple.mobilephone - Phonecom.apple.MobileStore - iTunes Storecom.apple.MobileSMS - Messagescom.apple.VoiceMemos - Voice Memoscom.apple.weather - Weathercom.apple.podcasts - Podcastscom.apple.gamecenter - Game Centercom.apple.Bridge - Watchcom.apple.mobileme.fmf1 - Find Friendscom.apple.iBooks - iBookscom.apple.mobileme.fmip1 - Find iPhone
+ 
+com.apple.mobiletimer - Clockcom.apple.mobileslideshow - Photoscom.apple.Preferences - Settingscom.apple.Camera - Cameracom.apple.facetime - FaceTimecom.apple.MobileAddressBook - Contactscom.apple.news - News
+
+ 本文来源：驱动之家MyDrivers  
+责任编辑：张祖韬_NT5054

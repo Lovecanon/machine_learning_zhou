@@ -1,0 +1,56 @@
+劲胜精密年报拟推10转30_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '300083', type: 'SZ', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+劲胜精密公告，控股股东劲辉国际提议公司2015年度资本公积金转增股本预案：每十股转增30股。公司控股股东劲辉国际、实际控制人王九全承诺，将在董事会、股东大会审议该预案时投赞成票。公司4名非独立董事（超过董事会成员的二分之一）对上述预案进行了讨论并发表赞同意见。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+海顺新材明日网上申购 申购需防“乌龙指”
+农行曝39亿巨额票据案 H股跌近3%创4年最低
+行业动态
+融资客逆市抄底222只股 医药等三类股可轻仓跟进
+多公司业绩预减预亏 周期性行业“受灾”严重
+公司新闻
+宫斗之殇：深康佳预亏12亿 创成立以来纪录
+中毅达：接盘方被暂停账户交易 还能“妖”多久
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：曹帅_NF5384

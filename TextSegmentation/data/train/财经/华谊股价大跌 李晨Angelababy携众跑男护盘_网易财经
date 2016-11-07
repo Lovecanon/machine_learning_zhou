@@ -1,0 +1,56 @@
+华谊股价大跌 李晨Angelababy携众跑男护盘_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '300027', type: 'SZ', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+在股价大幅下挫的情况下，华谊兄弟（300027，收盘价27.88元）竟引来了明星艺人出面护盘。华谊兄弟今日公告称，公司控股子公司东阳浩瀚影视之股东李晨、冯绍峰、杨颖（Angelababy）、郑恺、杜淳、陈赫自愿从二级市场上购买公司股票，并且同意将该等“华谊兄弟股票”锁定一年。对于此次增持，6位明星称是基于对华谊兄弟未来持续稳定发展的信心以及对公司价值的认可。据悉，截至2016年1月21日，6位明星已在二级市场上完成股票购买行为。具体来看，李晨此番买入34.27万股，冯绍峰买入35.15万股，杨颖（Angelababy）通过黄镜清股票账户买入26.5万股，郑恺通过鲁玲股票账户购买27.2万股；杜淳和陈赫分别买入34.02万股、29.29万股。总体来看，6位明星合计买入186.43万股，占华谊兄弟股权总数的0.1343%。锁定期限均为2016年1月21日至2017年1月20日。以华谊兄弟1月21日均价29.17元计算，6位明星此番增持耗资约5438.16万元。不过，《每日经济新闻》记者注意到，虽然耗资巨大，但对于6位明星而言无疑是“毛毛雨”。资料显示，华谊兄弟在2015年10月宣布以7.56亿元的股权转让价款收购东阳浩瀚影视70%股权。交易对象包括此番宣布增持的6位明星艺人。财务数据显示，东阳浩瀚影视的所有者权益仅为1000万元，华谊兄弟此番并购溢价惊人，6位明星股东也获得了不菲的收益。值得一提的是，自2015年6月15日起，华谊兄弟股价持续下跌。截至1月21日收盘，公司股价累计跌幅达56.15%。此前，华谊兄弟实际控制人、董事长王忠军、副董事长兼总经理王忠磊于1月14日作出承诺，半年内不减持公司股票。再往前，二人也在2015年7月抛出增持计划护盘，并累计增持华谊兄弟股票1014.6万股。【相关新闻】华谊票房大卖市值却蒸发170亿 高层：多大点事嘛虽然票房亮丽，可伴随A股的连续重挫，华谊兄弟的股价已从去年底的41.18元(2015年12月31日收盘价)跌至28.65元(2016年1月13日收盘价)。中国电影票房十天捞金18亿元华谊兄弟成最大赢家从影视公司层面看，最大的赢家当属华谊兄弟，在票房前三甲中，华谊兄弟承担了《寻龙诀》联合出品方以及《老炮儿》的制片方、出品方和发行方的角色。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+李源潮:将加强股市监管 方星海亮出监管底牌
+基金四季报：撤离金融 停牌前套现3亿股万科
+行业动态
+中沙能源合作促核电出海 机构热捧应流股份等7股
+多层面细解春节概念 三大板块或成反弹先锋
+公司新闻
+金宇车城逐热门资产失利 高管连辞打定增擦边球
+宏磊股份遭神秘人接盘 原实控人套现35亿离场
+
+
+ 
+
+
+
+ 本文来源：每日经济新闻  作者：曾剑
+责任编辑：钟齐鸣_NF5619

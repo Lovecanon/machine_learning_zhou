@@ -1,0 +1,78 @@
+����3����2.4��Ƶ���ͣ�����ʥ����HCɢ����ҽ_�����ƻ���3_Diablo3_����֮��_������
+
+�������Ǽ���Ϊ����Ƽ�����3����2.4���������ľ��ʳ����Ƶ����������ķֱ���ʥ�̾�ɢ������ʥ��84����Ƶ��HCģʽ��λͻ��80�����ҽʵս��Ƶ�Լ�ŷ���������˶�ͻ��94�����Ƶչʾ���������Ƶ��ϸ������·���
+
+
+
+ɢ������ʥ��84��
+
+
+����������ʼ����������AL�ܿ�ʹ�����ʥ�̾���ɢ������װ�����������82����85����Ų�ȴ������������һ����Ƶ�Ƽ����Ǵ�������������84���ʵս��Ƶ��Ŀǰʥ�̾�ȫ�����а�������85��ɼ����е�9����������λ�����86��ĳɼ�λ��ǰ�����������ǹ��ϵı��汾ʥ�̾�������淨���������ݱ�ƴ�Ĵ�Ļ�Ÿոտ�ʼ��
+
+
+
+
+
+
+NTES_createVideo({
+    "width": "700",
+    "height": "480",
+    "pltype": "7",
+    "topicid": "0031",
+    "vid": "VBDGHNEAA",
+    "sid": "VA47B2TGU",
+    "coverpic": "http://vimg1.ws.126.net/image/snapshot/2016/1/A/B/VBDGHNEAB.jpg",
+    "autoplay": false,
+    "showend": false,
+    "url_m3u8": "http://flv.bn.netease.com/videolib3/1601/28/ygqxZ1194/SD/movie_index.m3u8",
+    "url_mp4": "http://flv.bn.netease.com/videolib3/1601/28/ygqxZ1194/SD/ygqxZ1194-mobile.mp4"
+}, document.getElementById("video_1453973348053"));
+
+
+
+HC��ҽ80��
+
+
+ŷ�����addeponkeN��Ϊ������ĳ��ͻ��80���HC��ҽ��ҡ���һ��ɢ����Ҳ���չ���˳�������������ĿǰHCģʽ��ȫ��12λ��ҵ�����80�㣬������λ��ҽ��һλ��ħ���⣬������ȫ������ʥ�̾���
+
+
+
+NTES_createVideo({
+    "width": "700",
+    "height": "480",
+    "pltype": "7",
+    "topicid": "0031",
+    "vid": "VBDGOM8GM",
+    "sid": "VA47B2TGU",
+    "coverpic": "http://vimg1.ws.126.net/image/snapshot/2016/1/G/N/VBDGOM8GN.jpg",
+    "autoplay": false,
+    "showend": false,
+    "url_m3u8": "http://flv.bn.netease.com/videolib3/1601/28/owvPu8394/SD/movie_index.m3u8",
+    "url_mp4": "http://flv.bn.netease.com/videolib3/1601/28/owvPu8394/SD/owvPu8394-mobile.mp4"
+}, document.getElementById("video_1453980005164"));
+
+
+
+�����������94��
+
+
+���編ʦ��˫Ѫ��һ�����Ѿ���Ϊ�˱�������������ģʽ�����Ƿ�����ͻ��101��������¼��ʱû�з����仯�������Ƽ������һ����Ƶ������ŷ������������ӵ�94����Ƶ��������Ȼ��Ŀǰ���������á����������а�Ŀǰ��һ�����������Ѿ��ﵽ��99�㣬�ӽ���¼����Ҫ�����������۷�ȼ���ǿ��װ����
+
+
+
+
+
+
+NTES_createVideo({
+    "width": "700",
+    "height": "480",
+    "pltype": "7",
+    "topicid": "0031",
+    "vid": "VBDG9BFS3",
+    "sid": "VA47B2TGU",
+    "coverpic": "http://vimg1.ws.126.net/image/snapshot/2016/1/S/4/VBDG9BFS4.jpg",
+    "autoplay": false,
+    "showend": false,
+    "url_m3u8": "http://flv.bn.netease.com/videolib3/1601/28/ywNFY2443/SD/movie_index.m3u8",
+    "url_mp4": "http://flv.bn.netease.com/videolib3/1601/28/ywNFY2443/SD/ywNFY2443-mobile.mp4"
+}, document.getElementById("video_1453966639161"));

@@ -1,0 +1,56 @@
+索罗斯：我做空了美股和亚洲货币 做多美债_网易财经
+
+window.__STOCK_COMPONENT__.push({code: 'SP500', type: 'US_INDEX', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+投资大佬索罗斯表示，全球面临通缩压力，这让他看空美国股市。他表示，他做空了标普500指数。今年，标普500指数已经累计下跌8.5%。索罗斯表示，现在买入股票还太早。除了做空美股，索罗斯在去年年底买入了美国国债，做空了原材料生产国股市，并下注亚洲货币将对美元下跌。他表示：“关键的问题是通缩。这是一个我们不习惯的环境。”他指出，油价下跌以及各国货币竞争性贬值对通缩产生了巨大的影响。索罗斯做空美股的决定与许多其他投资大佬不谋而合。Guggenheim Partners的首席投资官Scott Minerd以及DoubleLine Capital的Jeffrey Gundlach此前表示，美国股市可能继续下跌。Minerd表示，随着投资者涌向避险资产，标普500指数可能跌至1650点，油价可能跌至每桶20美元。投资者应该在市场反弹时出售股票。索罗斯表示，如果美联储再次加息，他将感到意外。去年12月，美联储宣布加息25基点，为近10年来首次加息。他表示，美联储甚至可能决定降息，但这并不会大幅的刺激经济，因为货币政策的效果正在减弱。索罗斯表示，美联储加息是一个错误。美联储等待了太久，错过了最佳时机。在美联储加息时，通缩已经开始抬头。在这样的环境下，消费者购买物品的可能性有所降低。索罗斯预计，2016年对市场而言将是“困难”的一年，市场可能进一步下跌。他说：“如果市场有一个真正的底部，那这个底部将被多次测试。”事实上，在2014年索罗斯就曾豪赌美股崩盘。华尔街见闻2014年10月提到，根据备案文件，对冲基金巨头索罗斯正下重注赌美国股市下跌。2014年，索罗斯基金管理公司向SEC提交的6月备案文件显示，索罗斯持有的做空标普500指数仓位增长了605%，达到22亿美元。（通过买入1129万份SPDR S&P看空期权实现）索罗斯还表示，尽管中国有足够资源应对当前局势，但经济放缓仍将对全球市场造成外溢影响。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+李源潮:将加强股市监管 方星海亮出监管底牌
+基金四季报：撤离金融 停牌前套现3亿股万科
+行业动态
+中沙能源合作促核电出海 机构热捧应流股份等7股
+多层面细解春节概念 三大板块或成反弹先锋
+公司新闻
+金宇车城逐热门资产失利 高管连辞打定增擦边球
+宏磊股份遭神秘人接盘 原实控人套现35亿离场
+
+
+ 
+
+
+
+ 本文来源：华尔街见闻  作者：朱轶天
+责任编辑：余顺遂_NF5724

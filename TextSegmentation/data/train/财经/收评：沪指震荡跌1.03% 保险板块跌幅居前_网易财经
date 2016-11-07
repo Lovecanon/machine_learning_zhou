@@ -1,0 +1,56 @@
+收评：沪指震荡跌1.03% 保险板块跌幅居前_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '000001', type: 'SH_INDEX', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月20日讯 今日两市小幅低开后震荡整理。10：45过后，两市下挫。盘面上，钢铁、煤炭、保险板块走势疲软。午后开盘两市快速跳水，沪指跌近2%，创业板失守2200。随后，两市展开弱势震荡走势。截至收盘，沪指跌1.03%，报2976.69点，成交2346亿元；深成指跌1.28%，报10366.8点，成交3615亿元。板块方面，保险板块跌幅居前，中国太保跌逾4%，中国人寿、新华保险跌逾3%，中国平安跌逾2%。量子通信板块走势疲软，神州信息、三力士跌逾4%。食品安全板块走弱，华宇软件跌逾5%，圣农发展跌逾4%。水利建设板块走势强劲，钱江水利涨逾8%，围海股份涨逾6%。电力板块走强，吉电股份涨停，上海电力涨逾6%，大唐发电、文山电力涨逾3%。外围市场方面，亚太股市今日收盘普遍下跌，日本股市进入熊市，日经225指数收盘下跌3.71%，报16416.19点，从去年6月高点跌超20%，并创2014年11月以来最低收盘位；日本东证股价指数收盘下跌3.70%，报1338.97点，从去年8月份高点回落21%。韩国首尔综指收盘下跌2.34%，报1845.45点。台湾加权指数收盘下跌1.98%，报7699.12点。澳大利亚ASX 200指数收盘下跌1.26%，报4841.50点。当前，券商大多看好春节到两会期间的超跌反弹窗口期，不过也表示期间操作或较为困难。实际上，底部是一个区域而并非一个点，因而反弹尽管诱人但操作难度较大。期间投资者可以短线参与博取反弹收益，但大机会更需要耐心等待趋势的确立。目前市场人士普遍认为，市场见底并不意味着行情的反转。申万宏源证券指出，市场调整幅度确实已经基本到位，但换手尚不充分，这个底部是圆底，而非“V”型底，对于相对收益的投资者而言，当前位置调仓备战反弹已逐渐变得比降仓更重要。行情短期震荡筑底，2月到来前将充分换手，之后演绎政策预期行情。因此对二季度行情要多一分谨慎，因为资金需求释放、注册制预期增强、美联储再加一次息的可能性仍存在。兴业证券也指出，立足中期看短期，未来数周的春季反弹依然是一段具有操作性的跌深反弹，但二、三季度的风险依然没有充分释放或被充分证伪。引发风险溢价上升的因素，包括内因和外因，内因是供给侧改革带来的阵痛，外因是美联储加息及海外金融风险。对于春季反弹窗口期内的布局，申万宏源证券建议坚守优质成长，认为短期供给侧改革主题在钢铁、采掘等传统行业已充分演绎。大股票偏好军工、地产、公用事业；而高弹性的成长白马依然是反弹中的高弹性品种，继续建议关注真正受益于供给侧改革去产能的服务业。国泰君安证券则看好蓝筹股超额收益，表示当前风险偏好的修复过程不如2015年9月份低位反弹的速度和力度；与此同时，固定收益市场上体现的是充沛的社会资金追逐生息资产，在新钱影响力增大的过程中类债券高分红高股息蓝筹股有望在超额收益上继续上演“老炮”归来。建议关注高股息行业：一是高股息率高分红，凸显大类资产配置价值的银行、白电、交通运输；二是供给侧有望破局，商品价格低位盘整的有色、钢铁、采掘；三是弹性较好的行业，非银金融、地产、建材、航空（被低估的周期消费品）。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+保监会：支持保险企业参与养老金入市管理
+新年央企重组大戏：中建材与中材筹划重组
+行业动态
+国务院定调推开营改增 金融等四行业影响一览
+环保投资十三五将迎高峰 并购潮还将持续（股）
+公司新闻
+西宁特钢再度下调增发规模 国华人寿退出认购
+福瑞股份专利保卫战胜诉 海斯凯尔存不正当竞争
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：赵强_NF3972

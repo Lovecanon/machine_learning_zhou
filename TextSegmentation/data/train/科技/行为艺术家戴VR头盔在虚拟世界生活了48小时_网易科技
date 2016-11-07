@@ -1,0 +1,55 @@
+行为艺术家戴VR头盔在虚拟世界生活了48小时_网易科技
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/R/T/VBDFRH3RT.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/28/AtWvq7941/SD/AtWvq7941-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+行为艺术家在虚拟世界生活了48小时
+（来源：新华网）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+为了证明当前的虚拟现实设备的安全性和舒适性，行为艺术家索斯滕・维德曼(ThorstenWiedemann)连续使用了48小时HTC Vive头盔。他表示，在这两天时间里，身体没有出现任何问题，眼睛没有灼热感，也没有头晕恶心的情况发生。在这场48小时耐力挑战中，Wiedemann除了在第25个小时有过一次急性焦虑症，其他时间都过得挺不错的，既不头疼也不反胃。他在48个小时里的虚拟现实体验中和自己打了网球，试着倒立行走，创造出燃烧的雪人，和朋友到魔法世界旅行，甚至还到白宫坐了总统的宝座。
+ 
+Wiedemann称，为了完全的适应虚拟生活，他在虚拟世界中找了个山洞，抬头就能看到满天的星光，每天睡2.5个小时。在48小时中，除了巧克力和香蕉，Wiedemann喝了不少液体食物以及水和茶，他特意在挑战中服用了特殊药物，使自己不需要上厕所。维德曼整个过程都穿着一套红色睡衣体验各种虚拟现实内容。Wiedemann称，做这个实验并不是为了展示自己的忍耐力，他觉得未来人们会在花大量时间在虚拟现实世界里，目的不是为了逃离，而是获得更多不一样的体验，包括社交、艺术、教育以及其它。他本人认为，虚拟现实设备将在2026年成为一项常见的娱乐方式。
+
+ 本文来源：新华网  
+责任编辑：王超_NT4133

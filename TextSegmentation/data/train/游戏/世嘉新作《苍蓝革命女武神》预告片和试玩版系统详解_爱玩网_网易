@@ -1,0 +1,121 @@
+世嘉新作《苍蓝革命女武神》预告片和试玩版系统详解_爱玩网_网易
+
+世嘉在最近公布了女武神系列新作《苍蓝革命女武神》最新预告片，同时在官网和《Fami通》周刊上，分别公布了故事背景、角色情报和游戏系统详解。
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/V/G/VBDAKERVG.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/KZAIf2728/SD/KZAIf2728-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《苍蓝革命的女武神》加长版预告片
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+首先是来自《Fami通》的故事背景和角色介绍：
+
+日德兰王国（Jutland Kingdom）
+
+
+
+主角所居住的国家。
+被女英雄奥菲莉娅的父亲所统治的国家，该国采取君主立宪的体制。国王虽然是国家的领导者，但在政治上的势力微薄，国家实际上被人民众议会和领主议会在王权的领导下主宰着国家的运作。
+该国位于欧洲南部，气候温暖而且土地肥沃，非常适合农业发展，但是国家却缺少拉古奈特能源。由于该国人民的吃苦耐劳而且技术精湛，该国的手工制造业异常发达。
+在神圣纪元1852年，四个国家为了抵制鲁斯帝国（Rus Empire）而组成了联盟，稍后建立“BRuFH同盟国”，并开始突然封锁拉古奈特能源的进口，从而导致了的贫困爆发。第二年大规模的战争爆发。
+日德兰王国虽然有着出众的手工制造技术，却由于极度的资源匮乏而导致魔法技术业的停止发展，从而导致了进一步的资源匮乏，城市中的“苍蓝之光”也随之消失。
+
+马克西姆（Maxim）
+
+
+在鲁斯帝国的皇帝克劳迪大帝的军队中任职的军人，性格非常直率。作为帝国的年轻将领，他经常出现在阿姆雷特面前。他诞生在帝国的领土内，年轻时就被克劳迪大帝的帝国军将领选拔为士兵。由于从小被进行与拉古奈特能量结合的试验，从而使得他可以使用魔法技术而拥有了压倒性的战斗力。
+另外世嘉还在官方网站上公布了试玩版中的任务情报和系统讲解。试玩版中玩家将会有两个任务进行，第一个为低难度的训练任务“莫拉达演习”；第二个则是为难度更高一些的实战关卡“莫拉达压制战”。玩家需要先完成训练关之后才能解锁第二关。
+
+任务简报
+
+
+任务简报阶段，玩家将会得到战场地图、任务目标和战略要点的信息提示。
+
+任务开始
+
+
+任务开始之后，玩家将控制自己的角色在战场中行进或于敌人交战。玩家需要完成任务目标才能通关。
+
+战果
+
+
+完成通关目标之后，会进入分数结算画面。根据玩家杀敌数以及完成时间进行等级评价。
+
+军团战
+
+
+玩家可以在战场内自由移动并抢先一步压制敌人。游戏中使用称之为军团战斗系统（LeGION Battle System），玩家会在战场上遇到大群的敌军部队，可以从远处使用副武器攻击并创造出一定的压制和优势。
+
+近身战
+
+
+当与敌人部队接近之后开始进入战斗状态，玩家将使用近战武器或魔法技术进行攻击。发动强而有力的攻击并消灭敌人！
+
+创造战略优势
+
+
+战斗中一些不同的动作会对战局造成影响，做出正确的应对或处理可以影响战局进程。
+
+反应对策
+
+
+在不同情况下，角色会有四种不同的“反应”。对不同的反应做出恰当的对策，可以取得优势。
+- 惊讶：当遇到意外时会发生。敌人在处于惊讶状态下会出现暂时的空档，这个时候可以用作突袭；
+- 焦虑：在处于不利局势下触发。由于玩家频繁地应对他们的行动，从而使得敌人士气下降并陷入焦虑，从而减少敌人反击的可能性；
+- 愤怒：敌对目标增多时触发。在愤怒状态下，攻击力会增强，但是防御能力也会下降，需要小心行事。
+- 坚定：警戒心提升之后触发。这个状态下防御力会增加，防御效果会更好。
+
+濒死
+
+
+
+
+ 
+当队伍中的角色生命值为0时，他或她会进入“濒死”状态，同时会弹出一个死亡倒计时。在时间结束之前成功救援队友的话，可以将其“复活”。但是如果倒计时到达0时，角色将会进入“死亡”状态，并从战场上撤离，无法在任务中继续使用。
+《苍蓝革命的女武神》将会于2016年冬季登陆PlayStation 4主机。消息来源Gematsu。
+
+ 本文来源：爱玩网     作者：超昂草莓
+   责任编辑：刘霄_NG2531

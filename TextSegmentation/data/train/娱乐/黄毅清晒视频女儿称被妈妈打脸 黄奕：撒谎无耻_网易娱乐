@@ -1,0 +1,57 @@
+黄毅清晒视频女儿称被妈妈打脸 黄奕：撒谎无耻_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/N/4/VBCQ3KVN4.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/19/hnJxq8257/SD/hnJxq8257-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+黄毅清晒视频女儿称被妈妈打脸 
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月19日报道 黄毅清夫妇之间的战争平息一段时间后，又掀起一阵高潮。近日，黄毅清强行将女儿带去美国，接着爆料女儿遭黄奕虐打，并晒身上淤青，黄奕随后回应称黄毅清是蓄意陷害。1月19日，黄毅清通过微博晒视频，视频中小铃铛对着镜头称妈妈打她。随后，黄奕在微博愤怒回应此事，称黄毅清教女儿说谎，利用孩子纯洁的心灵，卑鄙无耻，不配做一名父亲。
+
+ 
+1月19日晚，黄毅清以女儿微博“芊禧玲铛Alice”曝视频，视频中，铃铛对着镜头称打她脸上，在黄毅清的逼问下又回答称是“妈妈”打她，并用手指向脸上。而黄毅清还写道：“孩子不会撒谎。”此视频曝光后，网友纷纷表示非常的气愤，竟然真对一个孩子下手，也有网友表示很心酸和心疼，也更有网友仍对此段视频有怀疑。随后，黄奕在微博中愤怒回应孩子被打，称黄毅清不配做一名父亲，写道：“为人父，怎么可以这样教孩子，说妈妈打我，还录下来，太卑鄙无耻了，孩子那么纯洁的心灵，让你如此利用，太令人发指了，太可耻了，不配做一名父亲。”此次也是黄奕女儿被带走后首次通过微博正面回应。
+
+ 本文来源：网易娱乐  
+责任编辑：张楠_NK4501

@@ -1,0 +1,2331 @@
+国外生活真比国内好?125万安家美国感受一下_网易海外置业
+
+在很多的人的观念里，移民欧美是高大上的，外国的月亮比中国的要圆的多。但移民国外真的好吗?国外生活真的就比国内好吗？如果你想知道答案，不妨去当地住一段时间。住酒店太贵不划算，买房是一个不错的选择。即省去了房租，又可做投资之用。如果你想了解美国(房源)，不妨从在美国安家开始。下面是小编就为大家精选的几套达拉斯(房源)、洛杉矶(房源)投资、自住两用房，总价125万元起。
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+房源推荐一>>>>达拉斯玫瑰豪园回报率超6%可贷款   125万元
+
+项目坐落在沃斯堡东南部的ForestHill市，ForestHill市为沃斯堡地区发展较快的城市之一，预期未来两年内城市将增长40%。项目
+45分钟车程覆盖机场及休斯顿(房源)主城核心区域，同时靠近大型的城市办公区、百货商场、体育馆。项目拥有指定学区，学区内有多所中小学，教育资源丰富。
+ 
+
+
+#photo1436260177633{width:100%;height:100%;}
+#photoView1436260177633{position:relative;}
+#gallery1436260177633 .nph_stream, #gallery1436260177633 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436260177633 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436260177633 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436260177633 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436260177633 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436260177633 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436260177633 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436260177633 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436260177633 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436260177633 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436260177633 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436260177633 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436260177633 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436260177633 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436260177633 .nph_list_thumb li a,
+#atlas_house1436260177633 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436260177633 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436260177633 .nph_scrl_prev,
+#atlas_house1436260177633 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436260177633 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436260177633 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436260177633 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436260177633 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436260177633 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436260177633 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436260177633 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436260177633 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436260177633 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436260177633 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436260177633 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436260177633 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436260177633 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436260177633 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436260177633 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436260177633 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436260177633 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+4室2.0浴
+205.5 ㎡
+
+/54
+（共54张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1441172245989.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751441172245989.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260632215.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260632215.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260632637.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260632637.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260632868.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260632868.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260633278.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260633278.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260633925.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260633925.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260634529.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260634529.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260635827.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260635827.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260634800.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260634800.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260637132.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260637132.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260637746.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260637746.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260638961.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260638961.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260638718.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260638718.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260639453.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260639453.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260640431.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260640431.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260640767.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260640767.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260640540.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260640540.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260641328.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260641328.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260641607.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260641607.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260642425.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260642425.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260642462.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260642462.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260642546.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260642546.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260644193.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260644193.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260644300.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260644300.png
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260783387.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260783387.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260783203.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260783203.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260783761.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260783761.jpg
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260785963.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260785963.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260786005.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260786005.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260786289.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260786289.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260787657.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260787657.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260788066.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260788066.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260788405.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260788405.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260789254.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260789254.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260790370.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260790370.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260790293.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260790293.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260791873.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260791873.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260791945.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260791945.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260792035.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260792035.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260793109.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260793109.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260794032.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260794032.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260794180.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260794180.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260794850.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260794850.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260795797.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260795797.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260796371.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260796371.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260796955.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260796955.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260797665.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260797665.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260798109.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260798109.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260798920.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260798920.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260799042.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260799042.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260799882.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260799882.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260800396.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260800396.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260801143.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260801143.JPG
+			
+						
+			
+			ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436260800985.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436260800985.JPG
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库
+ 7440 Rose Crest Blvd, Forest Hill, Dallas
+, TX
+, 76140
+
+
+196000
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436260177633 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436260177633" ,title: 'ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库'}); });
+	var keyList = [
+			"At_1sHGUDSt_uoV0fP_55_QrPvSW15jy11JVgKLUp4xZQQbudOd1jjb8T_ti9ot3",
+			"Akv_cR7RdS_iTT17lop4l1KIY13gr9AJ53ZgNzkVfiv6QWS6IaunhFOMKWsteyRW",
+			"Avxkg7V2NxrmO23FzGxk9SiHMdQg8ZVU6ZmiotwnRiPye8yFJwdgfG_4CrCrZoSs"
+		];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436260177633").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/32.649548,-97.26537300000001/9?mapSize=215,111&format=jpeg&centerPoint=32.649548,-97.26537300000001&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436260177633", {
+    url: document.location.href,
+    title: document.title,
+    summary: "ROSE CREST 达拉斯玫瑰豪园 Williamson 4房2卫2车库",
+    pic: function() { return $('#photo1436260177633').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436260177633').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>洛杉矶独栋别墅紧邻学区        总价626万元
+
+该房源位坐落在美国洛杉矶奇诺岗市（City of Chino Hills），全年气候宜人，日照充足，非常适宜人居。该房源为独栋别墅，自带游泳池、篮球场以及配备烧烤设施的院落，院内已安装树篱。周围环境便利，紧邻高速公路入口；附近有大型商场，能够满足您的购物需求。周边环境优雅安静，居住条件极其优良。此外，该房源紧邻数所中小学，包括Country Springs El(房源)ementary（小学）、Canyon Hills Junior High（中学） 等，是您投资置业的不二选择。
+ 
+
+
+#photo1427680234503{width:100%;height:100%;}
+#photoView1427680234503{position:relative;}
+#gallery1427680234503 .nph_stream, #gallery1427680234503 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1427680234503 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1427680234503 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1427680234503 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1427680234503 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1427680234503 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1427680234503 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1427680234503 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1427680234503 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1427680234503 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1427680234503 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1427680234503 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1427680234503 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1427680234503 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1427680234503 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1427680234503 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1427680234503 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427680234503 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1427680234503 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427680234503 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1427680234503 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1427680234503 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1427680234503 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1427680234503 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1427680234503 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1427680234503 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1427680234503 .nph_list_thumb li a,
+#atlas_house1427680234503 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1427680234503 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1427680234503 .nph_scrl_prev,
+#atlas_house1427680234503 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1427680234503 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1427680234503 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1427680234503 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1427680234503 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1427680234503 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1427680234503 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1427680234503 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1427680234503 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1427680234503 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1427680234503 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1427680234503 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1427680234503 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1427680234503 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1427680234503 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1427680234503 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1427680234503 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1427680234503 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+5室3.0浴
+248.05 ㎡
+
+/19
+（共19张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680884430.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680884430.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680884616.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680884616.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680885443.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680885443.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680884236.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680884236.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680885597.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680885597.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680886188.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680886188.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680886257.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680886257.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680886558.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680886558.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680886928.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680886928.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680886938.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680886938.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680887521.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680887521.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680887674.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680887674.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680887747.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680887747.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680888274.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680888274.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680888440.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680888440.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680888505.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680888505.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680889198.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680889198.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680889124.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680889124.jpg
+			
+						
+			
+			洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427680889298.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427680889298.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅
+ 1662, 
+Pleasant Hill Dr, Chino Hills, Los Angeles
+, CA
+, 91709
+
+
+980000
+详情咨询
+4008163163-47603
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1427680234503 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1427680234503" ,title: '洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1427680234503").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/5.771876571322768E-4,1.8405135529064864E-4/9?mapSize=215,111&format=jpeg&centerPoint=5.771876571322768E-4,1.8405135529064864E-4&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1427680234503", {
+    url: document.location.href,
+    title: document.title,
+    summary: "洛杉矶奇诺岗 5卧3卫 精致庭院紧邻学区 独栋别墅",
+    pic: function() { return $('#photo1427680234503').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1427680234503').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>洛杉矶富人区双层别墅        总价830万元
+
+派洛斯福德庄园（Palos Verdes Estate）是加州洛杉矶郡西南部的一座海滨城市，福布斯2007年数据显示，它位列美国最富庶地区排行榜第81位，美国地价最昂贵地区排行榜第47位。该房产毗邻Lunada湾广场（Lunada Bay Plaza），适合您节假日出门采购或散心。如果想亲近自然，去看海边悬崖也极其方便，只需穿过几个步行街区即可。
+ 
+
+
+#photo1427705144067{width:100%;height:100%;}
+#photoView1427705144067{position:relative;}
+#gallery1427705144067 .nph_stream, #gallery1427705144067 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1427705144067 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1427705144067 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1427705144067 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1427705144067 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1427705144067 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1427705144067 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1427705144067 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1427705144067 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1427705144067 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1427705144067 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1427705144067 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1427705144067 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1427705144067 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1427705144067 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1427705144067 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1427705144067 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427705144067 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1427705144067 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427705144067 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1427705144067 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1427705144067 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1427705144067 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1427705144067 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1427705144067 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1427705144067 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1427705144067 .nph_list_thumb li a,
+#atlas_house1427705144067 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1427705144067 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1427705144067 .nph_scrl_prev,
+#atlas_house1427705144067 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1427705144067 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1427705144067 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1427705144067 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1427705144067 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1427705144067 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1427705144067 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1427705144067 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1427705144067 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1427705144067 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1427705144067 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1427705144067 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1427705144067 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1427705144067 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1427705144067 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1427705144067 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1427705144067 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1427705144067 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室2.0浴
+172.43 ㎡
+
+/24
+（共24张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705352598.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705352598.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705352976.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705352976.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705352775.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705352775.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705353541.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705353541.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705353649.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705353649.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705353901.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705353901.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705354131.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705354131.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705354207.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705354207.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705354650.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705354650.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705355263.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705355263.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705355216.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705355216.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705355481.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705355481.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705355860.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705355860.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705356045.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705356045.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705356403.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705356403.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705356496.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705356496.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705356673.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705356673.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705357278.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705357278.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705357352.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705357352.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705357490.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705357490.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705357982.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705357982.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705358343.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705358343.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705358314.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705358314.jpg
+			
+						
+			
+			洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427705358811.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427705358811.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅
+ 2224, 
+2224 Via Anacapa, Palos Verdes Estates, CA 90274, Los Angeles
+, CA
+, 90274
+
+
+1299000
+详情咨询
+4008163163-47603
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1427705144067 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1427705144067" ,title: '洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1427705144067").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/34.0522342,-118.2436849/9?mapSize=215,111&format=jpeg&centerPoint=34.0522342,-118.2436849&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1427705144067", {
+    url: document.location.href,
+    title: document.title,
+    summary: "洛杉矶派洛斯福德庄园市  3卧2卫  装修现代  双层别墅",
+    pic: function() { return $('#photo1427705144067').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1427705144067').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1洛杉矶奇诺岗 5卧3卫 景观泳池 生活便利
+ 848888
+
+
+ 
+TOP 2洛杉矶斯特拉德拉路 4卧5卫 顶级视野 山麓别墅
+ 3795000
+
+
+ 
+TOP 3洛杉矶派洛斯福德庄园 独栋豪华海景别墅
+ 8750000
+
+
+ 
+TOP 4洛杉矶派洛斯福德庄园 4卧3卫 绝佳海景
+ 1599000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

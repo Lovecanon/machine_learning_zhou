@@ -1,0 +1,2329 @@
+PK中国10年没涨价东西 9万美金轻松安家美国_网易海外置业
+
+一花钱买东西，大家就要慨叹现在的钱越来越不耐花了，越变越小，其实就是在吐槽物价越来越高了。相比于以前，物价的确是高了很多，这个大家应该都没有意见。可是你造吗，中国人生活中也有十年没涨过价的东西！不是开玩笑哦！小编是非常认真地在说这句话的！相较于这些没涨价的东西，涨价涨幅最大的东西就是房地产，这也让许多国人感叹房价太贵买不起啊。别怕，中国买不起咱们去美国(房源)买房赚房租。9万美金就能在奥兰多(房源)买一套公寓，且回报率超7%，买房即可包租，能贷款。如果你不信，不妨随小编一起去看看。
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+房源推荐一>>>>奥兰多公寓租金回报率超7%     总价57万元
+
+项目紧邻奥兰多最著名的豪宅社区，距离迪斯尼世界25分钟，交通方便，位置极佳。配套齐全，两个小区分别配有两个泳池，会所，健身，两个网球场，沙滩排球，室外温泉，应有尽有。
+ 
+
+
+#photo1436331553088{width:100%;height:100%;}
+#photoView1436331553088{position:relative;}
+#gallery1436331553088 .nph_stream, #gallery1436331553088 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436331553088 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436331553088 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436331553088 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436331553088 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436331553088 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436331553088 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436331553088 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436331553088 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436331553088 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436331553088 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436331553088 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436331553088 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436331553088 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436331553088 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436331553088 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436331553088 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436331553088 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436331553088 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436331553088 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436331553088 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436331553088 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436331553088 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436331553088 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436331553088 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436331553088 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436331553088 .nph_list_thumb li a,
+#atlas_house1436331553088 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436331553088 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436331553088 .nph_scrl_prev,
+#atlas_house1436331553088 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436331553088 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436331553088 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436331553088 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436331553088 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436331553088 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436331553088 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436331553088 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436331553088 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436331553088 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436331553088 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436331553088 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436331553088 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436331553088 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436331553088 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436331553088 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436331553088 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436331553088 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+2室2.0浴
+90.0 ㎡
+
+/38
+（共38张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331837357.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331837357.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331765605.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331765605.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331834257.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331834257.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331834301.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331834301.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331834382.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331834382.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331835137.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331835137.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331835368.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331835368.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331835444.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331835444.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331836006.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331836006.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331836362.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331836362.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331836654.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331836654.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331837409.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331837409.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331837726.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331837726.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331838319.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331838319.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331838635.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331838635.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331838644.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331838644.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331839302.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331839302.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331839796.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331839796.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331839658.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331839658.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331840531.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331840531.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331840702.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331840702.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331840976.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331840976.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331841391.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331841391.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331841446.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331841446.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331842393.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331842393.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331842306.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331842306.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331842395.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331842395.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331843438.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331843438.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331843392.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331843392.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331843542.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331843542.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331844222.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331844222.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331879155.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331879155.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331879310.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331879310.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331879533.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331879533.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331879993.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331879993.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331880854.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331880854.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331881069.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331881069.jpg
+			
+						
+			
+			Trade Winds 奥兰多公寓 Gardenia 2房2卫
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436331881366.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436331881366.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trade Winds 奥兰多公寓 Gardenia 2房2卫
+ 1081 S Hiawassee Rd, Orlando, orlando
+, FL
+, 32835
+
+
+89900
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436331553088 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436331553088" ,title: 'Trade Winds 奥兰多公寓 Gardenia 2房2卫'}); });
+	var keyList = [
+			"At_1sHGUDSt_uoV0fP_55_QrPvSW15jy11JVgKLUp4xZQQbudOd1jjb8T_ti9ot3",
+			"Akv_cR7RdS_iTT17lop4l1KIY13gr9AJ53ZgNzkVfiv6QWS6IaunhFOMKWsteyRW",
+			"Avxkg7V2NxrmO23FzGxk9SiHMdQg8ZVU6ZmiotwnRiPye8yFJwdgfG_4CrCrZoSs"
+		];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436331553088").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/28.528024,-81.47152299999999/9?mapSize=215,111&format=jpeg&centerPoint=28.528024,-81.47152299999999&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436331553088", {
+    url: document.location.href,
+    title: document.title,
+    summary: "Trade Winds 奥兰多公寓 Gardenia 2房2卫",
+    pic: function() { return $('#photo1436331553088').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436331553088').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>奥兰多迪士尼联排别墅租金净回报6%      总价114万元
+
+项目距离迪士尼乐园仅15分钟车程，周边美国房产短租房市场非常旺盛，升值潜力大。租金净回报6% !!!
+ 
+
+
+#photo1436317569773{width:100%;height:100%;}
+#photoView1436317569773{position:relative;}
+#gallery1436317569773 .nph_stream, #gallery1436317569773 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436317569773 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436317569773 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436317569773 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436317569773 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436317569773 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436317569773 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436317569773 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436317569773 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436317569773 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436317569773 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436317569773 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436317569773 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436317569773 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436317569773 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436317569773 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436317569773 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436317569773 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436317569773 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436317569773 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436317569773 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436317569773 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436317569773 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436317569773 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436317569773 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436317569773 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436317569773 .nph_list_thumb li a,
+#atlas_house1436317569773 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436317569773 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436317569773 .nph_scrl_prev,
+#atlas_house1436317569773 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436317569773 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436317569773 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436317569773 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436317569773 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436317569773 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436317569773 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436317569773 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436317569773 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436317569773 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436317569773 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436317569773 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436317569773 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436317569773 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436317569773 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436317569773 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436317569773 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436317569773 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室3.0浴
+200.0 ㎡
+
+/43
+（共43张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1438226963899.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751438226963899.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317689294.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317689294.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317691569.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317691569.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317692002.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317692002.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317693126.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317693126.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317694126.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317694126.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317695631.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317695631.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317697684.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317697684.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317700619.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317700619.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317700908.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317700908.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317700975.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317700975.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317703988.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317703988.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317704922.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317704922.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317707641.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317707641.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317708743.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317708743.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317709679.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317709679.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317711547.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317711547.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317713559.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317713559.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317713312.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317713312.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317716763.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317716763.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317720431.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317720431.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317720672.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317720672.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317720702.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317720702.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317722566.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317722566.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317722653.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317722653.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317724284.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317724284.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317725369.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317725369.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317725623.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317725623.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317726087.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317726087.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317766040.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317766040.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317766045.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317766045.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317766215.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317766215.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317768685.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317768685.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317769065.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317769065.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317768762.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317768762.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317770151.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317770151.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317770796.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317770796.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317771273.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317771273.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317771879.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317771879.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317772265.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317772265.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436317772005.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436317772005.png
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318352261.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318352261.jpg
+			
+						
+			
+			Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436318352270.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436318352270.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台
+ 1520Still Dr, Clermont, orlando
+, FL
+, 34714
+
+
+180000
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436317569773 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436317569773" ,title: 'Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436317569773").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/28.3687472,-81.666316/9?mapSize=215,111&format=jpeg&centerPoint=28.3687472,-81.666316&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436317569773", {
+    url: document.location.href,
+    title: document.title,
+    summary: "Dream 奥兰多迪士尼联排别墅 Eliroa 3房3卫2层 露台",
+    pic: function() { return $('#photo1436317569773').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436317569773').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>奥兰多Oaks诺纳湖橡树园升值潜力大     总价203万元
+
+项目距离奥兰多中心仅30分钟车程，交通便利。周边大型连锁超市及购物百货中心以及健身房等配套完整，同时拥有奥兰多地区不可多得的高品质优质学区。升值潜力巨大!!!
+ 
+
+
+#photo1442219031063{width:100%;height:100%;}
+#photoView1442219031063{position:relative;}
+#gallery1442219031063 .nph_stream, #gallery1442219031063 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1442219031063 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1442219031063 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1442219031063 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1442219031063 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1442219031063 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1442219031063 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1442219031063 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1442219031063 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1442219031063 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1442219031063 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1442219031063 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1442219031063 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1442219031063 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1442219031063 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1442219031063 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1442219031063 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1442219031063 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1442219031063 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1442219031063 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1442219031063 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1442219031063 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1442219031063 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1442219031063 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1442219031063 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1442219031063 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1442219031063 .nph_list_thumb li a,
+#atlas_house1442219031063 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1442219031063 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1442219031063 .nph_scrl_prev,
+#atlas_house1442219031063 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1442219031063 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1442219031063 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1442219031063 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1442219031063 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1442219031063 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1442219031063 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1442219031063 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1442219031063 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1442219031063 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1442219031063 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1442219031063 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1442219031063 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1442219031063 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1442219031063 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1442219031063 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1442219031063 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1442219031063 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+4室2.5浴
+273.0 ㎡
+
+/16
+（共16张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219125298.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219125298.png
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219124990.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219124990.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219123735.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219123735.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219129594.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219129594.png
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219131592.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219131592.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219132039.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219132039.png
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219133269.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219133269.png
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219134185.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219134185.png
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219136510.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219136510.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219136396.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219136396.png
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219136603.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219136603.png
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219138747.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219138747.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219139155.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219139155.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219140790.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219140790.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219141179.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219141179.jpg
+			
+						
+			
+			奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442219141355.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442219141355.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room
+ FL , 
+12273 Great Commission Way Orlando, orlando
+, FL
+, 32832
+
+
+320000
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1442219031063 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1442219031063" ,title: '奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1442219031063").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/28.4200955,-81.19963189999999/9?mapSize=215,111&format=jpeg&centerPoint=28.4200955,-81.19963189999999&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1442219031063", {
+    url: document.location.href,
+    title: document.title,
+    summary: "奥兰多Oaks 诺纳湖橡树园-Moss Park-Provicetown 4房2.5卫2车库2层+game room",
+    pic: function() { return $('#photo1442219031063').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1442219031063').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1优质的新西兰房产资源
+ 115000
+
+
+ 
+TOP 2新西兰Titahi Bay的房产项目
+ 155000
+
+
+ 
+TOP 3Trade Winds 奥兰多公寓 Gardenia 2房2卫
+ 89900
+
+
+ 
+TOP 4Trade Winds 奥兰多公寓 Buckeye 1房1卫
+ 89900
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

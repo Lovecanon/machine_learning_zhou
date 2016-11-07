@@ -1,0 +1,54 @@
+拉米雷斯视频问候球迷:高兴加盟 迫不及待来中国_网易体育
+苏宁老总：在球员选择中，我们不会盲目追求名气。
+网易体育1月28日报道：今天下午，江苏苏宁足球俱乐部通过官方微博发布了一段拉米雷斯向中国球迷问好的视频。视频中，这位刚刚刷新了中超转会费纪录的巴西中场身着休闲装，心情轻松。面对镜头时笑着对中国的球迷说：“很高兴能加盟江苏苏宁足球俱乐部，我已经迫不及待的想要正式前往中国啦。”
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/4/F/VBDGD1V4F.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/28/Hlvkj6332/SD/Hlvkj6332-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+拉米雷斯向球迷们问候
+（来源：网易体育）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+昨晚十点，苏宁俱乐部在官微上宣布以2800万欧元转会费，签下前切尔西球员拉米雷斯，以创中超第一转会费纪录的价格将其带到中国，引发媒体及球迷惊叹。此前，苏宁还官宣了澳大利亚主力中后卫塞恩斯布里。虽然此前被舆论绑架的苏宁俱乐部看似在引援市场遇到了一点小麻烦，但俱乐部总经理刘军在接受采访时表示，苏宁一直在按照自己的节奏，规范地进行着各项外援引进工作。对于拉米雷斯2800万欧元的转会费，刘军说：“在球员的选择过程中，我们是站在价值角度理性考虑的，不会盲目追求名气，不会参与不理性的价格竞争。但对于符合球队技战术需求、同时也具有真正实力的优秀球员，苏宁也愿意付出匹配的投入。”
+本文来源：网易体育  作者：163
+责任编辑：马赛_NS2135

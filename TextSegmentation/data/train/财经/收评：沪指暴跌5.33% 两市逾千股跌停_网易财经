@@ -1,0 +1,56 @@
+收评：沪指暴跌5.33% 两市逾千股跌停_网易财经
+沪指跌5.33%，报3016.7点，成交2864亿元；深成指跌6.21%，报10212.5点，成交3778亿元。创业板指跌6.34%，报2106.36点。两市逾千股跌停；飘红个股不足百只。
+window.__STOCK_COMPONENT__.push({code: '000001', type: 'SH_INDEX', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月11日消息 周一，两市低开低走。早盘沪指低开1.71%后，盘中有小幅回暖迹象，但临近中午收盘时，指数开始掉头向下。午后，两市大幅下挫，期间虽有小幅反弹，但多头反攻无力，股指持续下行。截至收盘时，沪指跌5.33%，报3016.7点，成交2864亿元；深成指下跌6.21%，报10212.5点，成交3778亿元。创业板指跌6.34%，报2106.36点。值得注意的是，今日沪深300指数大跌5.03%，如果熔断机制没有暂停的话，今日A股将再度触及5%的熔断阈值。板块方面，两市各板块全线飘绿，卫星导航、全息概念、船舶板块跌幅居前。个股方面，两市逾千股跌停；飘红个股不足百只。A股在2016年的第一周经历了罕见的巨震，市场在前四个交易日中就四次触发熔断机制，这引发了恐慌情绪的弥漫，各种技术形态被严重破坏。不过上周四晚间管理层连夜发布政策暂停了熔断机制，使得周五大盘长针探底后行情趋于平稳。国金证券指出，政策抛来“橄榄枝”，针对减持禁令到期、熔断机制和新股发行节奏等给出了及时回应，但脆弱的市场是否接受监管层的相关政策出台诚意，有待进一步观察。考虑到“增量行情”短期内仍难以出现，建议从符合经济转型、产业升级的相关板块中寻找超额收益，主题方面推荐有事件或政策预期驱动的迪士尼、国企改革、农业一号文等。西部证券的看法则较为悲观，西部证券认为，在全球经济复苏乏力与投资者风险偏好降低的背景下，A股市场短线仍将面临较大压力。操作上，当前应坚持防守策略，大盘指数60日均线下方不宜大仓位做多。后市应重点关注国内实体经济复苏的节奏与全球市场风险偏好的变化。浙商证券则认为，短期内市场情绪继续主导A股市场走势，不稳定的市场情绪带来震荡的走势；建议把握防御策略下的结构性机会，可关注“猪周期”产业链相关板块和军工板块等投资机会。持有类似观点的还有兴业证券。兴业证券在研报中表示，一季度具有操作价值的反弹的时间窗口，快了要等到一月中旬前后，最迟至春节前后，降准可能是反弹启动的重要催化剂。建议愿意参与春季反弹的投资者，多在“人少的地方”淘淘金，精选风险收益匹配度高的机会，2016年的投资机会都是是结构性的。操作策略方面，需忍，不要盲动，立足防守反击、斯诺克打法，在别人恐慌宣泄之后审慎布局。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+保监会：支持保险企业参与养老金入市管理
+新年央企重组大戏：中建材与中材筹划重组
+行业动态
+国务院定调推开营改增 金融等四行业影响一览
+环保投资十三五将迎高峰 并购潮还将持续（股）
+公司新闻
+西宁特钢再度下调增发规模 国华人寿退出认购
+福瑞股份专利保卫战胜诉 海斯凯尔存不正当竞争
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：康振宇_NF4275

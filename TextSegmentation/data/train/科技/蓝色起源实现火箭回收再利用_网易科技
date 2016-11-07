@@ -1,0 +1,55 @@
+蓝色起源实现火箭回收再利用_网易科技
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/C/R/VBD5FVMCR.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/24/NUTOj0252/SD/NUTOj0252-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+蓝色起源公司实现真正火箭回收再利用
+（来源：网易科技频道）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易科技讯 1月24日消息，据Christian Science Monitor报道，上周五（22日）杰夫・贝索斯旗下的太空发射公司蓝色起源（Blue Origin）在德克萨斯州发射基地发射了一只火箭，火箭在进入太空后又重新回到地球并着陆。这是蓝色起源用回收的火箭重新发射升空并回收，对一家商业公司来说创造了历史和世界第一。蓝色起源的新谢泼德火箭（New Shepard）飞行了63.2英里（102公里），比去年11月的那次回收的飞行距离（62.4英里）稍远。这次飞行除了让蓝色起源在世界上首次实现第二次成功发射和回收火箭，还帮助该公司测试了新的着陆软件。更重要的是，杰夫・贝索斯在博客上称，这次着陆完成了“论证重复使用”的目标。他在博客上还发布了火箭起飞及着陆的视频。几年前，NASA（美国宇航局）终止了航天飞机项目，人们一度认为重复使用火箭不可想象，但现在掌握这个概念被认为是在竞争日益激烈的太空竞赛中实现经济可行性的关键。NASA局长查尔斯・博尔登（Charles Bolden）在新闻稿中称：“2010年奥巴马总统承诺让NASA与私人公司合作，使太空飞行更容易和更廉价，不到6年商业运营商就向国际空间站运送了3.5万磅（约15.8吨）的货物。”当前的太空竞赛是争夺NASA向国际空间站运送货物的合同，这些合同给了3家公司――蓝色起源、太空探索（SpaceX）和内华达山脉（Sierra Nevada），他们都在航天器重复使用上有着自己的见解。蓝色起源是3家公司里首先用回收火箭实现发射和再次着陆的第一家公司。该公司的重复使用理念完成是垂直的，火箭发射到太空释放太空舱然后降落。在着陆前火箭推进器会再次点火确保安全落地，而释放的太空舱通过降落伞着陆。蓝色起源的新谢泼德火箭是该公司将建造的最小火箭，无法进行轨道飞行。该公司未公布发射成本的信息。SpaceX也在研究火箭的重复使用，其猎鹰9火箭尺寸和功率更大，但有更复杂的下降和着陆程序。此前，SpaceX试图在无人驳船平台上回收猎鹰9火箭，但3次都未成功。不过，去年12月SpaceX在陆地上成功回收了猎鹰9，媒体称发射成本为6120万美元。内华达山脉公司也赢得了NASA运送货物合同，但在回收火箭上与前2家公司不同。该公司的追梦人（Dream Chaser）火箭采用了老式的苏联设计，虽然也是垂直发射，但用传统的跑道方式水平着陆，类似于NASA以前的航天飞机。追梦人原先打算用于向国际空间站运送7个人然后返回地球，但现在改为运送供给品。
+ 
+追梦人能从太空迅速返回地球，ArsTechnica称只需数小时，这可从国际空间站快速回收敏感物质。内华达山脉公司未公布发射成本。贝索斯一直反对水平着陆，称随着火箭的变大会遇到问题。释放航天器回收利用能力被视为是实现经济可行太空飞行的关键，相对NASA航天飞机项目的观点是巨大的改变。原先NASA航天飞机的发射任务每次需要4.5亿美元成本。蓝色起源称：“重复使用允许我们一次又一次地飞行，每次飞行都能提高太空探索和研究的经济可行性，为所有人开启太空之旅。”伊隆・马斯克曾表示：“如果能像飞机一样使用火箭，进入太空旅游的费用可能只要几百美元。”（木秀林）
+
+ 本文来源：网易科技报道  
+责任编辑：白鑫_NT4464

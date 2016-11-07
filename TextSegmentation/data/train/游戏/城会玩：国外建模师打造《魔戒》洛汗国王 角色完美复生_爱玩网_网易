@@ -1,0 +1,92 @@
+城会玩：国外建模师打造《魔戒》洛汗国王 角色完美复生_爱玩网_网易
+
+爱玩网整理发布，转载请注明出处。伊欧墨（Eomer）是《魔戒：双城奇谋》及《魔戒：王者再临》里的重要角色之一。作为洛汗国主要将领之一，伊欧墨在希优顿逝世后接任洛汗国国王的王位。介于对《指环王》系列电影中伊欧墨这个角色的热爱和痴迷，国外建模师“Nimlot26”花费了半年时间还原了这一角色，精细度十足，宛如角色完美复生。
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/6/9/VBCP4F869.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/19/xhQdR5532/SD/xhQdR5532-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+建模师打造《指环王》洛汗国王
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+《指环王》伊欧墨建模高清截图欣赏：
+.cpw-include { width:720px; margin:50px auto; padding:20px 10px;}
+        .cpw-include a,
+        .cpw-include a:visited { text-decoration:none; color:#333; }
+        .cpw-include a:hover { color:#f0454d;}
+        .cpw-include .cpw-link { height:220px; background:url(http://img1.cache.netease.com/game/gamezone/images/cpw-bg.jpg) no-repeat center 0; position:relative;}
+        .cpw-include .cpw-link a { width:200px; height:200px; position:absolute; left:50%; top:0; margin:0 0 0 -100px;}
+        .cpw-images-list { background:#fafafa; padding:20px 0 0; }
+        .cpw-images-list li { float:left; padding:0 10px;}
+        .cpw-images-list li a {}
+        .cpw-images-list li a img { width:340px;}
+        .cpw-images-list li a span { line-height:30px; display:block; border-left:5px solid #f14453; padding:0 0 0 10px; margin:10px 0 0;}
+        .cpw-articles-list { padding:20px 0; background:#fafafa; }
+        .cpw-articles-list li { width:340px; padding:0 10px; float:left; position:relative;}
+        .cpw-articles-list li i { width:5px; height:5px; background:#dbdbdb; position:absolute; left:10px; top:12px;}
+        .cpw-articles-list li:hover i { background:#f0454d;}
+        .cpw-articles-list li a { line-height:30px; display:block; font-size:12px; padding:0 0 0 15px;}
+    
+
+
+
+
+
+小偷太不职业 入室行窃与小狗玩high被抓
+《吉娜姐妹》抄袭马里奥30年 任天堂终臣服
+
+
+城会玩：手工大神徒手做飞机模型 被最后成品惊呆
+城会玩：女子约会被放鸽子删男友游戏装备 男友怒分手
+城会玩：男子为试验人体抗毒能力 16年被毒蛇咬160多口
+城会玩：高三学生放弃高考转投电竞 辍学打游戏有未来？
+城会玩：欧洲首家游戏旅馆开业 每个房间游戏机都是标配
+城会玩：防范诈骗！女学霸接诈骗电话轻松被骗70万
+
+
+
+ 
+
+
+ 本文来源：爱玩网     作者：Alive
+   责任编辑：谢志航_NG2612

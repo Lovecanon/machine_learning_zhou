@@ -1,0 +1,56 @@
+快讯：沪深300指数跌5.38%触发熔断机制_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '000001', type: 'SH_INDEX', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月7日消息 今日，两市大幅低开后震荡下挫，沪指失守3300点。截至发稿时，沪指跌5.40%，报3178.74点，成交548.1亿元；深成指跌6.68%，报10941.8点，成交796.3亿元。沪深300指数跌5.38%，报3349.29点。板块方面，信息安全、国产软件、卫星导航跌幅居前。根据熔断规定，当沪深300指数当日涨、跌幅达5%时，将触发熔断机制，三家交易所（上交所、深交所、中金所）暂停交易15分钟；当沪深300指数当日涨、跌幅达7%时，暂停交易直至收盘；当沪深300指数当日在尾盘阶段（14:45及之后）涨、跌幅达5%，暂停交易至收盘。外围市场方面，美股周三(1月6日)收跌，全球经济放缓、油价重挫及地缘政治状况恶化三座大山令美股承压。道琼斯工业平均指数下跌252.15点，报16906.51点，跌幅为1.47%；标准普尔500指数下跌26.45点，报1990.26点，跌幅为1.31%；纳斯达克综合指数下跌55.67点，报4835.76点，跌幅为1.14%。消息面上，上证报：注册制具体实施方案月内将落定；跨境电商再迎政策春风 相关概念股望爆发；两市93家公司推提振投资者信心三大利器；央企负责人会议将召开 国企改革路径初显；2016年首场发审会召开 3家公司IPO申请获通过；巨震行情融资客触"预警线" 券商平稳过渡"熔断"；谁说两融稳赚不赔 7券商计提融资类业务减值7亿；水利建设迎黄金发展期 三角度掘金产业链机会；反弹盛宴有序开启 钢铁等三大领涨先锋浮出水面；基金资管会议商讨八条底线重修 配资等迎紧箍咒。申万宏源表示，近几个月市场始终在年线和60天均线的区间内震荡，处于选择方向阶段。考虑到连续三个月反弹之后市场持续单边上升的基本面条件并不具备，因此延续箱体震荡，或者重心向下的可能性更大。与此同时，2015年10月8日开盘跳高向上留下了3073-3133之间的缺口，但当天是一根阴线，显示其尚不能作为中期突破的信号，因此，该缺口始终在吸引空方回补。总体看，市场目前仍处于去年三季度快速下跌之后的震荡筑底阶段。具体到1月份的交易区间来看，下方3100点是去年10月初的跳空缺口，如果被回补多方往往会发动进攻；而上方3500点是前期箱体波动的下箱体，具有一定压力。建议关注一些主题投资，比如迪斯尼、小市值转型等，以及确定性较强的成长品种。中信证券认为，通过降准来对冲汇率风险的推迟是目前压制市场的主要因素。短期股指上行压力源于其要越过三道关口：一是去年年底的流动性年关，二是1月8日的大股东解禁减持关，三是1月19日宏观数据公布。流动性年关已平稳度过，大股东减持预期反映也已比较充分，而实体数据大幅低于预期概率不大，预计市场风险压制环节将逐步缓解，随着政策的对冲与发力，中期市场并不悲观。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+保监会：支持保险企业参与养老金入市管理
+新年央企重组大戏：中建材与中材筹划重组
+行业动态
+国务院定调推开营改增 金融等四行业影响一览
+环保投资十三五将迎高峰 并购潮还将持续（股）
+公司新闻
+西宁特钢再度下调增发规模 国华人寿退出认购
+福瑞股份专利保卫战胜诉 海斯凯尔存不正当竞争
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：赵强_NF3972

@@ -1,0 +1,56 @@
+收评：沪指跌3.23%失守2900点 深成指跌3.77%_网易财经
+今日两市大幅低开后震荡回升。临近午盘，沪指强势翻红，冲击3000点。午后，风云突变，两市大幅跳水，沪指失守2900点。截至收盘，沪指跌3.23%，报2880.48点，成交2036亿元；深成指跌3.77%，报9975.97点，成交3326亿元。
+window.__STOCK_COMPONENT__.push({code: '000001', type: 'SH_INDEX', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月21日讯 今日两市大幅低开后震荡回升。临近午盘，沪指强势翻红，冲击3000点。午后，风云突变，两市大幅跳水，沪指失守2900点。截至收盘，沪指跌3.23%，报2880.48点，成交2036亿元；深成指跌3.77%，报9975.97点，成交3326亿元。板块方面，仅维生素板块飘红，亿帆鑫富涨停。卫星导航跌幅居前，耐威科技跌停，振芯科技跌逾9%，航天晨光、欧比特跌逾7%。全息概念股走势疲软，中颖电子、金刚玻璃跌停。养老概念走弱，宜华健康、中茵股份跌停。运输设备走弱，诺力股份跌停，神州高铁跌逾8%。外围市场方面，亚太股市周四收盘多数下跌，日本股市日经225指数收盘下跌2.43%，报16017.26点；日本东证股价指数收盘下跌2.80%，报1301.49点。韩国首尔综指收盘下跌0.27%，报1840.53点。台湾加权指数收盘下跌0.46%，报7664.01点。澳洲股市指标S&P/ASX 200指数上涨0.46%，报4864.00点。短期市场上行动力更多源自前期超跌引发的技术性反抽，及利空因素的减弱和消化，而决定市场上行趋势的经济运行、做多热情及超预期利好并未出现。经济数据依然疲弱，供给侧改革加速信用违约风险暴露；市场情绪依然谨慎，两融余额十三连降；新股发行、注册制推进令扩容压力持续，央行公开市场操作使得短期降准概率下降。此外，后市仍将面临诸多不确定因素，如汇率波动、美联储加息、产能出清、去杠杆风险等。在此背景下，市场阶段性反弹的力度和高度预计有限，反复震荡、一波三折也将成为行情特征。综合机构观点，当前阶段底大概率是“小U底”。也就是说，当前很可能只是阶段底，“大底”并未探明；与此同时，筑底反弹的路径也将较为缓慢，难以一蹴而就V型大涨。国泰君安首席宏观分析师任泽平表示，在经历了大幅暴跌之后，A股市场确实有可能在短期企稳甚至反弹，但是中期仍要做好过“苦日子”的准备，目前第二波调整基本结束，但有可能会有第三波调整，因此尚未成为大底。华融证券认为，市场走向并没有被逆转，仍将处在一个自然出清的状态里，反弹不会是V型反弹，而会是筑底时间较长的U型反弹。海通证券荀玉根指出，市场现在进入下蹲后的反弹行情，但未来仍需关注3月美联储加息、国内去产能去杠杆带来的风险。操作上，短期可适度参与阶段性反弹，重点关注股价跌破2850点或大股东增持的优质成长股，以及迎来年报炒作蜜月期的预高送转股票；但由于情绪仍待修复，不宜大举加仓抄底，仍需以谨慎为主，耐心等待大底探明和上升趋势基本形成。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+李源潮:将加强股市监管 方星海亮出监管底牌
+基金四季报：撤离金融 停牌前套现3亿股万科
+行业动态
+中沙能源合作促核电出海 机构热捧应流股份等7股
+多层面细解春节概念 三大板块或成反弹先锋
+公司新闻
+金宇车城逐热门资产失利 高管连辞打定增擦边球
+宏磊股份遭神秘人接盘 原实控人套现35亿离场
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：赵强_NF3972

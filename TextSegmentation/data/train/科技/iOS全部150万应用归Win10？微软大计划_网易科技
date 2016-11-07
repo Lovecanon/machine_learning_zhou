@@ -1,0 +1,8 @@
+iOS全部150万应用归Win10？微软大计划_网易科技
+
+据外媒报道，微软为了弥补自身应用匮乏的问题，决定在Windows 10上开启UWP（通用应用）模式，即兼容Android和iOS应用。当Android流产后，微软加快了iOS项目的进度，几个月前把Windows Bridge for iOS工具的代码放到了GitHub上。微软在技术文章里概述了如何在Xcode中创建一款基本的“待办事项清单”应用，然后使用Windows Bridge for iOS工具来移植这款应用使其在Windows 10中顺利运行。
+ 
+微软称，开发者需要一台Windows 10 PC、Visual Studio 2015和Windows Bridge for iOS工具。当然还需要安装OS X 10.11和Xcode 7的Mac。从这些动作可以洞悉，微软有信心建立起Windows 10生态。据可查资料显示，目前，App Store和Google Play的应用数量在150万款以上，微软应用商店官宣的数字是66万。
+
+ 本文来源：中关村在线  
+责任编辑：李德雄_NT2021

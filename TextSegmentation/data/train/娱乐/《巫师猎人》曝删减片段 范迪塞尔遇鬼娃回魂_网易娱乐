@@ -1,0 +1,58 @@
+《巫师猎人》曝删减片段 范迪塞尔遇鬼娃回魂_网易娱乐
+
+范・迪塞尔力战邪恶巫师。魅力大叔营救小萝莉。巫师猎人调查巫师踪迹。
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/1/K/VBD80GN1K.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/25/AOjus4740/SD/AOjus4740-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《最后的巫师猎人》曝删减片段
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月25日报道 近日，由布瑞克・埃斯纳尔执导，好莱坞著名动作巨星范・迪塞尔主演的奇幻动作电影《最后的巫师猎人》曝光了第二支导演删减片段，片段中熊孩子被邪恶诱入童话陷阱，幸得范・迪塞尔出手营救。随后巫师猎人深入敌人巢穴，竟然遭遇鬼娃事件，阴森恐怖的气氛扑面而来。《最后的巫师猎人》已于1月15日以2D、中国巨幕的形式登陆全国各大院线，在首周竞争激烈的情况下，获得了同期新作上座率、场均人次、议论热度的NO.1，公映近两周，截止目前票房达到1.3亿，再现好莱坞动作大片的吸金能力。童话陷阱美丽诱人 巫师猎人营救熊孩子《最后的巫师猎人》是一部耗资9500万美元的动作巨制，该片以西方盛传多个世纪的巫师文化为基础，电影集悬疑推理、法术争锋、冷兵器大战、动作格斗等多元化元素于一身，斥巨资打造的超凡视效更是不俗。本片的导演是曾执导《恐惧之源》、《杀出狂人镇》的好莱坞新锐导演布瑞克・埃斯纳尔，作为一名拍摄恐怖电影起家的导演，布瑞克・埃斯纳尔在本片中也融入了个人的惊悚情结，继首支删减片段“酒吧梦魇”之后，本次曝光的“童话陷阱”依旧是大走恐怖电影路线。片段中，一名熊孩子被地上五彩斑斓的小熊糖果吸引，来到一所庭院，画面顿时豁然开朗，清新明亮的风景，一棵长满五光十色糖果的葱葱绿树就在眼前，仿佛令人置身于美妙的童话世界之中。但这些缤纷的色彩与靓丽的氛围随着范・迪塞尔的到来宣告结束。原来这是一个邪恶巫师的居所，后者利用幻象来吸引人类一步一步堕入陷阱。片中范・迪塞尔饰演的巫师猎人追查邪恶巫师的踪迹来到其隐遁的巢穴，恰好撞见这一幕，幻象消除，画面风格顿时阴郁，一座破落的庭院与一棵枯萎已久的树呈现在眼前，孩子手中的糖果也变成了腐烂的果实。在西方传说中，邪恶巫师使用幻象和糖果诱惑孩子的案例不为少数，乃是邪恶巫师诱骗孩童最常用的方式，在很多动漫、游戏中类似情节都有体现，在《最后的巫师猎人》中，同样的故事也被演绎。幸亏范・迪塞尔及时出手，否则这位熊孩子也将成为下一个牺牲品。范・迪塞尔遭遇鬼娃事件 精良制作力助电影逆袭成功在删减片段的后半部分，范・迪塞尔深入邪恶巫师住所，无奈人去楼空。但在阴暗潮湿的房间，仍然留有巫师的痕迹，类似日本动漫作品中的“结界”，范・迪塞尔刚刚营救一名孩子脱离幻境，没想到在空无一人的房间中自己以一不留神的“中招”。在调查过程中，范・迪塞尔化身侦探，没想到身后鬼影乍现，一只古旧的洋娃娃竟然自行转头，氛围阴森，画面惊悚，仿佛令人置身于一部恐怖电影之中。据悉《最后的巫师猎人》为了拿到PG-13级（家长辅导级），不得不忍痛删减了一些惊悚、重口味场面，以上删减片段未来则会收录到《最后的巫师猎人》的蓝光影碟中。
+
+ 
+在《最后的巫师猎人》公映以来，该片以精良的制作、曲折的多元故事和不俗的特效场面收获好评不断，以上删减片段的更是证明电影从故事细节到设定背景的细致。电影在首周4、5部新片同时上画、竞争异常激烈的情况下，电影的精良品质成就了理想的口碑，并取得同期上座率、人均场次等多个NO.1记录，在微信以及几大购票平台上的讨论热度均为最高，电影低开高走逆袭成功，截止目前成为当日公映同期作品票房最高的一部。《最后的巫师猎人》由好莱坞顶峰娱乐和狮门电影联合出品，中国电影集团公司进口，中国电影股份有限公司发行，目前正在热映之中。
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

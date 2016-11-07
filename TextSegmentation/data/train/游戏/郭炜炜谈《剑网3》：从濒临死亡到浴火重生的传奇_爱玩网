@@ -1,0 +1,52 @@
+郭炜炜谈《剑网3》：从濒临死亡到浴火重生的传奇_爱玩网
+
+爱玩网独家专稿，转载请注明出处。小编导语：提到国产武侠大作，想必不少玩家会想到《剑网3》。作为国产武侠的一块金字招牌，在它辉煌的背后又藏有多少故事？从2004年项目的初次诞生至今为止，作为剑网迷的你可曾知道：《剑网3》最初是款2.5D游戏？又是否知道它曾多次徘徊在覆灭的边缘？本期的《大咖爱玩》中，爱玩网有幸邀请到了西山居副总裁、《剑网3》的制作人：郭炜炜。他将为我们讲诉这十多年间《剑网3》背后发生的，那些不为人知的故事。此外，他也为爱玩网的玩家们带来了一段新年祝福视频：
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/S/C/VBCCCF2SC.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/14/HDCgX7631/SD/HDCgX7631-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《剑网3》制作人郭炜炜：带给爱玩网玩家的祝福
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+本文作者：郭炜炜  职位：西山居副总裁、《剑网3》制作人12年前大学毕业的时候，我怀着只想做一款中国人的武侠游戏的梦想加入了西山居，相对其他大咖五花八门的头衔，我的履历只有一个《剑网3》。《剑网3》从立项至今已经有12年时间，其中经历了许多超乎想像的风雨。从立项时就面临腰斩的危机，不断的延期，在公测后一出世就面临的危机，从低谷《巴蜀风云》，历经《一代宗师》的轻功蜕变，走过《烛火燎天》与《洱海惊龙》，步入《日月明尊》的持续增长历程，直到《安史之乱》的爆发，随后才有了《苍雪龙城》、《剑胆琴心》的黄金时代――如今的《剑网3》做到了681.93万的月活，较2014年增长111.42%。对于我来说，《剑网3》不仅仅是一款游戏，她伴随着我的青春，从一个初入江湖的毛头小子，到今天以制作人的身份作客“大咖爱玩”。我也希望有一天我去的国内漫展更多的是我们自己原创的内容和文化，我更加期望我们的内容和文化能更多的出现在世界的舞台上。因此除了游戏本身的坚守，今后大家也将会在小说、影视剧、动画等各个领域看到《剑网3》的作品。2004年4月   在春暖花开的时候迎来《剑网3》项目的第一次重生。剑网3的“史前时代”就经历了诸多风雨由于之前的人事变动导致《剑网3》团队在仅仅剩下4人的情况下基本不能维持继续研发，项目笼罩在要被腰斩的阴影下。幸好当年还是刚毕业初哥的“大神”杨林在最短的时间里完成了《剑网3》引擎的第一个演示挽救了项目。同时，项目也迎来了一批新鲜血液――老板们决定由原毒霸部门总经理陈飞舟接管《剑网3》项目，并担任项目经理带领团队重新立项。2005年2月   背景设定计划启动。年后，我提出背景设定的概念来规范化游戏世界观，并提出制作剧情导向的“会改变的世界”的游戏世界。组织决定由我牵头负责背景设定与任务制作工具搭建的工作。阳宝、乌鸦、波波和我是剧情背景创作组的全部成员，《剑网3》的世界观背景和最初的门派就这样慢慢在我们笔下诞生了。在2006年初的时候，项目内部出版了非卖品版本的设定集，这个版本只印刷了200本，失传已久。2005月11月~2006年2月   我们决定重新来一遍。你一定不会想到最早的剑网3是这样的业内知名插画师狸曰和蛇的加入、市面上3D游戏的逐步浮出水面，让项目内也有了不少人对产品的画面水平逐渐失去信心，导致了我们在内部开始的一场变革。我们给力的美术和程序仅仅用了4个月就把之前的锁定视角2.5D的表现彻底改为一个全开放的3D项目。被我们自己推翻的2.5D方案然而这次变革也导致了《剑网3》根本无法在2006年上线，因为我们放弃了将近2年的程序和美术资源积累，甚至所有设计都要重新来一遍。在2006年我们迎来了一个全新的开始。

@@ -1,0 +1,2093 @@
+揭秘美国农民的生活 国人看后羡慕死了_网易海外置业
+
+在美国(房源)，尽管城市比农村繁华，但仍有不少人留在农村，甚至选择一辈子当农民。当农民有啥好？春耕时节，美国科罗拉多州(房源)农村，这里生活舒适又方便，种地靠科技靠机械，政府补贴有保障。下面小编就带大家去看看美国农民的生活:
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+	form.onsubmit = function(){
+			if(form.elements['name'].value == ''){
+				alert('"姓名" 为必填项，请填写完整。');
+				form.elements['name'].focus();
+				return false;
+			}
+			if(!checkRadio(form.elements['gender'])){
+				alert('"性别" 为必填项，请填写完整。');
+				return false;
+			}
+			if(form.elements['country'].value == ''){
+				alert('"意向国家" 为必填项，请填写完整。');
+				form.elements['country'].focus();
+				return false;
+			}
+			if(form.elements['phone'].value == ''){
+				alert('"手机号码" 为必填项，请填写完整。');
+				form.elements['phone'].focus();
+				return false;
+			}
+	};
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+美国是经济大国，投资美国房产相比于中国，美国的房价更低、回报更高、且拥有永久产权。美国的金融、银行、法律相对成熟，风险更低。据了解，在美国买房性价比相对高，一般十几万美金就能买到一套很好的别墅。如果你也有意投资美国房产，那不妨看看下面小编为大家推荐的几套美国洛杉矶(房源)房产。
+
+房源推荐一>>>>洛杉矶戴蒙德巴独栋别墅    341万元
+
+该房源位于美国加利福尼亚州洛杉矶县的戴蒙德巴，全年气候宜人，日照充足，适宜人居。该房源为现代风格的单层独栋别墅，自带优雅的独立院落，院内已安装树篱，有400平方英尺的车库。周围交通便利，紧邻高速公路入口；附近有大型商场，能够满足您的购物需求。环境优雅安静，可欣赏到独特山景(房源)。紧邻游泳俱乐部（月租仅30美元），居住条件极其优良。此外，该房源紧邻数所中小学，包括Diamond Point El(房源)ementary（小学）、LorbeerMiddle （中学） 等，是您投资置业的不二选择。
+ 
+
+
+#photo1427790200841{width:100%;height:100%;}
+#photoView1427790200841{position:relative;}
+#gallery1427790200841 .nph_stream, #gallery1427790200841 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1427790200841 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1427790200841 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1427790200841 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1427790200841 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1427790200841 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1427790200841 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1427790200841 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1427790200841 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1427790200841 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1427790200841 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1427790200841 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1427790200841 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1427790200841 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1427790200841 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1427790200841 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1427790200841 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427790200841 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1427790200841 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427790200841 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1427790200841 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1427790200841 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1427790200841 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1427790200841 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1427790200841 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1427790200841 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1427790200841 .nph_list_thumb li a,
+#atlas_house1427790200841 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1427790200841 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1427790200841 .nph_scrl_prev,
+#atlas_house1427790200841 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1427790200841 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1427790200841 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1427790200841 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1427790200841 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1427790200841 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1427790200841 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1427790200841 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1427790200841 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1427790200841 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1427790200841 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1427790200841 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1427790200841 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1427790200841 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1427790200841 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1427790200841 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1427790200841 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1427790200841 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室2.0浴
+131.18 ㎡
+
+/25
+（共25张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790595251.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790595251.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790595803.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790595803.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790596406.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790596406.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790590741.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790590741.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790590862.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790590862.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790590820.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790590820.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790592844.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790592844.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790592850.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790592850.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790592810.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790592810.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790593449.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790593449.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790593560.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790593560.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790593557.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790593557.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790594003.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790594003.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790594174.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790594174.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790594148.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790594148.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790594631.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790594631.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790594713.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790594713.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790594770.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790594770.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790595250.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790595250.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790595250.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790595250.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790595865.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790595865.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790595876.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790595876.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790596283.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790596283.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790596481.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790596481.jpg
+			
+						
+			
+			洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427790596933.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427790596933.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅
+ 434, 
+N Del Sol Ln, Diamond Bar, Los Angeles
+, CA
+, 91765
+
+
+550000
+详情咨询
+4008163163-47603
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1427790200841 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1427790200841" ,title: '洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1427790200841").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/34.033224,-117.799193/9?mapSize=215,111&format=jpeg&centerPoint=34.033224,-117.799193&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1427790200841", {
+    url: document.location.href,
+    title: document.title,
+    summary: "洛杉矶戴蒙德巴 3卧2卫 大型院落温馨居家 独栋别墅",
+    pic: function() { return $('#photo1427790200841').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1427790200841').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>南加州尔湾市顶级学区别墅    589万元
+
+尔湾市位于南加州橙县， 宜人的气候，优良的学区，理想的治安状况等因素，成为许多人特别是华人选择居住在尔湾的原因。这套房子坐落于龟岩（Turtle Rock）内环，是29年来第一次对外出售。虽然不是新建房子，但房间内众多设施已经更新换代，您无需担心家具更换的问题。该房源附近众多名校，毗邻公园和社区游泳池，不收小区开发费。
+ 
+
+
+#photo1427699956543{width:100%;height:100%;}
+#photoView1427699956543{position:relative;}
+#gallery1427699956543 .nph_stream, #gallery1427699956543 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1427699956543 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1427699956543 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1427699956543 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1427699956543 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1427699956543 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1427699956543 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1427699956543 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1427699956543 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1427699956543 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1427699956543 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1427699956543 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1427699956543 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1427699956543 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1427699956543 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1427699956543 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1427699956543 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427699956543 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1427699956543 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427699956543 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1427699956543 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1427699956543 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1427699956543 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1427699956543 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1427699956543 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1427699956543 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1427699956543 .nph_list_thumb li a,
+#atlas_house1427699956543 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1427699956543 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1427699956543 .nph_scrl_prev,
+#atlas_house1427699956543 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1427699956543 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1427699956543 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1427699956543 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1427699956543 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1427699956543 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1427699956543 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1427699956543 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1427699956543 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1427699956543 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1427699956543 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1427699956543 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1427699956543 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1427699956543 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1427699956543 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1427699956543 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1427699956543 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1427699956543 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室2.0浴
+174.01 ㎡
+
+/16
+（共16张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700139477.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700139477.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700140229.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700140229.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700136121.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700136121.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700136068.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700136068.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700136244.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700136244.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700137139.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700137139.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700137402.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700137402.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700137810.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700137810.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700138287.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700138287.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700138444.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700138444.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700138618.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700138618.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700138914.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700138914.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700139086.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700139086.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700139593.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700139593.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700139738.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700139738.jpg
+			
+						
+			
+			南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427700139997.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427700139997.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格
+ 7, 
+7 Silver Fern, Irvine, CA 92603, Los Angeles
+, CA
+, 92603
+
+
+950000
+详情咨询
+4008163163-47603
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1427699956543 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1427699956543" ,title: '南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1427699956543").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/0.0,0.0/9?mapSize=215,111&format=jpeg&centerPoint=0.0,0.0&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1427699956543", {
+    url: document.location.href,
+    title: document.title,
+    summary: "南加州尔湾市  3卧2卫  顶级学区  独层别墅  简约风格",
+    pic: function() { return $('#photo1427699956543').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1427699956543').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>南加州尔湾市双层豪宅    977万元
+
+尔湾市是一个年轻的新兴的中型城市，成立时做了完整的城市规划，环境优美、街道宽广、市容整齐、绿树成荫。这套房子有两栋楼组成，主楼的二层有一个附加的套间，后方有一条独立通道周围娱乐设施众多，距离公园和泳池仅有几步之遥，前往优秀学府也只需步行几分钟即可。低税率，低物业费，无需缴纳小区开发费。
+ 
+
+
+#photo1427371948096{width:100%;height:100%;}
+#photoView1427371948096{position:relative;}
+#gallery1427371948096 .nph_stream, #gallery1427371948096 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1427371948096 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1427371948096 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1427371948096 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1427371948096 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1427371948096 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1427371948096 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1427371948096 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1427371948096 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1427371948096 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1427371948096 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1427371948096 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1427371948096 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1427371948096 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1427371948096 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1427371948096 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1427371948096 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427371948096 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1427371948096 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1427371948096 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1427371948096 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1427371948096 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1427371948096 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1427371948096 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1427371948096 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1427371948096 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1427371948096 .nph_list_thumb li a,
+#atlas_house1427371948096 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1427371948096 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1427371948096 .nph_scrl_prev,
+#atlas_house1427371948096 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1427371948096 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1427371948096 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1427371948096 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1427371948096 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1427371948096 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1427371948096 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1427371948096 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1427371948096 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1427371948096 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1427371948096 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1427371948096 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1427371948096 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1427371948096 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1427371948096 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1427371948096 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1427371948096 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1427371948096 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+5室3.5浴
+276.39 ㎡
+
+/22
+（共22张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373147671.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373147671.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373132541.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373132541.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373135032.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373135032.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373135091.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373135091.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373135506.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373135506.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373136582.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373136582.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373137405.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373137405.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373140285.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373140285.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373140749.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373140749.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373143256.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373143256.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373143533.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373143533.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373143659.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373143659.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373145888.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373145888.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373147427.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373147427.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373148548.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373148548.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373149158.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373149158.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373150159.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373150159.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373150357.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373150357.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373150763.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373150763.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373152667.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373152667.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373153381.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373153381.jpg
+			
+						
+			
+			南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1427373153382.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751427373153382.jpg
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅
+ 19432, 
+19432 Sierra Chula Rd, Irvine, CA 92603, Los Angeles
+, CA
+, 92603
+
+
+1575000
+详情咨询
+4008163163-47603
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1427371948096 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1427371948096" ,title: '南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1427371948096").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/0.0,0.0/9?mapSize=215,111&format=jpeg&centerPoint=0.0,0.0&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1427371948096", {
+    url: document.location.href,
+    title: document.title,
+    summary: "南加州尔湾市  5卧4卫  顶级学区  舒适花园  双层豪宅",
+    pic: function() { return $('#photo1427371948096').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1427371948096').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1洛杉矶奇诺岗 5卧3卫 景观泳池 生活便利
+ 848888
+
+
+ 
+TOP 2洛杉矶纽波特 7卧8卫 双层精致华宅 3卧3卫 高端设计 美妙海滩生活
+ 9750000
+
+
+ 
+TOP 3洛杉矶纽波特 3卧2卫 工匠风格美屋 2卧3卫 温馨满溢 静享海边生活
+ 1800000
+
+
+ 
+TOP 4洛杉矶曼哈顿海滩 5卧4卫 花园生活豪华雅居 好房热卖
+ 2749999
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

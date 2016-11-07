@@ -1,0 +1,54 @@
+《澳门3》发MV 刘德华献唱"咱们屯里的人"_网易娱乐
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/K/8/VBD067KK8.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/22/pnGwM2235/SD/pnGwM2235-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《澳门风云3》恭喜发财mv 
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+网易娱乐1月22日报道 由刘伟强、王晶联合执导，集结周润发、刘德华、张家辉、李宇春、张学友、刘嘉玲、向华强、向佐、王诗龄等黄金阵容的华语合家欢贺岁喜剧《澳门风云3》将于2016大年初一全国3D献映。随着上映日期临近，片方频发大招――接连曝光电影歌曲《恭喜发财2016》及MV版预告。《恭喜发财2016》由刘德华李宇春共同献唱，在原有《恭喜发财》经典基础上加入了劲爆的饶舌拜年及全新的炫酷旋律，歌曲中段刘德华更是不负万众期待，亲自演绎神曲《咱们屯里的人》，为影迷献上一份重磅惊喜。随“恭喜发财2016”MV预告同时发布的，还有一组“恭喜发财”版人物海报，同样主打贺岁主题，囊括舞狮、年夜饭、对联、火车等春节元素，主演们送上“继往开来，好运常在”“桃花不断，早日脱单”“鸿运当头，家宅平安”等开年祝福语，张张都年味十足，充满喜庆。《恭喜发财》全新升级 刘德华李宇春首次合唱默契十足《恭喜发财》是刘德华2005年专为春晚创作的歌曲，因其旋律朗朗上口、词曲吉祥喜庆，每逢春节必定火爆大街小巷。甚至可以说，《恭喜发财》已经成为中国人的“春节必备曲目”。时隔11年，刘德华为《澳门风云3》全新演绎这首经典之作，并邀请李宇春共同献唱。巧的是，《恭喜发财》春晚首唱是在2005年2月8日，而《澳门风云3》上映日期为2016年大年初一，恰好也是2月8日！《恭喜发财2016》在《恭喜发财》的经典基础上，不仅增加了“我伙呆”“广场舞”“任性自high”等与时俱进的歌词内容，更加入劲爆的饶舌拜年及全新的炫酷旋律，使得这首歌更加热情激昂，也更适合在当下传唱。刘德华李宇春首次合唱即默契十足，两位时代偶像较劲飚唱，一起迎春接福，贺岁迎新。据悉，刘德华李宇春不仅合唱默契，演戏时也是最佳拍档。二人在《澳门风云3》中分别饰演赌侠刀仔与赌神表妹高菲，对手戏颇多。搞笑的是，按戏中辈分而言华仔竟要叫春春一声“姑姑”，在日前曝光的预告片中，二人更是化身“神雕侠侣”，合作火花令人期待。万众期待终于成真 刘天王本尊演绎正宗粤语《咱们屯里人》令人惊喜的是，在《恭喜发财2016》歌曲中段，刘德华不辜负万众网民的期待，竟然植入一颗巨大的“音乐彩蛋”，亲自演唱了一段正宗的粤语《咱们屯里的人》！不仅使得这首歌更“接地气”，也与《澳门风云3》合家欢贺岁喜剧气质十分吻合。歌曲一经发布即引爆网络，网友惊呼“各大超市曲库又该更新了”“终于听到刘德华本尊唱‘屯儿’了，跪拜”。
+
+ 
+歌曲大受好评之后，片方又趁热追击，发布《恭喜发财2016》MV预告。刘德华大秀舞技，周润发李宇春互扔蛋糕，场面十分欢乐热闹。而除去此前曝光的强大主演阵容之外，老戏骨卢海鹏、“包租婆”元秋、罗家英、余文乐、童菲、鸟叔、机器人傻强等角色也纷纷露面，众星贺岁，配合《恭喜发财2016》的炫酷旋律，更添欢庆。谈及《澳门风云3》，刘德华感言希望能够以这样一种特别的形式来陪伴大家共度2016春节：“对于观众来说，我们是陪大家一起长大的一群人，希望在春节这样的团圆佳节里，有我们这样一群‘家人’陪大家开心欢乐。”据悉，除本次的MV版预告外，《恭喜发财2016》还将制作一款“特别版”MV，将于近期发布。
+
+ 本文来源：网易娱乐  
+责任编辑：高佳亮_NK1733

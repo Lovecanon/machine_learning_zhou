@@ -1,0 +1,55 @@
+最接近量产的自动驾驶汽车 体验德尔福自动驾驶_网易汽车
+在2016CES上，德尔福推出了V2E（Vehicle toEverything）解决方案。V2E技术可以让车辆通过软硬件设备与街道、道路标志、信号灯、其他车辆甚至行人进行通讯。从而实现车联一切模式。
+版权声明：本文版权为网易汽车所有，转载请注明出处。网易汽车1月25日报道 在2016CES上，德尔福推出了V2E（Vehicle toEverything）解决方案。那辆从美国西海岸的旧金山出发，在行驶5,500公里后抵达了东海岸的纽约，并且全程中99%的时间是在自动驾驶模式下的奥迪SQ5再次亮相，并且搭载了V2E技术， V2E让这辆SQ5可以通过软硬件设备与街道、道路标志、信号灯、其他车辆甚至行人进行通讯。本次CES上，网易汽车的小编便有缘“以身试险”，只身“肉测”了一下这款相对于其他自动驾驶更加接近量产的自动驾驶SQ5。
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/O/F/VBCU0CHOF.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/21/HaeFk8979/SD/HaeFk8979-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+德尔福自动驾驶测试
+（来源：网易网友）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+V2E技术全称为Vehicle to Everything 即车联一切，根据德尔福的设定，自动驾驶不单纯是不通过人工驾驶上路的一种模式，V2E技术可以通过检测周围所有车辆，并在相邻车辆突然插入车道时迅速做出反应，并可以通过智能手机中的特种芯片提醒正在打电话的行人注意交通状况，还将利用短程通信DSRC技术，汽车可获取拉斯维加斯附近的信号灯状况，并预测其何时变黄/红，在无法直接观察对面交通的街道口帮助驾驶者掌握周围车辆状况，驾驶者的家人与朋友可获取其当前位置以便请求搭车。
+
+ 本文来源：网易汽车  作者：吕思言，鲍家翔
+责任编辑：鲍家翔_NA5580

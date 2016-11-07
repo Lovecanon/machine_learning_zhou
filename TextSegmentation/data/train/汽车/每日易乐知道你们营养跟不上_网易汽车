@@ -1,0 +1,54 @@
+每日易乐:知道你们营养跟不上_网易汽车
+车模知道你们营养跟不上，所以要好好整理下衣服。
+网易汽车综合12月19日报道 大家做公交车多注意，年底了，小偷要冲业绩。给便衣民警点赞，工作辛苦了～
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2015/12/A/Q/VBA8RB1AQ.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1512/19/VIvLu1538/SD/VIvLu1538-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+实拍小偷作案巧遇便衣警察
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+不愧是战斗民族！是不是少了个“事故多发地段”的警示牌？后轮负责驱动，前轮负责装逼。这就是大货战斗力强的原因？卧槽！后面有暗器！不走寻常路～龙卷风上演大变活人。开车的时候这幅眼睛不能戴。修车时遭遇既兴奋，又紧张，还蛋疼的一幕。这位车模，你衣服太短了，让我来帮你扯一扯。小川阿佐美呜呜呜！我们来开火车～没事儿多坐坐公交挺好。大叔你拿包挡住是几个意思？人在做，天在看！没错，早晨的地铁就是这么恐怖。吓得我赶紧一脚油门跑了。过一会儿前轮就跟后轮一样了。360度调节全方位无死角后视镜。长大后，我就成了你。要是来个急刹车……地铁上还玩什么手机。骚年，你知道你错过什么了吗。以为自己是摩托车的自行车。公交师傅大吼一声：“特么都不知道往里面挤挤！”我知道你们营养跟不上，但还是来一个吧。昨日猜车答案：吉利博瑞，恭喜油枪滑道上榜今日猜车：
+
+ 本文来源：网易汽车综合

@@ -1,0 +1,56 @@
+收评：沪指涨1.25%站上2900点 煤炭板块涨幅居前_网易财经
+今日两市大幅高开后震荡回落。10：00过后，两市再度上扬，随后跳水翻绿。午后，两市震荡上行，沪指重回2900点。截至收盘，沪指涨1.25%，报2916.56点，成交1701亿元；深成指涨1.36%，报10111.6点，成交2764亿元。至此，沪指本周涨0.54%，深成指涨1.14%。
+window.__STOCK_COMPONENT__.push({code: '000001', type: 'SH_INDEX', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月22日讯 今日两市大幅高开后震荡回落。10：00过后，两市再度上扬，随后跳水翻绿。午后，两市震荡上行，沪指重回2900点。截至收盘，沪指涨1.25%，报2916.56点，成交1701亿元；深成指涨1.36%，报10111.6点，成交2764亿元。至此，沪指本周涨0.54%，深成指涨1.14%。板块方面，煤炭板块涨幅居前，平庄能源、昊华能源、宝泰隆涨停。虚拟现实走势强劲，爱施德、利达光电、金刚玻璃、易尚展示涨停。航空板块走强，中航动控涨逾4%，中航动力、海特高新、成发科技涨逾3%。充电桩概念股走强，和顺电气、易事特涨停。维生素板块走势疲软，浙江医药、花园生物跌逾3%。外围市场方面，亚太股市今日收盘普遍上涨，日本股市日经225指数收盘上涨5.88%，报16958.53点；东证股价指数收盘上涨5.59%，报1374.19点。韩国首尔综指收盘上涨2.11%，报1879.43点。台湾加权指数收盘上涨1.14%，报7751.76点。澳洲股市指标S&P/ASX 200指数收盘上涨1.07%，报4916.00点。自2016年元旦以来，市场连续走弱，至本周四沪指再度下滑至2900点下方，挑战前期低点。有分析师认为，风险偏好下降是市场走弱主要原因。目前全球市场风险下滑的市场环境，加上前期人民币汇率阶段性贬值压力加大引发全球资本市场震荡。但随着人民币离岸与在岸市场汇差缩小，同时央行货币工具使用对市场流动性的支持，以及相关跨境人民币资金流动管控加强，均意味着短期人民币贬值已经接近尾声。对于后市，分析人士认为，建议投资者在严控仓位的情况下，积极寻找自下而上的投资机会。在美联储加息预期升温、新兴市场国家货币贬值趋势明显的背景下，新兴市场国家股市要想走出牛市行情并不容易。从A股市场的走势来看，在上市公司盈利增速短期难以大幅增长的情况下，投资者应当降低预期，从自下而上的角度去选择个股。随着市场重心不断下滑，部分优质蓝筹股已经显现安全边际，尤其是分红较高同时行业受经济周期影响较小的稳健增长公司，值得择机布局。另有分析人士认为，A股市场一直是高估值的，以后就要靠跌出空间来，才会有资金入场，否则高高在上就没有增量资金敢进场。因此，“跌得越多反弹得也越多”。但秦洪也提醒投资人，在目前市场尚不稳定的情况下一定要注意控制好仓位，同时精选个股。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+海顺新材明日网上申购 申购需防“乌龙指”
+农行曝39亿巨额票据案 H股跌近3%创4年最低
+行业动态
+融资客逆市抄底222只股 医药等三类股可轻仓跟进
+多公司业绩预减预亏 周期性行业“受灾”严重
+公司新闻
+宫斗之殇：深康佳预亏12亿 创成立以来纪录
+中毅达：接盘方被暂停账户交易 还能“妖”多久
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：赵强_NF3972

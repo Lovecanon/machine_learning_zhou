@@ -1,0 +1,57 @@
+《卧虎藏龙2》发终极预告 甄子丹为爱生死未卜_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/0/J/VBDFK7P0J.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/28/Yonhd0299/SD/Yonhd0299-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《卧虎藏龙2》发布终极预告
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月28日报道 由袁和平执导，甄子丹、杨紫琼、岑勇康、刘承羽联袂出演的功夫武侠巨制《卧虎藏龙：青冥宝剑》定于2月19日全国公映。日前，片方发布了主题为“为爱归来”的终极预告和海报,并正式宣布《卧虎藏龙：青冥宝剑》将经由IMAX专利的DMR（数字原底翻版）技术转制为IMAX 版本，以IMAX 3D格式在全国IMAX影院隆重上映。此次发布的预告，揭示了电影的江湖观，体现了对于江湖儿女来说高于生命的种种追求。同时，作为同档期中唯一一部超级大片，海报中也用一句“压轴贺岁”体现了电影的制作规模和量级。携手IMAX压轴贺岁  身临其境体验“冰湖大战”《卧虎藏龙：青冥宝剑》借终极预告发布之际正式宣布与IMAX携手合作，将这部汇聚杨紫琼、甄子丹等具有国际知名度的武打巨星的电影作为IMAX影院压轴贺岁的作品。这部高品质的武侠电影中以冰湖大战为代表的精彩场面和顶尖的武术设计都将通过IMAX观影体验®带来更身临其境的体验。女汉子遇到真情圣 甄子丹爆表男友力此次发布的预告片中，杨紫琼饰演的俞秀莲说出了电影最核心的江湖观：“剑无正邪，人有善恶”。青冥宝剑的出现对于江湖中的各派人士意义各不相同：有人求义，有人求利。它虽然是一把旷世神剑，最终的价值却在于“用剑之人”。预告片也同时揭示了“不求名利”的江湖侠士孟思昭重回江湖的终极奥义：为了爱情。这让熟悉了甄子丹“纯爷们儿”形象的观众大为动容，不禁感叹“宇宙丹”男友力爆表。电影延续了现代华语武侠电影的价值观：将“仁爱”和“自由”融为一体。同时也符合了当代社会对于角色定位的追求，打破常规设置，让“女汉子”俞秀莲追求道义，“男情圣”孟思昭守卫爱情。最终甄子丹执剑，与反派大BOSS厮杀片段给人留下终极悬念：到底为爱归来的甄子丹能否兼顾侠义和承诺，完成使命和心爱之人归隐江湖成为最大的谜团。真功夫遇见大银幕 卧虎藏龙嬉闹元宵与终极预告同步发布的还有电影的终极海报，海报中不仅体现了全阵容，还配以重场戏 “冰湖大战”。导演袁和平说，他的动作设计从来都是为了体现故事情节，而每一个被人们津津乐道的场面则源自当时的拍摄灵感。“冰湖大战”的设计亦是如此：当剧组在新西兰拍摄时，壮观的原始风貌给了他创作灵感，才搭建出了这个30米见方的“冰上擂台”。到底效果如何，导演说，只有在大银幕前才能体会。
+
+ 
+《卧虎藏龙：青冥宝剑》的故事源自于“北派五大家”之一王度庐的经典小说。巧的是，生于南方的袁和平导演也深得北派功夫真传，对于“南与北”的融合，袁和平说：功夫不分南北，它甚至不分国籍，这也是我拍动作武侠电影的初衷，南北大成。袁和平想要体现的是功夫的“真”和“义”，这也是他集齐两大“爱徒”的本意：二十余载的情义，加上真刀真枪的功夫，让观众能够重新体会最真挚的情感和电影最质朴的张力。“功夫之王甄子丹”，“不用替身的杨紫琼”和“硬桥硬马袁和平”，三人的结合，势要在元宵节“打”出一个热闹。2月19日，IMAX 3D版《卧虎藏龙：青冥宝剑》将在全国IMAX影院隆重献映。
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

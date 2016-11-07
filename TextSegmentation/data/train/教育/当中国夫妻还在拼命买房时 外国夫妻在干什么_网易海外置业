@@ -1,0 +1,2017 @@
+当中国夫妻还在拼命买房时 外国夫妻在干什么?_网易海外置业
+
+众所周知，中国人对房子有一种特殊的情感。房子给人民一个安全感，有了房子就有了一个安身立命的场所。为了能够拥有一套属于自己的房子，许多小夫妻省吃俭用，拼命工作。与中国拼命攒钱的小夫妻相比，美国(房源)的夫妻就要幸福多了。比如下面这一对夫妻。他们辞掉自己的工作，亲手造一个小房子一起去环游世界。之所以他们生活这样惬意，除了高收入外，房价低、压力小也是一个重要原因。如果你不信，不妨看看下面小编为大家推荐的几套低价别墅，总价200万元以内。
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+房源推荐一>>>>莱纳休斯顿独栋别墅净租回报率超6%      136万元
+
+项目45分钟车程内可达全部休斯顿(房源)设施，距市中心30分钟。项目内5英里内高评分优质学校云集，教育资源丰富，升值空间巨大。
+ 
+
+
+#photo1430117314022{width:100%;height:100%;}
+#photoView1430117314022{position:relative;}
+#gallery1430117314022 .nph_stream, #gallery1430117314022 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1430117314022 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1430117314022 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1430117314022 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1430117314022 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1430117314022 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1430117314022 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1430117314022 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1430117314022 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1430117314022 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1430117314022 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1430117314022 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1430117314022 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1430117314022 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1430117314022 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1430117314022 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1430117314022 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430117314022 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1430117314022 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430117314022 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1430117314022 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1430117314022 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1430117314022 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1430117314022 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1430117314022 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1430117314022 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1430117314022 .nph_list_thumb li a,
+#atlas_house1430117314022 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1430117314022 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1430117314022 .nph_scrl_prev,
+#atlas_house1430117314022 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1430117314022 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1430117314022 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1430117314022 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1430117314022 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1430117314022 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1430117314022 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1430117314022 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1430117314022 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1430117314022 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1430117314022 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1430117314022 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1430117314022 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1430117314022 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1430117314022 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1430117314022 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1430117314022 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1430117314022 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+190.0 ㎡
+
+/11
+（共11张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117521372.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117521372.jpg
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117521491.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117521491.jpg
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117521455.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117521455.jpg
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117525862.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117525862.png
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117526465.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117526465.png
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117528578.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117528578.png
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117529413.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117529413.png
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117529507.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117529507.png
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117530543.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117530543.png
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117532169.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117532169.png
+			
+						
+			
+			莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430117532684.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430117532684.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区
+ 20703 Kingsford Trail Richmond, Houston
+, TX
+, 77407
+
+
+1363428
+详情咨询
+
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1430117314022 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1430117314022" ,title: '莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1430117314022").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/29.6885584,-95.73936809999998/9?mapSize=215,111&format=jpeg&centerPoint=29.6885584,-95.73936809999998&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1430117314022", {
+    url: document.location.href,
+    title: document.title,
+    summary: "莱纳休斯顿独栋别墅—Grand Mission Estates 高档小区",
+    pic: function() { return $('#photo1430117314022').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1430117314022').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>休斯顿独栋别墅项目      145万元
+
+Walnut Creek为休斯顿地区不可多得的位于黄金区位拥有高品质且合理价位的高性价比小区。拥有休斯顿地区不可多得的高品质优质学区，住户子女坐享德克萨斯州地区最优质教育资源。便利的区位以及完善周边配套使得项目升值潜力巨大。
+ 
+
+
+#photo1442211350773{width:100%;height:100%;}
+#photoView1442211350773{position:relative;}
+#gallery1442211350773 .nph_stream, #gallery1442211350773 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1442211350773 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1442211350773 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1442211350773 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1442211350773 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1442211350773 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1442211350773 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1442211350773 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1442211350773 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1442211350773 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1442211350773 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1442211350773 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1442211350773 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1442211350773 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1442211350773 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1442211350773 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1442211350773 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1442211350773 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1442211350773 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1442211350773 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1442211350773 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1442211350773 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1442211350773 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1442211350773 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1442211350773 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1442211350773 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1442211350773 .nph_list_thumb li a,
+#atlas_house1442211350773 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1442211350773 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1442211350773 .nph_scrl_prev,
+#atlas_house1442211350773 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1442211350773 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1442211350773 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1442211350773 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1442211350773 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1442211350773 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1442211350773 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1442211350773 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1442211350773 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1442211350773 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1442211350773 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1442211350773 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1442211350773 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1442211350773 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1442211350773 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1442211350773 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1442211350773 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1442211350773 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室2.0浴
+190.0 ㎡
+
+/19
+（共19张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211512862.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211512862.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211514232.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211514232.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211515275.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211515275.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211515959.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211515959.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211518918.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211518918.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211518926.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211518926.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211519069.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211519069.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211521642.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211521642.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211522213.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211522213.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211522253.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211522253.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211524988.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211524988.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211524836.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211524836.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211531640.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211531640.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211532850.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211532850.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442211533123.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442211533123.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1446097119264.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751446097119264.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1446097118856.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751446097118856.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1446097119968.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751446097119968.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1446097127358.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751446097127358.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层
+ TX , 
+6730 Ashland Terrace Lane Rosenberg, Houston
+, TX
+, 77469
+
+
+220000
+详情咨询
+
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1442211350773 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1442211350773" ,title: 'Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1442211350773").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/29.7604267,-95.3698028/9?mapSize=215,111&format=jpeg&centerPoint=29.7604267,-95.3698028&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1442211350773", {
+    url: document.location.href,
+    title: document.title,
+    summary: "Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Travertine 3房2卫2车库1层",
+    pic: function() { return $('#photo1442211350773').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1442211350773').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>休斯顿独栋别墅项目    177万元
+
+项目坐落在休斯顿西南方向,距离休斯顿中心仅30分钟车程，距离休斯顿著名的华人聚集区Sugar Land糖城仅10分钟车程。项目周边地区人口较少，宁谧安静，亚裔人口比例很高，生活便利。为休斯顿城附近理想舒适的安家、度假之地。
+ 
+
+
+#photo1442215482069{width:100%;height:100%;}
+#photoView1442215482069{position:relative;}
+#gallery1442215482069 .nph_stream, #gallery1442215482069 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1442215482069 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1442215482069 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1442215482069 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1442215482069 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1442215482069 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1442215482069 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1442215482069 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1442215482069 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1442215482069 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1442215482069 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1442215482069 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1442215482069 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1442215482069 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1442215482069 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1442215482069 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1442215482069 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1442215482069 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1442215482069 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1442215482069 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1442215482069 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1442215482069 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1442215482069 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1442215482069 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1442215482069 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1442215482069 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1442215482069 .nph_list_thumb li a,
+#atlas_house1442215482069 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1442215482069 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1442215482069 .nph_scrl_prev,
+#atlas_house1442215482069 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1442215482069 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1442215482069 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1442215482069 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1442215482069 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1442215482069 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1442215482069 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1442215482069 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1442215482069 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1442215482069 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1442215482069 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1442215482069 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1442215482069 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1442215482069 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1442215482069 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1442215482069 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1442215482069 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1442215482069 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+4室3.5浴
+262.0 ㎡
+
+/15
+（共15张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215613200.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215613200.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215612580.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215612580.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215617047.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215617047.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215616847.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215616847.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215617237.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215617237.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215619851.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215619851.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215620134.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215620134.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215620864.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215620864.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215623946.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215623946.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215624647.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215624647.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215631700.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215631700.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215632549.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215632549.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215632714.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215632714.png
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215633434.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215633434.jpg
+			
+						
+			
+			Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1442215636347.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751442215636347.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层
+ TX , 
+6730 Ashland Terrace Lane Rosenberg, Houston
+, TX
+, 77469
+
+
+270000
+详情咨询
+
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1442215482069 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1442215482069" ,title: 'Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1442215482069").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/29.7604267,-95.3698028/9?mapSize=215,111&format=jpeg&centerPoint=29.7604267,-95.3698028&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1442215482069", {
+    url: document.location.href,
+    title: document.title,
+    summary: "Walnut Creek——休斯顿独栋别墅项目Brookstone系列 Alabaster 4房3.5卫2车库2层",
+    pic: function() { return $('#photo1442215482069').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1442215482069').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1Wildwood at Northpointe——休斯顿全新精装独栋别墅
+ 1400000
+
+
+ 
+TOP 2CypressPARK CREEK休斯敦溪谷公园独栋别墅 Breckenridge 3房2卫双车库
+ 200000
+
+
+ 
+TOP 3CypressPARK CREEK休斯敦溪谷公园独栋别墅 Newcastle 4房3卫双车库
+ 200000
+
+
+ 
+TOP 4CypressPARK CREEK休斯敦溪谷公园独栋别墅 Whistler 3房2卫双车库
+ 200000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

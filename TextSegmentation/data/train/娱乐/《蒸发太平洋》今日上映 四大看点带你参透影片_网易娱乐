@@ -1,0 +1,57 @@
+《蒸发太平洋》今日上映 四大看点带你参透影片_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/I/B/VBDI61CIB.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/29/orYBv6100/SD/orYBv6100-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《蒸发太平洋》曝幕后花絮
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月29日报道 国际硬科幻大片《蒸发太平洋》于今日正式上映，片方曝光了最新幕后特辑，张雨绮搭档“超人”布兰登・罗斯、多国影星实力加盟、惊险刺激的场面、酷炫特效四大看点令影片亮点十足，成为影迷在贺岁档期间观看硬科幻影片的不二选择。看点一：场面惊险刺激 情节扣人心弦影片讲述的是豪华客机A390首航时遭遇一连串危机的故事。众主创们不仅遇雷暴天气、豪华客机迫降荒岛等危险，美女机长张雨绮与“头条女王”蒋梦婕更在荒岛受到变异物种的疯狂攻击。跌宕起伏的情节、令人无法预料故事的发展，惊险刺激的打斗场景是影片的一大看点。看点二：美女机长搭档魅力型男 科幻动作也浪漫影片中不仅有炫目的视觉特效和热血的打斗场景，主创们的情感经历也展示了影片温馨感人的一面。当危险接踵而至之时，张雨绮与罗斯统一战线，共同迎敌，最后合力搭救飞机上的乘客。一番惊险战斗后，彼此之间也多了更多的信任。美女机长遇上魅力型男，让影片更加令人期待。此外，影片中的其他角色也有丰富的感情戏，重重危机激发出别样的血色浪漫。看点三：多国“部队”集结 实力影星助阵
+
+ 
+除了场面影片震撼、情节跌宕起伏之外，由中国、美国、加拿大三个国家演员组成的国际化大家庭，以其精湛的演技也为影片加分不少。张雨绮胆大心细，化身美女机长操控豪华客机；罗斯睿智沉稳，身手不凡力挽狂澜；蒋梦婕则将“头条女王”的活泼敏锐演绎得十分灵动；阳光帅气的副机长戴向宇机智勇敢，献上完美演出；王阳明化身洒脱不羁的叛逆歌手；王盛德饰演了一位野心勃勃的霸道总裁；廖碧儿扮演的神秘女特工性感泼辣，战斗力爆表；于咏琳饰演风情万种的女明星也令观众大饱眼福。国际家庭的成员们都以自己精湛的演技诠释片中人物性格，让观众同时欣赏到来自世界各地实力派影星的精彩表演。看点四：特效团队打造神级科幻 震撼视觉尽显大片风范作为贺岁档上映的硬科幻影片，《蒸发太平洋》以其科幻冒险元素在众多温馨搞笑的电影中脱颖而出。豪华客机迫降航母、太平洋暗流涌动、变异怪兽阴狠毒辣，诸如此类的酷炫特效在影片中比比皆是。为了使影片画面更具视觉张力，片方特意请来国际制作团队负责影片的特效部分，力求观众在观影时能够真正身临其境，体会到影片的惊险刺激。《蒸发太平洋》由北京星美影视发行有限公司发行，周文武贝执导，于今日在全国火热上映。
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

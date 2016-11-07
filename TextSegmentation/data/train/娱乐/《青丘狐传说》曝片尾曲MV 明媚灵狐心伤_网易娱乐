@@ -1,0 +1,57 @@
+《青丘狐传说》曝片尾曲MV 明媚灵狐心伤_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/S/P/VBD07UNSP.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/22/ovzjt4103/SD/ovzjt4103-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+ 《青丘狐传说》曝光深情片尾曲MV   
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月22日报道   由唐人影视制作公司出品，导演林玉芬、高林豹、徐惠康、余翠华联合执导的玄幻传奇剧《青丘狐传说》将于2月8日（大年初一）登陆湖南卫视钻石周播剧场。该剧改编自中国古代名著《聊斋志异》，特邀娜扎、金晨、陈瑶、彩旗、唐艺昕、江铠同、王凯、张若昀、Mike、翟天临、蒋劲夫、陈若轩、付辛博等当红人气偶像明星联袂演绎，以“狐”作为贯穿剧中各故事的通用灵感源泉，以灵狐喻人，讲述了至情至性的“狐们”在爱欲悲欢中的浮沉纠葛。继主题曲《问明月》曝光之后，片尾曲《风之恋》MV今日揭开面纱：哀婉基调奠定深情曲风，爱情主线串联点滴感动；细腻特效加分唯美画面感，万花筒场面演绎幻境浪漫；动人曲词完美契合戳心剧情，《风之恋》缓缓明媚灵狐心伤。哀婉基调奠定深情曲风   爱情主线串联点滴感动《青丘狐传说》今日首曝光片尾曲《风之恋》MV，哀婉前奏缓缓进入，搭配关诗敏的柔美深沉音色，深情feel即刻蔓延视听感官，随着情绪由低入渐渐走高，剧情片段频闪跳转，由耳膜传来的心灵碰撞也渐趋强烈；该剧以“情”贯穿始终，诠释灵狐视角下“真爱”定义，剧中主人公们不食人间烟火，却也相信人间有情，MV集锦剧中感动细节，瞬间激发暖暖期待；哀婉基调奠定深情曲风，爱情主线串联点滴感动。细腻特效加分唯美画面感   万花筒场面演绎幻境浪漫
+
+ 
+《青丘狐传说》强大的幕后特效团队支撑力再次让人感动，MV中绿草如茵云山雾绕的青丘美景让人神往，群鸟高飞灵狐奔驰精致还原“原生态”，特效大蛇紧紧缠绕，神力震天地动山摇……细腻特效加分唯美画面感，“深度解密”灵狐唯美生活常态；MV中犹如万花筒般的绮丽场面，生动演绎着来自于青丘桃源的幻境浪漫。曲词完美契合戳心剧情   《风之恋》明媚灵狐心伤片尾曲《风之恋》的曲词创作与《青丘狐传说》戳心剧情可谓“完美契合”，“世上的幸福，都要交换的吧”，剧中灵狐们为情痴狂为爱牺牲，以一切交换只为一颗真心；“就算最明亮的星，我义无反顾地摘下，只为在黑白色的梦里，装满彩霞”……《风之恋》以含蓄深情的曲词，恰恰明媚了剧中的灵狐们苏苏落落的心伤。
+
+ 本文来源：网易娱乐  
+责任编辑：杨雯婕_NK2369

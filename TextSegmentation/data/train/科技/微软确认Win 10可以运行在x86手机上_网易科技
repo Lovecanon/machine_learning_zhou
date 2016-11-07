@@ -1,0 +1,8 @@
+微软确认Win 10可以运行在x86手机上_网易科技
+
+前不久，微软官网出现了“Windows 10 Mobile x86”和“Windows 10 desktop ARM”的字样，前者无疑是代表x86架构版本的Windows 10手机系统，后者则被认为是Windows 10 RT。曝光后，微软火速撤下Win10 RT，但Windows 10 Mobile x86却没有消失，难道是确认了？现在，权威网站Computerworld获悉，Windows 10 Mobile已经可以在x86芯片上顺利运行，微软发言人也出面证实了该消息。我们来解读下这件事的一些直接和隐含信息点――1.Win10M在x86芯片上顺利运行，那么微软必会推出x86架构的手机，实现Wintel黄金搭档回归2.微软正在进行移植Win32应用到手机的Project Centennial项目，ARM是天然屏障，现在x86放出，最大难题消除3.这款x86芯片比较大的可能是Intel Atom平台的首款4G SoC，Intel已经屡次跳票，但如果是Atom X3的话，性能就不要太期待了，不一定能打过MT6753。4.当然，我们也希望这款芯片是传闻中的定制版Core M，手机自然就是Surface Phone了。微软这招闪击iOS/Android的大招，被震撼了。
+ 
+Surface手机想象图
+
+ 本文来源：驱动之家MyDrivers  
+责任编辑：张彬彬_NT5025

@@ -1,0 +1,57 @@
+《致爱情》终极预告曝光 温暖走心结局引猜疑_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/8/A/VBD7URC8A.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/25/DjhEf2181/SD/DjhEf2181-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《致爱情》终极预告曝光 温暖走心结局引猜疑
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月25日报道 由郑来志执导，李菲儿、黄明、李金铭、立威廉和杜海涛等出演的电影《致我们终将到来的爱情》已确定于1月29日在内地院线全面上映，今日电影的终极预告正式曝光。预告片温暖走心，正能量满满。现实是强敌，摔碎梦想和爱情。繁华尘世中，我们该如何守护爱情，才能不留遗憾？与《致我们终将到来的爱情》欢快跳脱、节奏感强的先导预告相比，此次发布的终极预告的人物情绪渲染力度更加强烈，人物关系的脉络交代更加明朗。在时长1分30秒的预告片中，大致突出了梁爽（李菲儿饰）和曹文（黄明饰）这对北漂情侣在七年爱情长跑中的几个感情阶段：爱情甜蜜的初期，对爱情的质疑和动摇，对现实做出妥协与让步，追求本心的爱情厮守。开头的重逢与结尾的相守两个画面形成对比呼应，让影片的结局充满了迷离感。电影里人与人的悲欢离合、生活的起起落落，也映射出现实中的爱情缩影。这一切，也许只有真正经历过的人才会懂。回想起自己的过往，曾经海誓山盟，曾经迷茫否定，曾经撕心裂肺的伤痛，都变成今天的云卷云舒，平淡相守。原来，爱情需要执着的坚守。
+
+ 
+终极预告除了曝光大量的新画面，电影里的一些经典台词也初现麟羽，犹如一碗温热的爱情鸡汤，在这个严寒的冬季，给单身或情侣一股淌过心窝的暖流。过去的点滴，现在的守护，终汇成一句“我就是一条鱼，你就是水，我离不开你”。再多的阻挠，再大的压力，抵不过一句“我一定不会让你再离开我”。经历过现实的风雨、心灵的拉锯战后，当回归本心的意愿，一句“人活着是图什么？不就是开开心心，身体健康吗？”足矣。面包与爱情，此时都已不再重要。不留遗憾，才是人生真谛。电影《致我们终将到来的爱情》由福建朱子影视文化发展有限公司出品，讲述一场年轻情侣在重重压力下的爱情拉锯战，上演一场真爱的救赎。据悉，这是春节档前最后一部爱情电影，是爱情电影爱好者的不二之选。能否在《功夫熊猫3》等众多新片中脱颖而出，我们拭目以待。
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

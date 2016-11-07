@@ -1,0 +1,383 @@
+中国小伙自述娶了英国老婆后的生活 非常幸福_网易海外置业
+
+林许讲述：
+
+能娶艾薇为妻，是我今生最大的幸福。虽然，在此之前，我从未想过，我会娶一个外国女人做老婆。
+
+认识艾薇之前，我曾相亲无数次，均以失败而告终。主要原因是我与父母的意见不能达成一致。父母的思想比较守旧，而且家教甚严，以前的女友，有我自己恋爱的，有他们介绍的，也有主动追求我的，但，没有一个情投意合的。
+
+
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+小编推荐！美国帝国大厦周边稀缺资源
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+身为某跨国企业部门经理，年薪上百万的我，在年近奔三之际还没找到女朋友，在朋友圈里的确是一朵奇葩。真是有意种花花不成，无心插柳柳成荫，两年前公司派我去英国做为期半年的市场调查，不成想竟在网络上邂逅艾薇。
+
+她是中英混血儿，在中国教书，那次回国探亲，返程时，我俩巧合地坐同一班飞机。
+我和艾薇擦出了爱情的火花，并火速陷入水深火热的恋爱之中。然而，我俩的结合并不顺利，尽管父母千方百计的阻扰，依旧没有阻挡住我娶艾薇为妻的决定。
+艾薇出生在中国，在英国(房源)长大，由于国籍和生活环境的不同，我俩的新婚生活充满了戏剧化的桥段，有酸甜苦辣，欢笑泪水，当然，也有很多无法避免的尴尬事。
+相关阅读：中国小伙娶乌克兰美女住豪宅 屌丝看后哭了
+刚结婚那会，我父母对艾薇十分冷淡，艾薇的性格又比较孤傲，我夹在中间十分为难，一不小心就会爆发家庭战争。但，艾薇虽然表面上有怨气（刚结婚就遭排挤）但她还是很巧妙地避开了婆媳间的矛盾，比如她在和我说到敏感话题（关于我母亲或家庭）的时候，都会使用英文交流。包括我俩闹别扭时，或者打情骂俏时都会使用英文。我母亲云里雾里，经常私下悄悄问我，是不是艾薇说她坏话，我“翻译”过来之后，就把她乐开了花。
+
+还有一点，艾薇和我母亲都比较较真，哪怕是很小的一件事情，都会弄出个所以然来。很多时候，两人经常为一些小事争执不休，没想到，正是这些小小的争吵，竟然逐渐增进了婆媳间的了解和感情。当然，有时难免也急眼，不过，每当这时，艾薇就很聪明，她不直接与我母亲针锋相对，而是把她的诉求讲给我听，经过我一翻译，再悄悄以艾薇的名义送上一些小礼物，母亲的怒气早就烟消云散了。
+艾薇不喜欢凡事都有家长说了算，而我母亲又爱当家，最终艾薇提出倡议，凡事举手表决，当时《乡村爱情7》正在热播，里面的谢广坤经常开家庭会议举手表决家庭事宜，我母亲觉得这挺好玩，就答应了。从此以后，家里增添了无限乐趣，少数服从多数，避免了很多矛盾（建议大家，如果家庭内部出现纷争，不妨用这个方式，一来是增添乐趣，二来是公平公正。）
+另外，艾薇喜欢嘲笑自己的缺点，这让我母亲颇为得意，因为我母亲觉得，一个人若能经常反省自己的缺点，就很招人待见，其实那只不过是艾薇的冷幽默而已。
+再者，两个较真的女人生活在一起，必定会有一些较真的事情发生，比如在生孩子方面，我父母让我立即要小孩，艾薇想再等几年，本来我父母就反感我的婚姻，催我要小孩就是给自己一个台阶下，说明她默认了支持我的选择，如果我再不同意，她老人家肯定不开心。延伸阅读：中国网友晒娶日本老婆后的“烦恼”生活
+但我又不能逼着艾薇同意，只好哄她说，如果答应要小孩，父母的遗产将来全部归属我们，不然，就捐到福利院去了。后来艾薇乖乖就范……
+周末闲着没事的时候，艾薇喜欢和我用英文打情骂俏，因为不管我们说多么暧昧的话题，都不担心被别人听见。但有一次，正当我俩闹得一团热的时候，我邻居家的一个女大学生（英文十分棒）到我家借东西，结果……你懂的，四个人满脸通红，因为我刚刚艾薇用英文对我说：“老公，我想吃……”
+
+后来，我父母在我和艾薇的影响下，也学起了英文，一家人经常中英文混杂着交流，不亦乐乎，形成习惯之后，我们觉得见怪不怪，可是客人来了无不捧腹大笑……
+
+
+
+
+总之，艾薇的到来，彻底改变了我和我家的生活状态，一家人在一起，悲欢离合都是正常的，主要是要保持一颗从容而良善的心，只要彼此真诚付出，就没有跨不过去的坎。
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1英国豪华3卧半独立屋
+ 350000
+
+
+ 
+TOP 2英国皇家公寓，皇后镇，拎包入住
+ 610000
+
+
+ 
+TOP 3英国皇家公寓，皇后镇，拎包入住
+ 610000
+
+
+ 
+TOP 4英国3卧2卫住宅
+ 189000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

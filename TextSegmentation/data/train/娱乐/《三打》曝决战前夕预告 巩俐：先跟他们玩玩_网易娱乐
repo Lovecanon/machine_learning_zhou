@@ -1,0 +1,57 @@
+《三打》曝决战前夕预告 巩俐：先跟他们玩玩_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/H/Q/VBDAIEDHQ.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/ZuscK0676/SD/ZuscK0676-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《三打》曝“决战前夕”版预告
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月26日报道 今日,即将于2月8日猴年初一全国公映的3D奇幻喜剧《西游记之孙悟空三打白骨精》，全新发布“决战前夕”版预告。巩俐饰演的“妖皇”白骨精首现真身，以一句充满挑逗意味的“先跟他们玩玩”，挑明了白骨精与四师徒经典的智斗情节。同时，这也是《三打》在首映收获业内外一致好评之后，面对春节档大战再次一语双关的自信表态。而此次“决战前夕”版预告在展现白骨精与四师徒智斗之外，还将《三打》全新升级的动作场面一一呈现，白骨精手下强援蛇妖、蝙蝠妖、箭猪妖三妖的全新登场，预示与西行四圣的正邪对战一触即发。此外，费翔饰演的云海西国国王也终于现身，一句“小和尚，人心的恶火，佛都灭不了，凭你”，展现其作为正邪对决的关键所在。一场震天撼地的《三打》神魔对决，即将在猴年大年初一引爆大银幕。白骨精现真身 智斗武斗全新升级《西游记》经典“三打”一回中，以白骨精三次变幻人形智斗四师徒、孙悟空最终被赶走的情节最为人称道，此次《三打》中也延续了这一耳熟能详的剧情。“决战前夕”预告中“妖皇”白骨精首现真便先是智斗，“坏人干的事，就让我来做吧”以及“急什么？先跟他们玩玩”的旁白，展露出一切尽在其掌握中的不可一世。尤其是当孙悟空说出“我杀的是妖，不需要你管”与唐僧“你我缘尽于此，走”互飙狠话时，更直接呈现白骨精三戏孙悟空得手后，美猴王被赶走的催泪情节。在巩俐充满魅惑的演绎之下，一个智谋超群的“妖皇”白骨精形象已浮现在观众眼前。而在传统剧情基础上，《三打》为增加正邪对战的精彩砝码，也在智斗、武斗上两个层面进行了全新升级。首次曝光的蛇妖、蝙蝠妖、箭猪妖三妖，便是揭开在白骨精之外，还有将一众群妖将给西行四圣制造麻烦。同时曝光的费翔版暗黑气质十足的国王，则据说会成为经典故事之外，左右正邪人物命运的关键。《三打》情节设置可以说处处都达到了“情理之中，意料之外”的全新设计，将原著唐僧取经路上充满艰辛的一难，扩展成为一段华语大片绝无仅有的神魔对决。华语最强特效 首映路演口碑爆棚此次《三打》为了从视觉特效层面创造一个崭新的西游世界，片方仅后期特效一项就投入近两亿，打造出堪称华语最高水准的特效制作。新版预告则展现出更多全新动作场面，像孙悟空与沙僧、猪妖之间的三人大战充满力量，孙悟空与白骨精在林间的精彩打斗则如水墨般飘逸十足，而结尾大战白骨兵团更是将神魔对决的气势推到了极致。尤其是在《三打》首映后，高水准的特效受到了媒体、影评人、普通观众等业内外观众的一致认可，单是影片开篇孙悟空降龙伏虎的段落就被称为值回票价，其中打虎一段更被评为贡献了近年来银幕上最逼真的一只老虎。
+
+ 
+电影《三打》目前正在全国巡回路演中，自北京首映以来电影受到了各方赞誉，媒体、影评人、影院经理全为电影打出五星好评，“绝对值回票价”“过硬的特效技术，为想象力提供更多可能”“中国魔幻电影极致！”“春节全家必看IMAX电影”等等好评不绝于耳。而在刚刚完成的杭州首映之后，电影同样受到媒体与影院经理的热议，“一部媲美好莱坞大片的电影”“终于可用十成十呈现吴承恩老爷子笔下的恢宏世界”“重要的妖怪打三遍，重要的电影刷三遍！”，甚至有院线方更直接高喊“有了排次号就早点排吧！”《三打》期待收获更多好评，与观众一起喜迎“猴年看西游”。3D奇幻喜剧《西游记之孙悟空三打白骨精》由郑保瑞执导，郭富城、巩俐、冯绍峰、小沈阳、罗仲谦、费翔、陈慧琳等联袂主演，电影即将于2016年2月8日，猴年初一，以3D、IMAX3D、中国巨幕、4DX及MX4D格式上映，万家狂欢！
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

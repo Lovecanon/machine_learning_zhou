@@ -1,0 +1,63 @@
+首批社保基金重仓股曝光 机构扎堆花园生物_网易财经
+沪深两市有5家公司的前十大流通股股东名单中出现了社保基金组合，这5家公司分别为，皖维高新、索菲亚、花园生物、三诺生物和万润科技。
+window.__STOCK_COMPONENT__.push({code: '300401', type: 'SZ', tag: 'time'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+随着2015年年报陆续披露，社保基金的持股情况也逐渐浮出水面。据《证券日报》记者统计显示，截至昨日，沪深两市共有20家公司披露了2015年年报，有5家公司的前十大流通股股东名单中出现了社保基金组合，这5家公司分别为，皖维高新、索菲亚、花园生物、三诺生物和万润科技。
+从社保基金持股数量来看，皖维高新、索菲亚、花园生物以2000万股、955万股、560.11万股跻身前三位，紧随其后的是三诺生物（263.38万股）、万润科技（222.64万股）。从社保基金新进持有数量来看，社保基金去年四季度新进持有2家公司股票合计2560.11万股，分别为皖维高新、花园生物。
+具体来看，皖维高新2015年年报披露显示，前十大流通股股东中，全国社保基金一零七组合新进持有2000万股，占流通盘的比例为1.34%（去年9月末1家券商持有862万股）。截至2015年12月31日，股东人数较上期减少8.01%，筹码趋向集中。公司的产业链已向目前PVA行业最高端的汽车用安全玻璃、液晶显示器等应用领域逐步延伸，未来公司将会打破该领域一直被国外公司垄断的局面。
+花园生物2015年年报披露显示，前十大流通股股东中，本期2家基金、1家QFII和2家社保合计持仓902.6万股；其中，全国社保基金一零九组合新进持仓300.01万股，全国社保基金一一二组合新进持仓260.1万股；2015年12月31日股东人数较2015年9月30日减少9.62%，筹码集中度有所提升。公司致力于维生素D3上下游系列产品的研发、生产和销售，形成独特的维生素D3产业链一体化优势，可同时生产原材料NF级胆固醇及饲料级维生素D3、食品医药级维生素D3，是全球规模最大、在国内乃至全球提供维生素D3上下游系列产品种类最多的生产厂商，产销量均位居世界前列。
+值得注意的是，社保基金在去年四季度末尽管持有索菲亚、万润科技和三诺生物3只个股,但出现了一定程度减仓；其中，索菲亚2015年年报披露显示，前十大流通股股东中，3家基金2家社保合计持有2855.01万股（上期4家基金2家社保合计持有4359.76万股），截至2015年12月31日，股东人数较上期增加93.18%，筹码急剧分散。万润科技2015年年报披露显示，前十大流通股股东中，1家基金、1家社保合计持有413.07万股（上期一家社保持有370.66万股），本期社保基金四一五组合持有222.6万股，上期持有370.66万股；社保基金一零六组合退出前十，截至2015年12月31日，股东人数较上期增加182.61%，筹码集中度大幅降低。三诺生物2015年年报披露显示，前十大流通股股东中共有3家基金1家社保2家信托及中央汇金合计持有17435.56万股，其中，中央汇金持有203.2万股，为第八大流通股股东，全国社保基金四零六组合较上期减持118.45万股至263.38万股。
+分析人士指出，目前A股市场机构投资者主要有保险资金、公募基金、社保基金等，从风险控制来看，社保基金对股票的选择上更倾向于安全性，此外社保基金对政策的把握能力较强，选股基本能踏准产业发展方向，往往又能取得超额收益。总的来说，在目前市况下，控制仓位、跟随社保基金进行操作，不失为一种合理的策略。
+
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+两融余额料“21连降” 融资买入降至低点
+万科或延期至6月复牌 宝能系资金面喜忧参半
+行业动态
+1月以来306只股票跌幅超40% 三维度掘金超跌股
+173家央企三成预亏五成预减 煤企钢企成重灾区
+公司新闻
+双钱股份5日涨49.8% 江浙系游资追捧成就"妖性"
+"妖股"中毅达逆势涨117%成谜 重要股东套现10亿
+
+
+
+ 
+
+
+
+ 本文来源：证券日报-资本证券网  作者：吴 珊
+责任编辑：任万顺_NF5229

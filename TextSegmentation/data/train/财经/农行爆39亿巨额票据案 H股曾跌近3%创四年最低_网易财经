@@ -1,0 +1,56 @@
+农行爆39亿巨额票据案 H股曾跌近3%创四年最低_网易财经
+
+window.__STOCK_COMPONENT__.push([{code: '601288', type: 'SH', tag: 'multi'},{code: '01288', type: 'HK', tag: 'multi'}]);
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+网易财经1月25日消息 农业银行今早开盘报2.65港元，跌2.93%，之后震荡走高，但未转升，最高见2.72港元，跌0.37%。农业银行H股最新报2.71港元，跌0.73%；A股最新报3.09元，跌0.64%。星展分析师陈姝瑾称违规事件涉及金额对农行总资产来说，可谓九牛一毛，料对银行造成的威胁不大。农行爆39亿元巨额票据案 传资金非法进入股市有消息称北京农行2名员工涉嫌非法套取38亿元票据进入股市，造成资金无法兑付，由于涉及金额巨大，公安部和银监会已将该案件上报国务院。昨日晚间，农业银行发布公告确认此事，农行表示，“近日，农业银行北京分行票据买入返售业务发生重大风险事件，经核查，涉及风险金额为39.15亿元。目前，公安机关已立案侦查。农业银行正积极配合侦办工作，加强与相关机构沟通协调，最大限度保证资金安全。”记者了解到，此前监管部门曾下发文件，对银行业金融机构2015年上半年票据业务现场检查后作出风险提示，从风险控制角度考虑，部分银行1月份已基本暂停票据业务。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+海顺新材明日网上申购 申购需防“乌龙指”
+农行曝39亿巨额票据案 H股跌近3%创4年最低
+行业动态
+融资客逆市抄底222只股 医药等三类股可轻仓跟进
+多公司业绩预减预亏 周期性行业“受灾”严重
+公司新闻
+宫斗之殇：深康佳预亏12亿 创成立以来纪录
+中毅达：接盘方被暂停账户交易 还能“妖”多久
+
+
+ 
+
+
+
+ 本文来源：网易财经  
+责任编辑：杨倩_NF4425

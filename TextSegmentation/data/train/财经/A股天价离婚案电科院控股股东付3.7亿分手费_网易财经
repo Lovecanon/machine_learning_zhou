@@ -1,0 +1,56 @@
+A股天价离婚案:电科院控股股东付3.7亿"分手费"_网易财经
+
+window.__STOCK_COMPONENT__.push({code: '300215', type: 'SZ', tag: 'kline'});
+
+    (function () {
+        if (!window.__isQuotesLoaded && !window.__isQuotesLoading &&
+                ( !window.QUOTES_FIGURE || typeof window.QUOTES_FIGURE !== 'function') ) {
+            window.__isQuotesLoading = true;
+            var script = document.createElement('script'),
+                    body = document.getElementsByTagName('body')[0];
+            script.type = 'text/javascript';
+            script.src = 'http://img1.cache.netease.com/f2e/finance/quotes_figure/quotes_figure.697125.min.js';
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState ||
+                        this.readyState === 'loaded' ||
+                        this.readyState === 'complete') {
+                    this.onload = this.onreadystatechange = null;
+                }
+            };
+            body.insertBefore(script, body.firstChild);
+        }
+    }());
+电科院2016年1月28日午间公告称，公司于2016年1月27日接到公司控股股东、实际控制人之一、董事及副总经理胡醇就其持有的公司股份变动事宜的通知。胡醇上年末（截至2015年12月31日）持有电科院股票数量9600万股，占公司总股本比例13.33%；其中高管限售股7200万股。此次拟无偿划转3200万股股份给王萍，理由是离婚财产分割。此次股权变动之后，胡醇持有电科院的股票数量为6400万股，占公司总股本比例8.89%；仍为公司第三大股东。电科院在公告中介绍，截至公告披露日，公司控股股东、实际控制人之一、董事长、总经理胡德霖持有公司股份22697.09万股，占公司总股本的31.52%；胡德霖及胡醇合计持有的公司股份总数为29097.09万股，占公司总股本的40.41%，仍为公司控股股东、实际控制人。据了解，电科院于2011年在创业板上市，胡德霖、胡醇为父子关系。在公司发布的招股说明书中，记者未查询到王萍持有公司首发上市时持有公司股份。昨日晚间，电科院还发布了2015年度业绩预告公告，公司预计归属于上市公司股东的净利润为盈利2017万元至3569.83万元，同比下滑54%至74%。对于业绩变动原因，电科院解释称，一方面是因为营业收入较2014年同期减少。营业收入同比减少主要是公司自 2013 年下半年始至2014年度持续在能力提升、资质扩充和评审方面做了较多工作，使公司核心竞争能力得到进一步加强，认可能力范围得到继续扩大，提升了公司在国内及国际检测领域的公信度，但公司2015年上半年度的业务由此受到了较大的影响；2015 年第三季度，此影响逐步减少并消除。但公司还受到复杂的国际国内经济环境、行业内竞争加剧、公司市场拓展不力等因素的影响。2015 年第三季度、第四季度公司营业收入回暖，完全扭转了2015年上半年度的亏损。另一方面，由于公司规模的扩大同时公司部分工程、项目等陆续完工导致折旧费用及财务费用较去年同期增加。此外，2015年度归属于上市公司的非经常性损益约500万元至1000 万元，对公司的业绩有一定影响。
+
+div,h1{padding:0;margin:0}
+.biaoqian{margin:0 auto;height:47px; border-bottom:3px #e2e2e2 solid; margin-bottom:30px;}
+.biaoqian h1{height:44px;line-height:44px;font-size:24px;font-family:"Microsoft YaHei";color:#000;font-weight:normal;padding-bottom:3px;border-bottom:3px #449ac9 solid;;margin-left:27px;_margin-left:8px;float:left;}
+.biaoqian span{font-family:"Microsoft YaHei","\5fae\8f6f\96c5\9ed1";font-size:16px;color:#990000;line-height:44px; margin-left:30px;}
+.biaoqian span a{color:#990000;}
+
+
+
+
+
+
+
+重点推荐
+更多精彩资讯请点击 网易股票
+
+证券要闻
+央行再稳流动性预期 公开市场增加操作场次
+股价跌得“看不下去” 多家公司将实施回购
+行业动态
+一号文聚焦农业现代化 布局农业供给侧改革
+29只个股震幅达15% 三角度挖掘绝地反击龙头股
+公司新闻
+"清仓"公司样本调查:易联众原实控人套现18.8亿
+中华企业持续亏损 上海地产集团资产注入添迷雾
+
+
+ 
+
+
+
+ 本文来源：证券日报-资本证券网  作者：张敏
+责任编辑：钟齐鸣_NF5619

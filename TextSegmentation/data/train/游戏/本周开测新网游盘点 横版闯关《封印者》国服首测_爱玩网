@@ -1,0 +1,55 @@
+本周开测新网游盘点 横版闯关《封印者》国服首测_爱玩网
+
+爱玩网整理发布，转载请注明出处。新的一周又开启了，今天我们将依照惯例为玩家们盘点下本周的开测新网游。本周有哪些游戏在等着大家？一起来看看吧！1月26日 周二《幸福人生》  删档首测  代理/运营：幸福时空《幸福人生》是一款休闲题材的3D社交游戏，游戏强调与真实世界的呼应性，力图让玩家能够生活在一个虚拟技术实现的真实3D世界中。整体游戏采用宽松愉悦的生活化气息营造游戏。在游戏中，玩家可以体验到温暖舒适的家，惊险刺激的探险，多种多样的活动。
+1月27日 周三《封印者》  国服首测  代理：Naddic Games  运营：世纪天成《封印者（Closers）》是由前《艾尔之光》制作团队开发的横版3D闯关游戏。游戏讲述了未知的异次元生命体跨越次元侵袭地球，极少数的人类因此觉醒，得到了能与怪物对抗的力量在联合国机构“UNION”的指引下进行战斗的故事。操作方面，游戏没有固定连击方法，玩家可根据技能的效果自行组合，只要衔接得当，便可形成连击。
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/R/6/VBBSO0VR6.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/08/xeDqj2962/SD/xeDqj2962-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《封印者》Harpy转职预告
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+《赤壁之战》  终极内测  代理/运营：珠海仟游  点此领取礼包《赤壁之战》是由珠海仟游自主研发运营的2.5D国战网游，游戏背景取材于历史上以少胜多的经典战役，职业设定则依照三国名将为原型，核心玩法以PK为主，并集成多种经典战斗模式。
+1月29日 周五《幻想联盟》  萌新测试  代理：萨满网络  研发：宝果网络《幻想联盟》以30V30大型二次元战役玩法为主，强调团队协作性。游戏拥有多种玩法各异的PVP地图以及数十种PVE副本供玩家选择。游戏中还将还原一些动漫的经典片段，带你突破次元界限。
+1月30日 周六《剑破苍穹》  迎新测试  代理/运营：极客网络《剑破苍穹》是一款以东方古代神话传说为背景的网络游戏。游戏鼓励玩家之间互相交流、互动、交友、对抗，借以实现让玩家成为游戏创造者的目的。游戏在职业选择、装备强化、宝石合成、宠物培养的基础上，还加入了特有的变身系统、血脉系统等。

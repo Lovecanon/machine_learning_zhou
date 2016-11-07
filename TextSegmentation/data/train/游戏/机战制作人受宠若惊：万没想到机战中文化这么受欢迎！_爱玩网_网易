@@ -1,0 +1,59 @@
+机战制作人受宠若惊：万没想到机战中文化这么受欢迎！_爱玩网_网易
+
+就在昨日，《超级机器人大战OG：The Moon Dwellers》的中文版情报放出后，全国上下机战迷一片沸腾――因为这是机器人大战系列第一次推出官方中文版。受邀参加台北电玩展的机战系列制作人寺田贵信感受到玩家欢声雷动的场面后十分感动，他发现长久以来自己错了：原以为《超级机器人大战》系列只有在日本才有玩家土壤，万没想到这些机器人在中国竟然有这么强大的群众基础。我们先来看看令人热血沸腾的中文化宣传片：
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/O/9/VBDNT88O9.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/31/inVbh8191/SD/inVbh8191-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+超级机器人大战OG THE MOON DWELLERS
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+2016年台北电玩展上，《超级机器人大战》系列制作人寺田贵信、最新作《超级机器人大战OG：The Moon Dwellers》制作人冢中健介，以及SRW系列长期合作的知名声优绿川光亲临现场。并且在活动中宣布机器人大战系列将首度中文化，《超级机器人大战OG The Moon Dwellers》确定推出繁体中文版，并且在游戏中收录台湾关卡。在受到现场玩家热烈的欢迎下，寺田贵信登台表示：“今年迎接了机器人大战25周年，当初没想到可以受到玩家如此长久的支持，一路走过了25年。”寺田贵信冢中健介饰演《魔装机神》安藤正树的声优绿川光，也从后台喊出正树知名台词后现身与玩家见面。绿川光也在活动中分享他从小就钟爱机器人动画，身为玩家他也一直是游玩机器人大战的忠实粉丝。而当年制作人找上他为机器人大战原创角色配音时，令他觉得“当声优真是太好了”。绿川光“玩家热烈的期盼，的确有传达给我们。”寺田贵信表示，决定将《超级机器人大战OG：The Moon Dwellers》中文化的关键，果然还是玩家长年来热情的呼声和台湾万代南梦宫的强力推动，在两年前就开始启动这个历史性的机战中文化企划。寺田贵信称，他是从两年前起讨论中文化的企划时，和工作人员讨论后决定要加入有“台湾特色”的元素进入新作之中。他在来台勘景时，仔细调查了台北车站周边的地理环境和建筑物，并拍照存档带回日本。而游戏中超级机器人部队也会随着剧情的发展，实际来到台北展开三话长度的“台湾篇”战斗。而现场展示的游戏地图画面，是台北电玩展领先全球首度公开的消息。并且台北车站的3D模块实际在机器人大战中现身的样貌，发表时令整个摊位欢声雷动，现场粉丝皆放声尖叫来表达内心激动的情绪，是具有相当历史性意义的台湾电玩展重大发表。寺田贵信在活动尾声的致词中表示：“虽然时有耳闻机器人大战在中国很受欢迎，不过身处日本一直没有切身的实际感觉。今天来到现场之后，玩家的出乎意料的热情响应，令他感到相当荣幸和兴奋。”冢中健介也声称“完全没有料到现场反应会如此热烈，令他感到受宠若惊！”
+来源：巴哈姆特
+
+ 
+
+
+ 本文来源：爱玩网     作者：Q
+   责任编辑：候雁飞_NG2619

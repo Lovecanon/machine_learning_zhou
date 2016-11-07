@@ -1,0 +1,57 @@
+《澳门3》曝终极预告 周润发“自带背景音乐”_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/D/Q/VBD7S6KDQ.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/25/FeolV0175/SD/FeolV0175-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《澳门风云3》曝终极预告
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月25日报道 由刘伟强、王晶执导，周润发、刘德华、张家辉、李宇春、张学友、刘嘉玲、向华强、向佐等巨星共同主演的华语合家欢贺岁喜剧《澳门风云3》将于2016年2月8日大年初一全国3D献映，日前片方发布了终极预告。预告片中，周润发一人分饰两角，一个是霸气从容的经典赌神高进，一个是 “澳门”系列主角石一坚。饰演赌神表妹高菲一角的李宇春如此评价：“发哥在演石一坚的时候是很可爱的，可是当他换上赌神的衣服，梳起大背头，转着戒指吃巧克力的时候，气场一下子就变得超强，简直自带赌神背景音乐。”除经典的赌神铁三角――赌神周润发、赌侠刘德华、龙五向华强之外，一些新角色的表现同样令人期待。“赌神家族新生代”向佐大战特种部队一幕身手矫健，功夫了得。与“龙五”向华强戏里戏外皆父子的“龙十五”向佐表示自己是第一次与父亲合作，并透露在5岁时就曾去《赌神》片场探班：“小时候去探班就非常崇拜他们（周润发、刘德华），如今能跟偶像们一起演戏，好像做了一场梦一样。”
+
+ 
+鸟叔、余文乐、童菲、王诗龄、罗家英、卢海鹏、元秋等众星也悉数登场，其中罗家英饰演武器发明家“only you”，并爆料周润发、刘德华、张学友、张家辉四大巨星经常在片场“吵架”：“吵些什么内容呢？今天我请吃东西，不准你请，我请。或者这句对白你说多一点，我说少一点。他们四个在片场总是说说笑笑吵吵闹闹，像小孩子一样，大家都特别开心。”而在预告片中，周润发与张学友却“反目成仇”，张家辉对决刺青女变身“蜘蛛侠”，刘德华更上演“自爆”戏码。《澳门风云3》剧情究竟如何？大年初一拭目以待。
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

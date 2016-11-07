@@ -1,0 +1,54 @@
+《蒸发太平洋》曝热血特辑 提档1.29怪兽对熊猫_网易娱乐
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/N/3/VBD0EGIN3.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/22/gOFcL0984/SD/gOFcL0984-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《蒸发太平洋》曝热血特辑 提档1.29
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+网易娱乐1月22日报道 由北京星美影视发行有限公司发行，青年导演周文武贝执导，张雨绮、布兰登・罗斯、蒋梦婕、王阳明、王盛德、廖碧儿、戴向宇、于咏琳主演的国际硬科幻影片《蒸发太平洋》，将提档至1月29日在全国上映，让观众提前一睹炫目特效及跨国巨星联手打造的精彩。影片今日再放大招，曝光了一支热血特辑，“超人”布兰登・罗斯秒变身手了得的豪机主厨，性感女神张雨绮则化身美女机长，与罗斯并肩作战。做菜加打怪 超人也很忙罗斯表示，自己在影片中饰演的是怀揣很多秘密的厨师，这个角色与他之前扮演的众多形象截然不同，让他觉得十分新鲜。在近日曝光的热血特辑中，“超人”罗斯延续了自己一贯以来的正义感，上演了多场“超人PK邪恶势力”的精彩打戏。面对种种危机，罗斯体内的“超人因素”被瞬间唤醒：在亡命之徒的威胁下空手夺枪、只身潜入充满血腥味的航母内部、真枪上阵，动作干净利落，场面极具张力，看的观众热血沸腾。导演周文武贝在特辑中对罗斯的表现称赞有加：“Brandon都不用替身，他希望所有的动作戏都可以自己做到最好。”这也是他本人首次全程不用替身，亲自上阵拍完所有动作戏，并且首秀中国功夫，看点十足。罗斯直言：“可以和动作组研究动作戏挺有趣的。”影迷则调侃：又要做菜又要打怪，超人还挺忙的。此外，特辑中还有从飞机上跳下航母、再从移动的重型车头跳上飞机的酷炫镜头，更加令观众欲罢不能。超人与熊猫共舞 科幻与梦幻齐飞
+
+ 
+据片方透露，影片自开拍以来一直备受关注，此次提档至1月29日上映不仅是因为观众的呼声极高，更是为了丰富档期，让观众在过年前的这段时间里有更多的观影选择。与同日上映，主打梦幻温情的《功夫熊猫3》不同，《蒸发太平洋》反其道行之，标准的国际大制作，将影片打造成具有现实主义的科幻巨制，在此基础上融入中国风，如“超人”罗斯饰演的是中国川菜大厨以及他在片中的功夫功夫首秀等，再辅之逼真的特效、动作、冒险等元素，使影片具备了同样的竞争力，在贺岁档中花开两朵各表一枝，共同构成了过年之前的大片阵容。
+
+ 本文来源：网易娱乐  
+责任编辑：刘皓玉_BJS2462

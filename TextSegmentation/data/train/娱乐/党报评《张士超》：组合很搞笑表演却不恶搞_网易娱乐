@@ -1,0 +1,105 @@
+党报评《张士超》：组合很搞笑表演却不恶搞_网易娱乐
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/F/L/VBDANS5FL.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/QNouz6339/SD/QNouz6339-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+张士超你到底把我家钥匙放在哪里了
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/B/1/VBDANSOB1.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/NgPqW6383/SD/NgPqW6383-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+张士超你到底把我家钥匙放在哪里了
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+上海彩虹室内合唱团人民网-人民日报1月26日报道 最近，一首合唱曲火了。以史诗般的叙事、《黄河大合唱》般的气势，上海彩虹室内合唱团在咆哮与圣咏中完成一曲《张士超你到底把我家钥匙放在哪里了》。一夜间，这首极具魔性的合唱曲让人眼前一亮。实际上，《张士超》是一把钥匙，打开了流行文化的一把锁：既不缺阳春白雪般的形式，也不缺下里巴人似的内容。这样的组合很搞笑，表演却不恶搞。五角场、华师大等校园符号流露出的学院风，也让人想起了校园。更重要的是，它好玩。它让人不自觉地去反思：生活中再简单的故事和情绪都经得起吟唱，再焦虑的情绪经艺术的调侃后也能轻松解锁。当听众尾随表演者一同进入“找钥匙”的情绪胡同，生活情感的艺术表达让音乐回到原初的坐标。现代人太需要好玩的东西。当节奏加快、分工变细，人们不是在忙碌就是在奔往忙碌的路上，如何松一松生活的琴弦？当所有人都成为城市的铆钉，紧张与秩序成为自然状态，生活的趣味该铆在何处？好玩，是本性的呼唤，是对意义的发掘，也是对紧绷生活的松弛。对于“彩虹”这样的民间社团而言，自娱自乐、乐在其中正是它们的出发点。这个由程序员、设计师、会计、人类学博士后、化学家、美食博主与音乐学院学生组成的合唱团，因为爱好聚在了一起，团员中甚至有“高铁侠”，每周末往来南京上海之间，只为参加一周一次的排练。正因为这份纯粹，这些民间社团虽时显稚嫩，甚至常为场地发愁，却依然能保持不俗的锐度和原创精神，能在艺术诠释中融入年轻人对生活不拘一格的理解。大多数时候，它们都像蛹一样潜藏在高校或社团的土壤孔隙中汲取营养、自得其乐，而一旦被人发现，却常有惊人之鸣。不禁想起2013年底北京国贸的一次合唱“快闪”，那是台湾惊喜合唱团带给北京的一次惊喜。当合唱团团员从大楼各处冒出来，当歌声与微笑荡漾开去，人们从惊呆到迟疑到惊喜再到加入的切换，最好地回馈了这出公益合唱的用意。艺术用最艺术的方式提示了人们生活的意义――“不为商业目的，只为传递快乐与温暖”。
+
+ 
+这个冬天，这种带着快乐的好玩还在继续。北京地铁车厢里出现了一群读者的阅读“快闪”。用行为艺术的方式，他们试图唤醒现代人对阅读的重视；而一群诗歌爱好者坚持了几年的“为你读诗”，已经引起了超过160万人的关注和参与；还有更多的民间剧社在小剧场里演绎着他们的春夏秋冬与生离死别……这些好玩的民间团体在不经意间，成为了文化的“凝结核”，激发了这个世界别致的趣味，它们在自娱自乐的同时，带着大家一起用书本克服城市的摩擦力，用音乐标注变化的情绪，用诗歌抒发生活的意义。一个社会的文化，仿佛是一棵有气根的大树，既有主干，也有无数个“呼吸根”，才成就了蔚为壮观的文化繁枝茂叶。这些“呼吸根”可能就是星星点点的民间社团，是那群真正热爱生活的人。它们接地气，能汲取生活的养分；它们会换气，能吐纳生活的灵动。更重要的是，它们亦有力地撑起了整棵文化之树。正是在这个意义上，大家也在呼唤更多的《张士超》，在呼唤更多的彩虹合唱团，在呼唤我们的社会，能给这些有意思的人提供更宽广、自由的土壤。
+
+ 本文来源：人民网-人民日报  
+责任编辑：王玉玲_NK2809

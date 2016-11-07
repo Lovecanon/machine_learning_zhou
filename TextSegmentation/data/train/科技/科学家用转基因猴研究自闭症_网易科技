@@ -1,0 +1,55 @@
+科学家用转基因猴研究自闭症_网易科技
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/V/B/VBDBEG1VB.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/26/PEyom9963/SD/PEyom9963-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+转基因猴成攻克自闭症利剑
+（来源：网易科技频道）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+与正常猴相比，转基因猴(右)的行动路线重复,单一,不主动社交。转基因猴(右笼)一直在笼中坐定,不主动拥抱围着它转的正常猴。(00:38)澎湃新闻记者 吴跃伟人类向治疗自闭症迈近了一步。日前，世界首个自闭症的非人灵长类模型由中国科学家率先建立。其研究论文于1月26日凌晨，在线发表在国际顶级学术杂志《自然》（Nature）上，标题为《过表达MECP2的转基因猴的类自闭症行为的表征与种系传递》（Autism-like behaviours and germline transmission in transgenic monkeys overexpressing MeCP2）。该研究由中国科学院上海生命科学研究院神经科学研究所研究员仇子龙研究组、神经所苏州非人灵长类研究平台孙强团队合作完成，博士研究生刘真和助理研究员李霄为该论文共同第一作者。《自然》杂志的评审意见称，刚刚发表的MECP2自闭症模型是一个重要的研究，人类第一次成功得到了MECP2倍增综合征的灵长类动物模型，也是首次发现非人灵长类转基因动物模型中行为学表型的变化。MECP2转基因猴被认为是攻克自闭症的利剑之一。目前，仇子龙带领的研究人员正通过核磁共振的方法进行脑成像，分析MECP2转基因猴的大脑神经网络，并期待发现自闭症的有效干预方法。转基因猴子“自闭症患者的疾病样本很少，国内几乎没有”电影《雨人》（Rain Man）中的自闭症患者雷蒙，因其过目不忘的超强记忆力，令人印象深刻。但事实上，仅有少数的自闭症患者才表现出某方面特长，约为20%-30%。更多的自闭症患者，要么生活不能自理，要么终身残疾，伴随着社交障碍和焦虑抑郁等异常行为、情绪。根据美国疾控中心官网公布的最新数据，自闭症的患病率正在逐渐上升。2000年，美国的8岁的男孩中，自闭症的患病率约为6.7‰，2010年，这一数字上升到14.7‰，约为1/68。在亚洲地区，这一疾病目前的患病率约为1%，其中，韩国的发病率为2.6%。1月25日，上海市精神卫生中心儿童精神科主任医师杜亚松告诉澎湃新闻：“自闭症目前还没有有效的治疗方法，只能对患者进行行为训练，改善症状。其患病机理也尚未研究清楚。”中国科学院上海生命科学研究院神经科学研究所研究员仇子龙说，出于伦理等方面的考虑，人们对自闭症机理的研究不能在其患者身上开展，而“自闭症患者的疾病样本很少，比如脑片，国外很少，国内几乎没有”。一个替代的解决方案是，用实验动物进行这些研究。此外，相关药物的研发也需要首先经过动物实验的验证，所以，研究人员对其动物模型的需求日益迫切。仇子龙研究组与孙强团队发表的论文标题为《过表达MECP2的转基因猴的类自闭症行为的表征与种系传递》。MECP2基因编码了一种甲基化DNA的结合蛋白“MECP2”，该蛋白可以调控其他基因的表达，从而间接影响神经突触的功能。神经突触是神经细胞接触的“界面”。在临床中，人们发现，MECP2基因的缺失或者过表达，都会导致自闭症，前者被称为瑞特综合症，后者被称为MECP2倍增综合征。转基因猴子MECP2转基因猴被认为是攻克自闭症的利剑之一美国科学院院士、中国科学院外籍院士、上海生命科学研究院神经科学研究所所长蒲慕明表示，“这不仅是世界范围内自闭症的首个非人灵长类模型，也是所有疾病中首个真正意义上的非人灵长类模型”。蒲慕明解释说，一个疾病的动物模型至少要满足两点，一是忠实地再现人类该疾病的症状，二是可以传代（作者注：通过繁殖，增加其个体数量）。早在2008年，美国科学家就将亨廷顿舞蹈症的致病基因导入了猕猴的基因组，但没能繁殖该猕猴个体。随后，有中国科学家通过基因敲除等手段，试图建立帕金森症等的疾病模型，也没能完全满足上述两点要求。据仇子龙介绍，猕猴是生物演化中最接近人的非人灵长类之一，食蟹猴是猕猴的一种。MECP2自闭症模型的建立至少经历了两大挫折：一是转基因，二是繁殖。2009年，该课题研究讨论立项，2011年，第一代MECP2转基因猴出生，随后出现类自闭症症状，但食蟹猴的性成熟时间是5-6年，怀孕约6个月，这意味着，大约5年后，它们才能繁殖下一代。而此前，神经所科学家已经建立了MECP2的转基因小鼠模型，小鼠的性成熟时间仅为数月。孙强带领的研究人员，通过精巢异体移植，将转基因猴睾丸的部分组织埋植在小鼠皮下，产生了成熟的精子，经体外受精，2014年11月，第二代转基因猴出生。转基因猴子虽然自闭症的小鼠模型已经被建立，但小鼠的大脑与人类大脑的结构极为悬殊，比如，小鼠的大脑没有沟回，小鼠模型也难以模拟人类自闭症的症状。论文共同第一作者李霄在行为分析实验中发现，MECP2转基因猴的学习能力无异常，但会表现出重复性的刻板行为，它会花费更多的时间在重复的行动路线上，比如一直在笼子中转圈，而正常猴子的行动路线更多样化，比如爬到笼壁上。在猴群中，MECP2转基因猴也更喜欢独处，其社交时间明显低于正常食蟹猴。仇子龙介绍说，两只猴子靠近的时间超过3秒，就被定义为社交行为，此外，像互相整理毛发等也属于社交行为。但视频显示，在社群中，MECP2转基因猴更多表现出躲避，或者待在角落。
+ 
+此外，MECP2转基因猴还出现脂肪酸代谢的异常，在临床中，一些自闭症患者也出现过类似症状，但目前尚不清楚这一异常与自闭症症状的关系。蒲慕明表示，在分子层面，人们对MeCP2基因的研究和认识已经相对充分。但分子层面的异常如何导致了行为上的异常，目前还不清楚，从“分子层面”到“行为上的异常”，这两个层面被割裂开了，还没有打通，需要通过对动物模型的研究，找到二者之间的联系。MECP2转基因猴被认为是攻克自闭症的利剑之一。目前，仇子龙带领的研究人员正通过核磁共振的方法进行脑成像，分析MECP2转基因猴的大脑神经网络，并期待发现自闭症的有效干预方法。
+
+ 本文来源：澎湃新闻网  
+责任编辑：王凤枝_NT2541

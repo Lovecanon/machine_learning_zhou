@@ -1,0 +1,2398 @@
+为啥美国物价比中国低?40万拎包入住别墅_网易海外置业
+
+时不时有人在网上晒美国(房源)物价，其观点不外乎是证明美国物价很低很低，甚至比中国还低。比较的方式也是五花八门，有把美元折成人民币后比的，有直接拿美元金额和人民币金额比的，还有用收入的购买力来比的。为什么美国物价低？事实上，美国不但物价便宜，房价也很低。比如，在国内想要买套别墅最便宜也得二三百万，而在美国一套永久产权的独栋别墅仅需首付40万元就能拎包入住。如果你不信，那不妨随小编一起去看看。
+.vhouse_article_survery {
+	font-size:14px;
+}
+.vhouse_article_survery label {
+	float: left;
+	width: 70px;
+}
+.vhouse_article_survery .common_form_submit {
+	padding: 0 10px;
+}
+.vhouse_article_survery .survey_pic{
+        position:absolute;
+        width:300px;
+        height:230px;
+        top:50px;
+        right:20px; 
+}
+.vhouse_article_survery .survey_pic img{
+        width:300px;
+        height:200px;
+        display:block; 
+        cursor:pointer;
+}
+.vhouse_article_survery .survey_pic .survey_pic_title{
+        font-size:16px;
+        font-weight:bold;
+        text-align:center;
+        display:block; 
+        cursor:pointer;
+}
+
+
+
+40万人民币购独栋别墅回报率超6%
+
+
+海外移民购房用户调查表
+
+
+
+姓名
+
+
+
+性别
+
+
+男
+
+
+
+女
+
+
+
+意向国家
+
+
+
+手机号码
+
+
+
+电子邮箱
+
+
+
+
+
+
+
+
+
+
+(function(){
+	var form = document.getElementById('form_2964');
+        try {
+    if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        document.getElementById("survey_pic").style.display = "none";
+    }else{
+        form.action="http://active.163.com/service/form/v1/2964/submit";       
+}
+} catch(e) {}
+
+$("input.common_form_submit").bind("click",function(e){
+	e.preventDefault(); 
+     		if(form.elements['name'].value == ''){
+			alert('"姓名" 为必填项，请填写完整。');
+			form.elements['name'].focus();
+			return false;
+		}
+		if(!checkRadio(form.elements['gender'])){
+			alert('"性别" 为必填项，请填写完整。');
+			return false;
+		}
+		if(form.elements['country'].value == ''){
+			alert('"意向国家" 为必填项，请填写完整。');
+			form.elements['country'].focus();
+			return false;
+		}
+		if(form.elements['phone'].value == ''){
+			alert('"手机号码" 为必填项，请填写完整。');
+			form.elements['phone'].focus();
+			return false;
+		} 
+    var dtd = $.Deferred(); 
+    $.get("/leaveMessage/investigation.do", {name:$('input[name=name]').val(),gender:$('input[name=gender]').val(),country:$('input[name=country]').val(),phone:$('input[name=phone]').val(),mail:$('input[name=mail]').val()}, function(result) {	
+    	if(result.result){
+    		dtd.resolve();
+    	}
+	});
+	dtd.done(function(){ 
+            form.submit();
+	});		
+});
+
+	var checkRadio = function(obj){
+		if(obj.checked != undefined){
+			if(obj.checked){
+					return true;
+			}
+		}
+		else{
+			var len = obj.length;
+			for(i=0; i<len; i++)  
+			{  
+				if(obj[i].checked){
+					return true;
+				}
+			}
+		}
+		return false;
+	};
+})();
+
+
+if(location.search.indexOf("vote=success") > 0) {
+	alert("投票成功，谢谢参与！");
+}
+
+
+
+
+房源推荐一>>>>莱纳休斯敦独栋别墅       112万元
+
+小区位于多条高速公路交界处，交通非常方便。 项目内高评分优质学校云集，教育资源丰富。净租回报超6%!!
+ 
+
+
+#photo1430120423652{width:100%;height:100%;}
+#photoView1430120423652{position:relative;}
+#gallery1430120423652 .nph_stream, #gallery1430120423652 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1430120423652 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1430120423652 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1430120423652 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1430120423652 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1430120423652 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1430120423652 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1430120423652 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1430120423652 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1430120423652 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1430120423652 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1430120423652 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1430120423652 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1430120423652 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1430120423652 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1430120423652 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1430120423652 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430120423652 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1430120423652 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430120423652 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1430120423652 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1430120423652 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1430120423652 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1430120423652 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1430120423652 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1430120423652 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1430120423652 .nph_list_thumb li a,
+#atlas_house1430120423652 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1430120423652 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1430120423652 .nph_scrl_prev,
+#atlas_house1430120423652 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1430120423652 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1430120423652 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1430120423652 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1430120423652 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1430120423652 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1430120423652 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1430120423652 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1430120423652 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1430120423652 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1430120423652 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1430120423652 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1430120423652 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1430120423652 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1430120423652 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1430120423652 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1430120423652 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1430120423652 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+150.0 ㎡
+
+/32
+（共32张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120587784.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120587784.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120588193.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120588193.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120588308.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120588308.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120589492.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120589492.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120589608.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120589608.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120589725.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120589725.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120590333.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120590333.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120590501.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120590501.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120591131.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120591131.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120591566.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120591566.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120591506.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120591506.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120593019.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120593019.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120593602.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120593602.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120593880.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120593880.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120593956.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120593956.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120594617.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120594617.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120595508.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120595508.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120595609.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120595609.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120595778.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120595778.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120596447.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120596447.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120596703.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120596703.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120597115.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120597115.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120597855.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120597855.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120598042.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120598042.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120598139.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120598139.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120598705.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120598705.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120598745.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120598745.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120599733.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120599733.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120600163.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120600163.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120600522.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120600522.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120621060.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120621060.JPG
+			
+						
+			
+			莱纳休斯敦独栋别墅—莱纳绿境庄园
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430120621058.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430120621058.JPG
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+莱纳休斯敦独栋别墅—莱纳绿境庄园
+ 19507 Shelby Ridge Ln, Houston, Houston
+, TX
+, 77073
+
+
+1116540
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1430120423652 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1430120423652" ,title: '莱纳休斯敦独栋别墅—莱纳绿境庄园'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1430120423652").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/34.9689756,-92.76052549999997/9?mapSize=215,111&format=jpeg&centerPoint=34.9689756,-92.76052549999997&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1430120423652", {
+    url: document.location.href,
+    title: document.title,
+    summary: "莱纳休斯敦独栋别墅—莱纳绿境庄园",
+    pic: function() { return $('#photo1430120423652').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1430120423652').attr('src'); }
+    }
+});
+
+
+
+房源推荐二>>>>休斯敦国王谷独栋精装别墅      124万元
+
+Oakhurst at Kingwood是休斯顿(房源)北部最大的整体规划社区之一，交通非常方便。周边教育资源丰富。休斯顿地区高评分的学区New Caney ISD，8分，9分学校很多。贷款5年持有期，15年贷款，回报率超过200%。
+ 
+
+
+#photo1430119532890{width:100%;height:100%;}
+#photoView1430119532890{position:relative;}
+#gallery1430119532890 .nph_stream, #gallery1430119532890 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1430119532890 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1430119532890 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1430119532890 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1430119532890 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1430119532890 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1430119532890 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1430119532890 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1430119532890 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1430119532890 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1430119532890 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1430119532890 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1430119532890 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1430119532890 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1430119532890 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1430119532890 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1430119532890 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430119532890 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1430119532890 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1430119532890 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1430119532890 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1430119532890 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1430119532890 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1430119532890 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1430119532890 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1430119532890 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1430119532890 .nph_list_thumb li a,
+#atlas_house1430119532890 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1430119532890 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1430119532890 .nph_scrl_prev,
+#atlas_house1430119532890 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1430119532890 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1430119532890 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1430119532890 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1430119532890 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1430119532890 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1430119532890 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1430119532890 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1430119532890 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1430119532890 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1430119532890 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1430119532890 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1430119532890 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1430119532890 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1430119532890 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1430119532890 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1430119532890 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1430119532890 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+170.0 ㎡
+
+/46
+（共46张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119808245.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119808245.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119808304.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119808304.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119808466.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119808466.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119809141.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119809141.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119809279.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119809279.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119809891.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119809891.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119810009.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119810009.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119810130.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119810130.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119810688.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119810688.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119810688.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119810688.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119810837.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119810837.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119811340.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119811340.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119811882.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119811882.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119811916.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119811916.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119812036.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119812036.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119812655.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119812655.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119812735.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119812735.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119812755.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119812755.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119813870.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119813870.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119813940.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119813940.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119813993.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119813993.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119814623.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119814623.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119814755.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119814755.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119814926.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119814926.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119816185.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119816185.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119816276.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119816276.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119817045.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119817045.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119817051.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119817051.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119817169.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119817169.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119847875.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119847875.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119847850.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119847850.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119847981.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119847981.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119848672.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119848672.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119848656.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119848656.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119848868.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119848868.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119849356.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119849356.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119849447.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119849447.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119849503.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119849503.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119850081.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119850081.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119850082.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119850082.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119850236.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119850236.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119850761.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119850761.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119850794.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119850794.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119850965.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119850965.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119851497.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119851497.JPG
+			
+						
+			
+			美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1430119851986.JPG
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751430119851986.JPG
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+ 24220 BURKS TRAIL DR PORTER, Houston
+, TX
+, 77365
+
+
+1240680
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1430119532890 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1430119532890" ,title: '美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1430119532890").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/30.0936122,-95.24265760000003/9?mapSize=215,111&format=jpeg&centerPoint=30.0936122,-95.24265760000003&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1430119532890", {
+    url: document.location.href,
+    title: document.title,
+    summary: "美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅",
+    pic: function() { return $('#photo1430119532890').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1430119532890').attr('src'); }
+    }
+});
+
+
+
+房源推荐三>>>>维斯塔豪园独栋别墅   131万元
+
+项目位于休斯顿西南方向的Richmond,距离休斯敦市区仅不到半小时车程。周边大型超市、购物广场众多，配套设施齐全。周边高分学校云集，教育资源广多且丰富。
+ 
+
+
+#photo1436176174709{width:100%;height:100%;}
+#photoView1436176174709{position:relative;}
+#gallery1436176174709 .nph_stream, #gallery1436176174709 .nph_search{ height:625px;}
+*html .nph_photo_view .infoPreviewBottom { bottom :0!important; }
+#atlas_house1436176174709 {
+  margin: 10px auto;
+  width: 580px;
+  overflow: hidden;
+}
+#atlas_house1436176174709 .nph_bg {
+  background: none repeat scroll 0 0 #FFFFFF;
+  padding: 0;
+  width: 100%;
+}
+#atlas_house1436176174709 .nph_photo_view {
+  height: 425px;
+  position: relative;
+}
+#atlas_house1436176174709 .nph_photo_view .nph_pic_title {
+  position: absolute;
+  bottom: 3px;
+  right: 26px;
+  display: block;
+}
+#atlas_house1436176174709 .nph_photo_view .nph_set_cur {
+  color: #fff;
+  font-sizxe: 16px;
+  font-weight: bold;
+}
+#atlas_house1436176174709 .nph_photo_view .nph_c_lh {
+  color: #ffdb4a;
+  font-size: 30px;
+  font-weight: normal;
+}
+#atlas_house1436176174709 .nph_photo_view .nph_houses {
+  position: absolute;
+  top: 0;
+  right: 90px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+  font-size: 14px;
+}
+#atlas_house1436176174709 .nph_photo_view .nph_livingArea {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  line-height: 30px;
+  padding: 0 10px;
+  color: #6e6e6e;
+  background: #ffdb4a;
+  text-align: center;
+}
+#atlas_house1436176174709 .nph_scrl_main {
+  padding: 0;
+}
+#atlas_house1436176174709 .nph_scrl_main ul {
+  margin: 14px 0;
+}
+#atlas_house1436176174709 .nph_cnt {
+  margin: 0;
+}
+#atlas_house1436176174709 .nph_scrl .nph_scrl_bar {
+  height: 20px;
+}
+#atlas_house1436176174709 .nph_scrl .nph_list_thumb {
+  padding: 0;
+}
+#atlas_house1436176174709 .nph_scrl .nph_list_thumb li {
+  list-style: none;
+}
+#atlas_house1436176174709 .nph_scrl .nph_scrl_thumb {
+  margin: 0;
+}
+#atlas_house1436176174709 .nph_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436176174709 .nph_scrl .nph_btn_scrl {
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/bar.png) no-repeat;
+}
+#atlas_house1436176174709 .nph_scrl .nph_btn_scrl .nph_scrl_ct {
+  margin: 0;
+  background: #ffffff url(http://img1.cache.netease.com/f2e/zc/web/images/bar_bg.png) 0 9px no-repeat;
+}
+#atlas_house1436176174709 .nph_scrl .nph_scrl_lt{background: none;}
+#atlas_house1436176174709 .nph_scrl .nph_scrl_rt{background: none;}
+#atlas_house1436176174709 .nph_scrl .nph_btn_ct{background: none;}
+#atlas_house1436176174709 .nph_scrl .nph_btn_lt{background: none;}
+#atlas_house1436176174709 .nph_scrl .nph_btn_rt{background: none;}
+#atlas_house1436176174709 .nph_scrl .nph_btn_bd span {
+  background: none;
+  margin: 0;
+}
+#atlas_house1436176174709 .nph_list_thumb li {
+  padding: 0 1px;
+  width: 81px;
+}
+#atlas_house1436176174709 .nph_list_thumb li a,
+#atlas_house1436176174709 .nph_list_thumb li img {
+  width: 77px;
+  height: 73px;
+}
+#atlas_house1436176174709 .nph_list_thumb .nph_list_active a {
+  border: 2px solid #F9DF53;
+}
+#atlas_house1436176174709 .nph_scrl_prev,
+#atlas_house1436176174709 .nph_scrl_next {
+  display: none;
+}
+#atlas_house1436176174709 .house_msg {
+  width: 100%;
+  padding: 0;
+}
+#atlas_house1436176174709 .house_msg .msg_title {
+  float: left;
+  width: 337px;
+  border-right: 1px dotted #666666;
+  padding-right: 10px;
+}
+#atlas_house1436176174709 .house_msg .title_ch {
+  color: #252525;
+  font-size: 18px;
+  text-decoration: none;
+  text-indent: 0;
+}
+#atlas_house1436176174709 .house_msg .title_ch a {
+  text-decoration: none;
+  color: #252525;
+  font-weight: bold;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+}
+#atlas_house1436176174709 .house_msg .title_en {
+  padding-left: 20px;
+  background: url(http://img1.cache.netease.com/f2e/zc/web/images/address_tip.png) no-repeat;
+  font-size: 14px;
+  height: 20px;
+  line-height: 23px;
+  text-indent: 0;
+}
+#atlas_house1436176174709 .house_msg .title_en a {
+  text-decoration: none;
+  color: #6e6e6e;
+}
+#atlas_house1436176174709 .house_msg a:hover {
+  text-decoration: underline;
+}
+#atlas_house1436176174709 .house_msg p {
+  margin: 5px 0;
+}
+#atlas_house1436176174709 .house_msg .msg_other {
+  height: 25px;
+  line-height: 25px;
+  margin-top: 30px;
+}
+#atlas_house1436176174709 .house_msg .msg_other .rate_price {
+  display: inline-block;
+  float: left;
+  height: 25px;
+  color: #fff;
+  padding: 0 15px;
+  background: #514947;
+  font-size: 12px;
+  font-weight: bold;
+}
+#atlas_house1436176174709 .house_msg .msg_other .phone_tip {
+  display: inline-block;
+  color: #6e6e6e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+  margin-left: 10px;
+}
+#atlas_house1436176174709 .house_msg .msg_other .phone_num {
+  display: inline-block;
+  color: #77491e;
+  font-family: "MicroSoft YaHei", SimSun, Arial;
+  font-size: 14px;
+}
+#atlas_house1436176174709 .house_msg .msg_map {
+  float: left;
+  width: 215px;
+  padding-left: 17px;
+  position: relative;
+}
+#atlas_house1436176174709 .house_msg .msg_map .aticle_map_marker {
+  position: absolute;
+  width: 45px;
+  height: 39px;color:#514947;
+  
+  top: 18px;
+  left: 102px;
+}
+#atlas_house1436176174709 .nph_photo_ctrl a{
+   color:#514947;
+   text-decoration:none;
+}
+#atlas_house1436176174709 .share_title{color:#514947;font-size:12px;text-decoration:none;line-height:13px;}
+#atlas_house1436176174709 .nph-share-top{line-height:12px;}
+
+
+
+
+
+
+
+搜索图片
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+找到相关图片（共张）
+未找到相关图片
+
+
+
+
+
+
+3室2.0浴
+140.0 ㎡
+
+/31
+（共31张）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176306885.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176306885.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176307341.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176307341.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176307743.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176307743.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176309189.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176309189.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176309471.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176309471.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176309835.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176309835.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176311556.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176311556.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176312106.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176312106.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176312105.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176312105.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176313508.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176313508.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176315436.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176315436.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176314694.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176314694.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176315844.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176315844.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176318116.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176318116.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176318674.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176318674.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176318740.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176318740.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176320101.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176320101.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176320630.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176320630.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176321467.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176321467.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176322225.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176322225.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176322785.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176322785.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176323615.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176323615.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176324311.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176324311.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176324708.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176324708.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176325484.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176325484.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176326306.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176326306.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176326917.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176326917.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176800390.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176800390.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436176801284.jpg
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436176801284.jpg
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436177892829.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436177892829.png
+			
+						
+			
+			Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+			http://img2.cache.netease.com/photo/0100/world_estate/ori_1436177893654.png
+			http://img2.cache.netease.com/photo/0100/world_estate/con_100x751436177893654.png
+			
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库
+ 19022 Grand Vista Springs Blvd Richmond, Houston
+, TX
+, 77407 
+
+
+200000
+详情咨询
+4008163163 - 47610
+
+
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#atlas_house1436176174709 .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();
+
+
+
+
+ |  网易海外置业
+
+分享到
+
+
+新浪微博
+腾讯空间
+人人网
+有道云笔记
+
+
+
+
+
+
+
+	NTES.ready(function ($) { new nph_house.Gallery({ sn: "1436176174709" ,title: 'Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库'}); });
+	var keyList = [
+            "AkdYVZUuztjxuobU8T8bkkei1Jh8qLT4UB2OqgwWBF_1bTqEkEH7kfv1su-pXY9X",
+            "Ait7fgxjy4kTRgfTtgjEbM2Jq-TnjNV1OC9HEP-Nsha7nHXymNvY13o0OJV1delC",
+            "AnvTBwaeHn8nyEouAtJFsWhrJ8d2hZL5xEFbbGQomRt4wrIKIxaDznIuMmKST_KK"
+        ];
+	var randomIndex = Math.floor(Math.random() * keyList.length);
+	
+	document.getElementById("aticle_house_map1436176174709").src = "http://dev.virtualearth.net/REST/v1/Imagery/Map/Road/29.7604267,-95.3698028/9?mapSize=215,111&format=jpeg&centerPoint=29.7604267,-95.3698028&key="+keyList[randomIndex];
+	window._ntshare2 && new window._ntshare2("#nph_share1436176174709", {
+    url: document.location.href,
+    title: document.title,
+    summary: "Grand Vista维斯塔豪园独栋别墅  Breckenridge 3房2卫双车库",
+    pic: function() { return $('#photo1436176174709').attr('src'); },
+    t163: {
+        source: encodeURIComponent("网易图片库"),
+        title: encodeURIComponent(document.title),
+        link: encodeURIComponent(document.location.href),
+        check1stImg: false,
+        togImg: true,
+        method: 'click',
+        keyfrom: 'share163tu.click',
+        images: function() { return $('#photo1436176174709').attr('src'); }
+    }
+});
+
+
+
+.post_vhouse_relation_box{
+	overflow: hidden;
+	width: 580px;
+	border-top:1px solid #514947;
+	text-align: left;
+	margin-bottom: 10px;
+}
+.post_vhouse_relation_box h2{
+	height: 34px;
+	overflow: hidden;
+	padding-bottom: 10px;
+}
+.vhouse_relation_logo{
+	float: left;
+	width: 124px;
+	height: 34px;
+	background: url(http://img5.cache.netease.com/education/2014/4/9/2014040912110996e68.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999em;
+}
+.vhouse_relation_hdtext{
+	font-family: 'Microsoft YaHei';
+	font-size: 16px;
+	color: #252525;
+	float: left;
+	line-height: 34px;
+	padding-left: 8px;
+}
+.vhouse_relation_list_con{
+	width: 580px;
+	overflow:hidden;
+}
+.vhouse_relation_list{
+	width: 620px;
+	line-height: 20px !important;
+}
+.vhouse_relation_list li{
+	width: 270px;
+	float: left;
+	margin-right:40px;
+	margin-top: 30px;
+}
+.vhouse_relation_list a,.vhouse_relation_list a:visited{
+	color: #252525 !important;
+}
+.vhouse_relation_list .pic_link{
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	margin-right: 11px;
+}
+.vhouse_relation_list img{
+	height: 80px;
+}
+.vhouse_relation_list h3{
+	margin-bottom: 8px;
+}
+.vhouse_relation_list h3 em{
+	display: block;
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-bottom: 14px;
+}
+.vhouse_relation_list h3 a{
+	display: block;
+	font-size: 14px;
+	width: 170px;
+	height: 20px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	text-decoration:none !important;
+}
+.vhouse_relation_list h3 a:hover{
+	text-decoration:underline !important;
+}
+.vhouse_relation_list p{
+	margin: 0px !important;
+	font-size: 12px !important;
+	text-indent: 0em !important;
+}
+.vhouse_relation_list .price{
+	font-size: 12px;
+	font-weight: bold;
+	color: #c97f00;
+}
+
+
+网易海外置业相关房源
+
+
+ 
+TOP 1美国休斯敦国王谷全新高尔夫球独栋精装独栋别墅
+ 1240680
+
+
+ 
+TOP 2CypressPARK CREEK休斯敦溪谷公园独栋别墅 Newcastle 4房3卫双车库
+ 200000
+
+
+ 
+TOP 3CypressPARK CREEK休斯敦溪谷公园独栋别墅 Oakdale 4房3卫双车库
+ 200000
+
+
+ 
+TOP 4CypressPARK CREEK休斯敦溪谷公园独栋别墅 Heatherwood 3房2卫双车库
+ 200000
+
+
+
+
+
+
+
+//房源货币转换
+(function(){
+	var NEecRate;
+	function exRatePrice(p){
+		var n = parseInt(p);
+		if(n>=10000 && n<100000000){
+			return Math.floor(n/10000) + "万";
+		}else if(n>=100000000){
+			return Math.floor(n/100000000) + "亿";
+		}else{
+			return n.toFixed(0);
+		}
+	}
+	//处理泰铢与其他货币的兑换
+	function fixTHB() {
+		var typeList = [
+			["美元", "USD"],
+			["欧元", "EUR"],
+			["日元", "JPY"],
+			["澳元", "AUD"],
+			["英镑", "GBP"],
+			["加元", "CAD"],
+			["新西兰元", "NZD"]
+		];
+		function getRate(type) {
+			var rate;
+			NE.array.each(NEecRate.exchangeRateList, function(i, item){
+				if(item.symbol == type) {
+					rate = item.rate;
+					return false;
+				}
+			});
+			return rate;
+		}
+		var thbcny = getRate("THBCNY");
+		var cnythb = getRate("CNYTHB");
+		var todo = [];
+		NE.array.each(typeList, function(i, item){
+			if(!item) return true;
+			var type = item[1];
+			
+			//其他货币 > 兑人民币 > 兑泰铢
+			todo.push({
+				"name": item[0] + "泰铢",
+				"rate": (getRate(type + "CNY") * cnythb).toFixed(4),
+				"symbol": type + "THB"
+			});
+			//泰铢 > 兑人民币 > 兑其他货币
+			todo.push({
+				"name": "泰铢" + item[0],
+				"rate": (getRate("CNY" + type) * thbcny).toFixed(4),
+				"symbol": "THB" + type
+			});
+		});
+		NEecRate.exchangeRateList = NEecRate.exchangeRateList.concat(todo);
+	}
+	function exchangeRateCallback(data) {
+		var twocurrency = "CNY",
+		name = "人民币",
+		ratePrice;
+		NEecRate = data;
+		fixTHB();
+		NE("#post_vhouse_relation_box .rate_price").each(function(i, item){
+			var price = parseInt(this.innerHTML);
+			var currencyName = this.getAttribute("_currencyName");
+			var result = 0;
+			NE.array.each(NEecRate.exchangeRateList, function(n, list){
+				if(list.symbol == currencyName+twocurrency){
+					result = price * list.rate;
+				}
+				if(currencyName == twocurrency){
+					result = price;
+				}
+			});
+			if(result > 0) {
+				this.innerHTML = "约" + exRatePrice(result) + name;
+				this.style.display = "block";
+			}
+		});
+	}
+	NTES.ajax.importJs(
+		"http://img1.cache.netease.com/f2e/lib/js/ne.js",
+		function(){
+			NE.load.jsonp({
+			    url: "http://vhouse.163.com/exchangeRate.do"
+			}, exchangeRateCallback);
+		},
+		"utf-8"
+	);
+})();

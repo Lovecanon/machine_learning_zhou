@@ -1,0 +1,57 @@
+黄毅清自述带走女儿真相：我要拯救我的孩子_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/B/3/VBCU9N2B3.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/21/vsrJz8783/SD/vsrJz8783-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+黄毅清发与女儿相聚视频
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月21日报道 21日13时，黄毅清在微博发布一篇长微博讲述自己带走女儿铛铛的全部过程和原因，黄毅清在文中提到因为女儿被妈妈打，哀求和爸爸一起走，才不顾那么多，踏上了走向幸福的坎坷旅途。之后黄毅清为了证明自己所说为真，还特别加上了一段旧视频，证明孩子在两岁十个月与自己相聚的时候就相当依恋自己，甚至明确表示要跟着父亲一起去机场。黄奕曾指出其前夫黄毅清教女儿说谎，利用孩子纯洁的心灵，卑鄙无耻，不配做一名父亲。随后还获得马伊�、秦岚等人的支持。不少网友见状仍表示：“当家长的不管事实对错，总拿孩子当借口，实在是在太过分了！”微博原文：2014.07.05借口说带孩子逛街，一去不返。2015.09.19在法院的规定下，相隔长达一年多终于相见（每个月第三周的周六，9点接当天19点送回）过程省略100万字。每个月来回三千公里风雨无阻坐飞机，只是为了与女儿能团聚少的可怜的10小时！还不算暴雪天气航班无限期的延误和取消，对于一个父亲来说，特别是冬天暴雪天一到，一旦非人为原因耽误了，就几乎等于这个月就毁了，必须等到下个月才能抓紧机会了！其间黄奕带女儿返回上海数次，身处上海的父亲均毫不知情！白白失去多次见面的机会！2016.01.16照惯例满心期待隔天便已早早到达了北京，激动的一夜失眠，等，等，等，等……在沙发上抱着手机看着女儿照片视频等到睡着，一睁开眼，已是下午一点半，联络到黄继母被告知带宝宝去拍照了，等一下就来。接下来的每一分钟都像一年般漫长……30天才一次，一年12次的见面机会，即便如此都要残忍剥夺！…15:40左右，孩子送来了。此时距离送回孩子只剩下短短3小时。看到了脸上一块淤青便询问阿姨，被告知是虫子咬的，孩子自己抓的，当时并没有在意……阿姨离开15分钟左右，跟孩子嬉闹时再一次随口询问了脸上怎么回事，却听到了断断续续截然不同的答案，亲口告诉我，是被妈妈打的……终于，孩子可怜苦楚的神情，伴随着口中不断重复让爸爸带她一起走的哀求，击溃了作为父亲内心的最后一道防线，一切原本为了和睦的忍耐都已经被撕得粉碎，我顾不上那么多了，我是父亲，我是有血有肉的人！去他妈的法律，去他妈的规定，去他妈的折磨，我要拯救我的孩子！！于是带着每次见女儿都习惯会携带着的证件、出生证明等，毅然踏上了走向幸福的坎坷旅途。那些最煎熬的路，都独自走过了；最艰辛的岁月，都独自忍受了；未来的路，父女皆行……难？能有多难？一个为了女儿敢什么都不要了父亲，一个从小到大都搂着爸爸不愿松手的小女娃，能团聚便是幸福，还有什么是不值得去尝试的？！
+
+ 
+隔天，新闻里看到了黄奕的朋友圈，她在一个早已经把我拉黑屏蔽了的朋友圈里“苦苦哀求”还给她孩子……呵。对法院规定每月探视10小时被故意拖延了近7小时只字不提，反倒说成了是我临时要探望，好似是我利用了她对我的信任一般……她说外面暴风雪，明明知道暴风雪，还把每个月千里迢迢赶来只为和宝宝相聚的10小时给故意拖延了7个小时……因为，现在宝宝已经会只字片语的表达了，怕宝宝把受伤的真相说出来，这就是拖延时间的真相。女性光环被某人利用得淋漓尽致。她着急的不是孩子，未满月就断奶，从未哄过孩子睡过一次觉……她着急的不是孩子，她着急自己的洗白工具没了，着急自己的贴牌“自创品牌”无法宣传了，才是真正想法。我这种个性的人注定无法获得所有人的掌声，我羡慕许多八面玲珑的人，我学不来四处圆滑做人，所以我的朋友，只剩下全部都是肝胆相照的真心朋友了。
+
+ 本文来源：网易娱乐  
+责任编辑：陈恺_NK4686

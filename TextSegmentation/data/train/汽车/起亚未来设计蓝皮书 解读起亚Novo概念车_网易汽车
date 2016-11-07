@@ -1,0 +1,55 @@
+起亚未来设计蓝皮书 解读起亚Novo概念车_网易汽车
+2016年CES消费展，起亚带来了Novo概念车以及全新的自动驾驶技术Drive Wise。究竟，未来的起亚K3究竟有哪些亮点设计？其自动驾驶又有什么独到之处？让我们一起去翻看一下这本“蓝皮书”！
+版权声明：本文版权为网易汽车所有，转载请注明出处。网易汽车1月8日报道 2016国际消费类电子产品展览会（简称“CES”）在美国拉斯维加斯盛大举行，起亚携旗下全新的概念车Novo fastback亮相，作为一款明确不会被量产的概念车，是为其未来紧凑型级家族（K3、赛拉图等）的设计展现一些新概念。同时，发布了全新的Drive Wise自动驾驶汽车品牌，它将是未来15年起亚先进的驾驶辅助系统。未来的起亚K3究竟有哪些亮点设计？起亚的自动驾驶又有什么独到之处？让我们一起去翻看一下这本“蓝皮书”！● 或为未来K3的设计蓝本● 激光大灯被起亚启用！● 自适应凹陷概念轮胎（轮胎也要玩概念）
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/7/A/VBBSABR7A.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/07/OCnRp1735/SD/OCnRp1735-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+起亚Novo概念车亮相
+（来源：网易汽车）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+20英寸的钻石切割式的双色轮圈同样视觉效果出色。轮胎方面，起亚Novo概念车采用了一款自适应凹陷概念轮胎，轮胎中间凹陷进去时，只有两侧边缘与地面接触，降低滚阻，提升燃油经济性。如今，轮胎也要开始玩概念，创新意识的确可以给个“赞”!
+
+ 本文来源：网易汽车  作者：武岳
+责任编辑：武岳_NA4493

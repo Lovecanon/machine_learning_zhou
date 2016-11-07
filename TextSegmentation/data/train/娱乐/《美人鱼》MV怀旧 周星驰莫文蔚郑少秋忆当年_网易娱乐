@@ -1,0 +1,70 @@
+《美人鱼》MV怀旧 周星驰莫文蔚郑少秋忆当年_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/A/9/VBCMHTBA9.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/18/hPQTr8977/SD/hPQTr8977-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+电影《美人鱼》宣传曲《世间始终你好》
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+网易娱乐1月18日报道(文/王梅 图/春哥) 周星驰新作《美人鱼》主题曲《世间始终你好》MV1月18日在京发布。现场不仅首度曝光了主题曲MV，周星驰更携歌曲演唱者莫文蔚、郑少秋同台亮相，三人还一同回忆了往昔的作品，以及三人的合作经历。星爷和莫文蔚更是合作七次之多。谈及选老歌作为主题曲，星爷称一则因为这首歌自己一直以来都很喜爱，另外歌曲里有符合影片的武侠和情感元素。现场星爷更赠送莫、郑二人特别制作的“半人半鱼”模型与“香帅无敌”鱼尾扇，追溯“始终你好”渊源。主演林允也称，自己在电影中也有演唱该曲。
+《始终你好》发布成热门
+此前《世间始终你好》音频发出，便成了热门话题，在微博的阅读量超4500多万，引起6万多人的讨论。而莫文蔚与多年未曾开嗓的郑少秋的首次合作，除了满足星爷的愿望外，也让影迷一饱耳福。现场首度播放了《美人鱼》宣传曲《世间始终你好》的MV，三人录歌互动画面也随即曝光：莫文蔚郑少秋且歌且舞，星爷更在旁全程“陪唱”，认真十足。情到深处三人更是手舞足蹈互动频频，展现默契。莫文蔚表示，从来没有导演会这样在录音棚里蹦蹦跳跳，而郑少秋则补充，要是“换做别人在旁边这么干扰，我就把他赶出去。”足见星爷魅力爆表。
+作为经典粤语歌，《世间始终你好》传唱度极高，周星驰、莫文蔚、郑少秋三人更是承载了几代人关于影视歌的记忆。如此经典遇经典的搭配，可谓唤起全民情怀。被问及为何选择这首歌时，周星驰导演表示：“我特别喜欢老歌。这首歌第一个元素是武侠，第二个就是感情。”至于为何请出莫文蔚与郑少秋搭配，周星驰坦言歌名代表一切：“看来看去，最后都是你们最好！”更表示：“原版武侠的情绪强，而莫文蔚与郑少秋的版本，感情上更加强，更有美人鱼的味道。”莫文蔚则爆料：“我一口答应了。当然必须找我！没有另外的选择。”郑少秋更透露：“很简单一句话，因为我太太跟女儿都是他的影迷。我的女儿为了看他的戏，从沙发上笑到地上。我也是他的影迷，他就像个很神奇的大厨，把各种配菜在一起，都有新的味道。”
+提及与莫文蔚的首度合作，郑少秋则表示：“我的女儿之前跟我说她唱得很好听。但这一首歌，是大侠歌了，她也拿捏得那么豪气，很多深情都唱出来了。”这首《世间始终你好》MV中，三人载歌载舞的状态让人感受到不一样的欢乐温馨，莫文蔚笑称：“其他的导演录歌时候都不敢这样的。” 秋官更接着说：“其他导演这样录歌我就踢出去了，但星爷整首歌就一直‘呼哈’！整个气势就出来了。”
+莫文蔚“至尊宝情结”深
+在发布会现场，星爷也回顾了与莫、郑二人的合作渊源。曾与星爷有过《大话西游》、《食神》、《喜剧之王》等7次经典合作的莫文蔚，这次与星爷是时隔15年后再携手。莫文蔚表示：“年轻的时候与他合作，什么都不怕，是非常难得的经历。当然没有他的电影，我也不会有今天。只是到现在还有很多人都以为我的牙就是《食神》里边那样。” 回忆起周星驰对自己演艺事业的影响，她表示：“我当年也唱过周星驰电影中的歌，也因此让我的歌唱事业有了发展。周星驰是我的贵人。” 周星驰则回敬称：“莫文蔚越来越有味道，越来越漂亮了。”谈起自己的“至尊宝情结”，莫文蔚坦言至尊宝和《大话西游》在自己的心目中地位极高，对自己演艺事业影响很大：“可能在我的血液里，还一直留有一点白晶晶的东西。”
+至于秋官，让人惊讶的是他与周星驰导演的合作渊源更要久远，发布会现场也播放了28年前周星驰与郑少秋在电视剧《大都会》中的对手戏片段。两人当年演的是一对“极恶父子”，彼时所扮演的反面角色也让二人在现场频频发笑，更爆料当年不为人知的合作趣事。郑少秋回忆：“那个时候他对演出就很认真。我记得在机场拍最后一场戏，机场就要赶人了。但他就要在电梯口研究自己怎么样死的戏。后来就决定死在电梯门口中间，就要身体不断被门撞的效果。” 周星驰则打趣：“秋哥说你死来死去都死不了啊，那我先收工了。”并且深情对秋官致敬：“其实在演技上，秋哥也是我的启蒙老师。他跟我说，你千万不要学我，要有自己的风格。”
+星爷送“豪礼”引发全场欢呼
+此外，MV的画面也显示，这一次秋官会以特别的方式出现在《美人鱼》中，与周星驰再度实现一次电影上的另类合作。周星驰也爆料称：“反正就是电影中可以看到秋官。”为感怀“情和义，值千金”的多年情谊，周星驰导演也特别在现场赠送了莫文蔚和郑少秋两件专门定制的礼物：一人高的“半人半鱼”模型，一把写有“香帅无敌”的鱼尾形扇子。莫文蔚现场更兴奋地搭配人鱼大摆Pose，并表示会给这位“美人鱼先生”多买张机票。同时周星驰亦表示郑少秋在自己心目中就是楚留香的代名词，“香帅无敌”方能表达对这位男神的敬仰之情。
+
+
+ 
+此次发布会上，作为新一任“星女郎”的林允亦再次现身。谈及在18岁的年纪就能出演周星驰的电影，她表示“很幸运，压力也很大。但能和如此多的前辈合作，学到了很多。”MV画面中也显示出林允与邓超在《美人鱼》中也有演唱《世间始终你好》。林允回忆拍摄时：“工作时大家都很认真，都是很紧张。”周星驰：“看着新人从没有经验到接触到演戏，过程是困难的，而这个角色其实很难的。但是出来的效果是最棒的。我们都是要通过很困难的过程，达到最好的效果。包括莫文蔚当年，拍第一个电影的时候也是这样。”
+除重磅主题曲外，细数《美人鱼》先后现身的一众明星，除邓超、罗志祥、张雨绮、林允四位主演外，更有吴亦凡、李尚正、白客、孔连顺、田启文以及“人鱼大叔”杨能、“四大美女”之首张美娥等人。
+周星驰力作《美人鱼》上映日期逐渐临近，即将于2月8日大年初一贺岁上映，届时将以2D、3D的格式登陆全国各大院线。
+
+ 本文来源：网易娱乐专稿  
+责任编辑：吴沁_NK3124

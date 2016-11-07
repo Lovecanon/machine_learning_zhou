@@ -1,0 +1,57 @@
+《蒸发太平洋》发海报 空姐影城上演制服诱惑_网易娱乐
+
+
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/Q/6/VBD82INQ6.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/25/SOtry6843/SD/SOtry6843-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+《蒸发太平洋》曝主题曲MV
+（来源：网易视频）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易娱乐1月25日报道 迪克牛仔倾情献唱《蒸发太平洋》骇浪版海报惊心动魄！由北京星美影视发行有限公司发行的国际硬科幻巨制《蒸发太平洋》近日同时曝光了主题曲MV和骇浪版海报。该主题曲是迪克牛仔隐退三年复出之后的首部作品，由《蒸发太平洋》导演周文武贝亲自填词完成。MV中重型机枪疯狂扫射、豪华客机迫降航母等惊险刺激的画面令人热血沸腾，与振奋人心的主题曲相得益彰。而骇浪版海报中汹涌的海面、爆裂的航母、摇摇欲坠的客机以及通天火光的背景也极具视觉张力。迪克牛仔倾情献唱 主题曲MV险象环生《蒸发太平洋》主题曲由迪克牛仔倾情献唱，他用沉稳沧桑的嗓音诠释出影片独特的科幻和冒险主题。虽然曲风温暖动人，MV中的画面却显得非常惊心：豪华客机迫降航母、神秘特工持枪威胁、“超人”与特工肉搏战等惊险片段，都危险重重扣人心弦，也再次向观众展现了几位主演在影片中的危险处境。除了紧张的快节奏画面，视频中社会名流走红毯、音乐家机舱中演奏大提琴、以及张雨绮、蒋梦婕等主演温暖微笑的画面也穿插其中，使得视频节奏更加张弛有度，令人不禁开始好奇影片的精彩故事。据片方介绍，MV中展示的只是影片的冰山一角，影片中还有更多震撼人心的精彩。“之所以邀请迪克牛仔也是因为他洒脱率性的曲风与《蒸发太平洋》中科幻冒险的元素会产生奇妙的化学反应，同时他带有一丝温暖的声线，也让观众感受到影片中暗藏的希望和正能量。”骇浪版海报惊心动魄 60家影城同时路演送温暖
+
+ 
+片方同时曝光的骇浪版海报也令观众感受到影片中隐藏的危机和恐惧。一眼望去，画面中满是火光，滚滚的浓烟几乎吞噬了巨型航母，右侧出现的怪兽的巨大爪印尤为醒目，不仅如此，翻滚的海浪也令残缺不全的航母看起来更加危险。上方的豪华客机也“身受重伤”，随时都有坠落的危险。一艘爆裂的航母，一架摇摇欲坠的的豪华客机，脚底是无边无际的汪洋，丝毫看不出有任何生机。如此危机四伏的画面也将观众提前带入到影片的紧张气氛，更加期待电影上映。近日，《蒸发太平洋》在全国北京、上海、长春、济南、海口等60家影城同时开启路演活动。数十位靓丽“空姐”和帅气的“机长”在影院为观众发放传单，鲜亮的笑容和制服诱惑也为寒冬带来一丝热情。《蒸发太平洋》由周文武贝执导，张雨绮、布兰登・罗斯、蒋梦婕、王阳明、王盛德、廖碧儿、戴向宇、于咏琳主演，即将于1月29日震撼上映。
+
+ 本文来源：网易娱乐  
+责任编辑：杜嘉悦_NK6020

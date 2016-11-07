@@ -1,0 +1,55 @@
+林心如：男女应有平等的竞争空间_网易女人
+2015女性传媒大奖，“年度影响力女性”奖获得者林心如与大家畅谈她的2015年。
+#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/1/S/F/VBCQ3ECSF.jpg">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1601/19/NMwLc8102/SD/NMwLc8102-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+林心如：男女应有平等的竞争空间
+（来源：网易女人）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+网易女人：心如你好，首先跟网易网友打个招呼吧。林心如：Hello各位网易的网友大家好，我是林心如。网易女人：这次参加女性传媒大奖2015，您的感受怎么样？林心如：非常荣幸来参加这个奖，也让我见到了社会各界很多非常优秀的女性。网易女人：我们网易女性传媒大奖一直倡导性别平等，在性别平等这方面您有什么自己的观点？林心如：其实我觉得性别平等不见得只是在家庭分工这方面，我觉得应该是在面对很多机会的时候大家是平等的，有平等的竞争空间和各种机会。网易女人：您个人平时是一个性别意识比较强的人吗？林心如：其实我觉得作为女性有好处，你既可以要求性别平等，但因为是女人，你又可以刚中带柔，可以以很柔软的一面，去面对各式各样的问题。网易女人：这次获得我们的奖项名称是“年度影响力女性奖”，对这个奖项您怎么看？林心如：我觉得这个奖项更多是一个责任吧，毕竟是“影响力”（的奖项），自己自身就要做得更好，不只是在工作上，在生活上，都希望自己可以做一个很好的榜样，借由自己可以影响到更多人，不管是男性还是女性，可以树立很好的榜样让他们学习。网易女人：从演员到制片人，有了自己的工作室，在不同身份的角色转化上您所做的让大家觉得很棒，能不能给女性朋友们一些好的建议和想法？林心如：其实我觉得不管做什么工作，就要勇于接受更多挑战，不要因为害怕失败而退缩，遇到问题就解决问题，因为如果你不尝试，不跨出那一步，你永远不知道你能做到多少，所以对我而言，我觉得是正面迎接各种挑战，尽力把它做到最好吧。网易女人：2015年已经结束了，回顾这一年，对您个人来说印象最深的工作和其它方面有没有值得分享的？
+ 
+林心如：其实2015年这一整年可以说过得非常忙碌，但很充实，虽然只拍了两部电影，但有各式各样的工作，也去了很多国家，有工作的、有旅游的，我觉得增长了很多见识吧，也增加了很多新的经验，我个人觉得还蛮开心的。网易女人：新的一年什么样的期待和计划吗？林心如：2016年的工作也算蛮充实的，马上要进组拍戏了，工作室也有很多项目陆续都会执行，新的东西会开发，所以其实我还蛮期待2016年的到来。网易女人：2016是值得期待的一年。林心如：我觉得每一年、每一个明天都是值得期待的。网易女人：春节马上就要到了，给我们的网易网友送一下祝福吧。林心如：在这里要祝各位网易网友们都可以新春愉快，猴年行大运。网易女人：谢谢。
+
+ 本文来源：网易女人  
+责任编辑：窦静_NQ1627
